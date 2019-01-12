@@ -1,0 +1,162 @@
+/* Reset ---------------------------------------------------------------------*/
+html {
+  background: rgb(252, 252, 252);
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 1.6rem;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Rokkitt";
+}
+
+h1 {
+  font-size: 2.6rem;
+}
+
+h2 {
+  font-size: 2.0rem;
+}
+
+h3 {
+  font-size: 1.8rem;
+}
+
+p, a {
+
+  line-height: 2;
+  font-family: "Open Sans";
+}
+
+ol, ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+/* App Styles ----------------------------------------------------------------*/
+.app {
+  width: 70vw;
+  height: 50vh;
+  background: transparent;
+  position: relative;
+  left: 50vw;
+  transform: translate(-50%, 30%);
+}
+
+.site-title {
+  padding: 0 0 0 1rem;
+  position: relative;
+  border-bottom: 1px solid rgb(230, 230, 230);
+}
+
+.site-title-link {
+  background: rgb(252, 252, 252);
+  z-index: 2;
+  position: relative;
+  padding: 0 1rem 0 1rem;
+  left: -1rem;
+  font-family: "Rokkitt";
+  color: black;
+}
+
+.site-nav,
+.site-content {
+  padding: 1rem;
+  position: relative;
+}
+
+
+/* Header ----------------------------*/
+.site-header {
+  border-bottom: 1px solid rgb(230, 230, 230);
+}
+
+.site-title-link.active {
+  pointer-events: none;
+  cursor: default;
+}
+
+
+/* App Nav --------------------------*/
+.site-nav {
+  width: 100%;
+}
+
+.site-nav-list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-item {
+  display: inline-block;
+}
+
+.nav-item.active a {
+  pointer-events: none;
+  color: black;
+}
+
+
+/* App Content ----------------------*/
+.site-content-title {
+  border-bottom: 1px solid rgb(230, 230, 230);
+  padding: 0 1rem 1rem;
+  margin: 0 -1rem 0;
+}
+
+
+/* Projects Page -------------------------------------------------------------*/
+.projects {
+  display: flex;
+  padding-top: 1rem;
+}
+
+
+/* Projects Nav ---------------------*/
+.projects-nav {
+  flex: none;
+  margin: -1rem 1rem 0 -1rem;
+  padding: 1rem;
+}
+
+.projects-nav-item a {
+}
+
+.projects-nav-item.active a {
+  pointer-events: none;
+  color: black;
+}
+
+
+/* Project ------------------------------------------------------------------ */
+.project {
+  width: 100%;
+  border-left: 1px solid rgba(0, 0, 0, .1);
+  margin: -1.25rem 0 0 0;
+  padding: 1.25rem;
+}

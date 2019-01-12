@@ -1,0 +1,1159 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"console",
+				"console.log\t(image-loader.jsx)"
+			],
+			[
+				"compo",
+				"componentDidMount\t(Idealist.js)"
+			],
+			[
+				"dev",
+				"deviceWidth\t(Idealist.js)"
+			],
+			[
+				"hand",
+				"handleResize"
+			],
+			[
+				"device",
+				"deviceWidth"
+			],
+			[
+				"devi",
+				"deviceWidth"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"options",
+				"options"
+			],
+			[
+				"scrollba",
+				"scrollbarWidth"
+			],
+			[
+				"con",
+				"conl\tconsoleLog"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"list-sty",
+				"list-style-type\tproperty"
+			],
+			[
+				"padding",
+				"padding-right\tproperty"
+			],
+			[
+				"tr",
+				"translate()\ttransform"
+			],
+			[
+				"body",
+				"body-black\t(lib.css)"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"hilights-desk",
+				"hilights-desktop-sitemap.jpg"
+			],
+			[
+				"cu",
+				"currentProject"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"ac",
+				"activeLink"
+			],
+			[
+				"proc",
+				"processLink"
+			],
+			[
+				"projec",
+				"projectsLink"
+			],
+			[
+				"conl",
+				"console"
+			],
+			[
+				"Project",
+				"ProjectSummaries"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"border-top",
+				"border-top-color\tproperty"
+			],
+			[
+				"let",
+				"letter-spacing\tproperty"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"P",
+				"PageWrapper"
+			],
+			[
+				"Page",
+				"PageWrapper\t(App.js)"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"home",
+				"homeContent"
+			],
+			[
+				"ho",
+				"homeContent"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/App.js",
+			"settings":
+			{
+				"buffer_size": 3295,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"css t",
+				"Tidy CSS"
+			],
+			[
+				"css",
+				"Set Syntax: SCSS"
+			],
+			[
+				"lorem",
+				"Add some Lorem Gibson"
+			],
+			[
+				"emm",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"syn",
+				"Syntax Manager: Edit Settings"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"color sch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"co",
+				"Color Picker"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"lore",
+				"LoremIpsum: (200) stick shake"
+			],
+			[
+				"hipster ip",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				"ho",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 218.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/joshuar/Projects/jr-xviii-v-nested",
+		"/Users/joshuar/Projects/jr-xviii-v-nested/public",
+		"/Users/joshuar/Projects/jr-xviii-v-nested/src"
+	],
+	"file_history":
+	[
+		"/Users/joshuar/Projects/jr-xviii-ii/snippets/nested-routes-example.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/components/project.jsx",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/pages/Projects.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/node_modules/react-static/examples/styled-jsx/src/containers/Home.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/pages/Contact.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/pages/Process.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/components/page-wrapper.jsx",
+		"/Users/joshuar/Projects/temp/code-challenge-react/package.json",
+		"/Users/joshuar/Projects/jr-xviii-ii/package.json",
+		"/Users/joshuar/Projects/jr-xviii-ii/snippets/routes",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/reset.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/elements/fonts.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/elements/type.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/components/footer.jsx",
+		"/Users/joshuar/Projects/jr-xviii-ii/static.config.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/components/header.jsx",
+		"/Users/joshuar/Projects/jr-xviii-v-nested/jr-v-nested-sublime-project",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/App.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/.stylelintrc",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/projects.css",
+		"/Users/joshuar/Library/Application Support/Firefox/Profiles/b8pcbm1d.default/chrome/userChrome.css",
+		"/chrome/userChrome.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/app.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/pages/projects/Idealist.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/pages/projects/Lumen.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/pages/projects/Hilights.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/data/projects/hilights.json",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/components/react-div-100vh/convertStyle/convertStyle.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/components/device-mocks.jsx",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/components/react-div-100vh/Div100vh.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/components/page-wrapper.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/components/project-summaries.jsx",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/vendor/device-mocks.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/pages/Home.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/.babelrc",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/components/header.css",
+		"/Users/joshuar/.bash_profile",
+		"/Users/joshuar/Projects/jr-xviii-ii/node_modules/react-flex-carousel/index.js",
+		"/Users/joshuar/Projects/react-div-100vh/src/lib/index.jsx",
+		"/Users/joshuar/Projects/jr-xviii-ii/node_modules/react-div-100vh/lib/index.js",
+		"/Users/joshuar/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/components/image-loader.jsx",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/home.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/profile.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/lib.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/snippets/defaultProps.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/snippets/callback refs.js",
+		"/Users/joshuar/Library/Application Support/Sublime Text 3/Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/data/projects/idealist.json",
+		"/Users/joshuar/Projects/jr-xviii-ii/snippets/maps.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/snippets/react get width.jsx",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/components/truncater.jsx",
+		"/Users/joshuar/Projects/jr-xviii-ii/dist/templates/src/pages/Home.bc69bb8e.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/dist/templates/src/pages/.eslintignore",
+		"/Users/joshuar/Projects/jr-xviii-ii/dist/templates/src/pages/Home.bc69bb8e",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/pages/Profile.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/vendor/device/color-variations.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/vendor/device/iphone.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/vendor/minimal-devices.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/vendor/device/shared-structure.css",
+		"/Users/joshuar/Library/Application Support/Sid Meier's Civilization VI/Mods/Yet (not) Another Maps Pack/readme.md",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/vendor/marvel-devices.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/functions/pxtoem.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/functions/w.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/vendor/device/_iphone.scss",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/vendor/device/utilities.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/vendor/device/_utilities.scss",
+		"/Users/joshuar/Projects/jr-xviii-ii/.eslintrc.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/data/projects/index.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/data/projects/lumen.json",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/containers/Project.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/public/admin/config.yml",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/data/idealist.json",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/data/profile.json",
+		"/Users/joshuar/Projects/jr-xviii-ii/snippets/stashjs.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/content/projects/hilights.md",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/content/projects/Hilights.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/vendor/carousel.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/components/footer.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/constants.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/snippets/destructuring",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/layout.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/elements/tooltip.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/elements/logo.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/components/logo.jsx",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/containers/Home.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/img/drop.jpg",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/mixins/helpers.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/functions/h.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/postcss-examples.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/containers/Dev.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/.gitignore",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/css/reset.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/css/lib.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/functions/darken.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/css/postcss-examples.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/containers/About.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/css/elements/logo.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/README.md",
+		"/Users/joshuar/Projects/jr-xviii/node_modules/@babel/helper-module-imports/node_modules/@babel/types/scripts/generateTypeHelpers.js",
+		"/Users/joshuar/Projects/jr-xviii/static.config.js",
+		"/Users/joshuar/Projects/jr-xviii/node_modules/react-static/.history/package_20180530120312.json",
+		"/Users/joshuar/Projects/jr-xv-ii/webpack.config.dev.js",
+		"/Users/joshuar/Projects/jr-xv-ii/package.json",
+		"/Users/joshuar/Projects/jr-xviii/src/prismic/config.js",
+		"/Users/joshuar/Projects/jr-xviii/tmp/dev-server/react-static-routes.js",
+		"/Users/joshuar/Projects/jr-xviii/node_modules/prismic-javascript/README.md",
+		"/Users/joshuar/Projects/jr-xviii/src/containers/Blog.js",
+		"/Users/joshuar/Projects/jr-xviii/src/containers/Post.js"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 125.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"default_dir": "/Users/joshuar/Projects/jr-xviii-ii/snippets",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								190,
+								190
+							]
+						],
+						"settings":
+						{
+							"SL.175.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|dea4cba27bad8a28493f0b6028d6e7398fc8f15fd8777973c6611bcd8eb92a5b|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot"
+							],
+							"SL.262.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|dea4cba27bad8a28493f0b6028d6e7398fc8f15fd8777973c6611bcd8eb92a5b|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot"
+							],
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										189,
+										190
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										178,
+										179
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 168.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jr-v-nested.sublime-project",
+	"replace":
+	{
+		"height": 84.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"projects",
+				"src/pages/Projects.js"
+			],
+			[
+				"pagew",
+				"src/components/page-wrapper.jsx"
+			],
+			[
+				"rese",
+				"src/styles/reset.css"
+			],
+			[
+				"fonts",
+				"src/styles/elements/fonts.css"
+			],
+			[
+				"type",
+				"src/styles/elements/type.css"
+			],
+			[
+				"app",
+				"src/App.js"
+			],
+			[
+				"page",
+				"src/components/page-wrapper.jsx"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"sta",
+				"static.config.js"
+			],
+			[
+				"project",
+				"src/components/project.jsx"
+			],
+			[
+				"hiligh",
+				"src/pages/projects/Hilights.js"
+			],
+			[
+				"LUMEN",
+				"src/pages/projects/Lumen.js"
+			],
+			[
+				"ideal",
+				"src/pages/projects/Idealist.js"
+			],
+			[
+				"proj",
+				"src/styles/projects.css"
+			],
+			[
+				"device",
+				"src/styles/vendor/device-mocks.css"
+			],
+			[
+				"proje",
+				"src/components/project-summaries.jsx"
+			],
+			[
+				"stat",
+				"static.config.js"
+			],
+			[
+				"header",
+				"src/components/header.jsx"
+			],
+			[
+				"home",
+				"src/pages/Home.js"
+			],
+			[
+				"idea",
+				"src/pages/projects/Idealist.js"
+			],
+			[
+				"stati",
+				"static.config.js"
+			],
+			[
+				"page-",
+				"src/styles/components/page-wrapper.css"
+			],
+			[
+				"hom",
+				"src/pages/Home.js"
+			],
+			[
+				"react-flex-carousel",
+				"node_modules/react-flex-carousel/index.js"
+			],
+			[
+				"ap",
+				"src/App.js"
+			],
+			[
+				"ty",
+				"src/styles/elements/type.css"
+			],
+			[
+				"pro",
+				"src/styles/projects.css"
+			],
+			[
+				"call",
+				"snippets/callback refs.js"
+			],
+			[
+				"devi",
+				"src/styles/vendor/device-mocks.css"
+			],
+			[
+				"devo",
+				"src/components/device-mocks.jsx"
+			],
+			[
+				"project-summaries",
+				"src/components/project-summaries.jsx"
+			],
+			[
+				"idealist",
+				"src/data/projects/idealist.json"
+			],
+			[
+				"roject",
+				"src/components/project.jsx"
+			],
+			[
+				"BABELR",
+				".babelrc"
+			],
+			[
+				"STAT",
+				"static.config.js"
+			],
+			[
+				"CAROUSEL flex index.",
+				"node_modules/react-flex-carousel/index.js"
+			],
+			[
+				"tr",
+				"src/components/truncater.jsx"
+			],
+			[
+				"prof",
+				"src/pages/Profile.js"
+			],
+			[
+				"tru",
+				"src/components/truncater.jsx"
+			],
+			[
+				"trun",
+				"src/components/truncater.jsx"
+			],
+			[
+				"profi",
+				"src/pages/Profile.js"
+			],
+			[
+				"shared-structure",
+				"src/styles/vendor/device/shared-structure.css"
+			],
+			[
+				"lib",
+				"src/styles/lib.css"
+			],
+			[
+				"reset",
+				"src/styles/reset.css"
+			],
+			[
+				"static",
+				"static.config.js"
+			],
+			[
+				"hili",
+				"src/pages/projects/Hilights.js"
+			],
+			[
+				"ima",
+				"src/components/image-loader.jsx"
+			],
+			[
+				"lumen",
+				"src/data/projects/lumen.json"
+			],
+			[
+				"truncater",
+				"src/components/truncater.jsx"
+			],
+			[
+				"pr",
+				"src/containers/Project.js"
+			],
+			[
+				"summ",
+				"src/components/project-summaries.jsx"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"foo",
+				"src/styles/components/footer.css"
+			],
+			[
+				"car",
+				"src/styles/vendor/carousel.css"
+			],
+			[
+				"hea",
+				"src/components/header.jsx"
+			],
+			[
+				"style",
+				".stylelintrc"
+			],
+			[
+				"ppage",
+				"src/components/page-wrapper.jsx"
+			],
+			[
+				"logo",
+				"src/styles/elements/logo.css"
+			],
+			[
+				"h.",
+				"src/styles/functions/h.js"
+			],
+			[
+				"hipster",
+				"jr-xviii/node_modules/@babel/helper-module-imports/node_modules/@babel/types/scripts/generateTypeHelpers.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projects/jr-xviii-ii/jr-xviii-ii.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
