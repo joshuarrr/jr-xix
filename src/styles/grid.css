@@ -1,0 +1,48 @@
+.grid {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 5fr 1fr;
+  grid-template-rows: 100px 1fr 100px;
+  grid-gap: 3rem;
+   grid-template-areas:
+    "header . controls"
+    "nav main ."
+    "footer . .";
+
+}
+
+.grid > .header,
+.grid > .controls,
+.grid > .nav,
+.grid > .main,
+.grid > .footer {
+  border: 1px dotted rgba(255, 255, 255, .3);
+}
+
+
+/* Grid areas.controls {
+  grid-area: controls;
+}  */
+/* grid-row-start + grid-column-start + grid-row-end + grid-column-end: */
+.header {
+  grid-area: header;
+  background: rgba(100, 0, 0, .5);
+}
+
+.controls {
+  grid-area: controls;
+}
+
+.nav {
+  grid-area: nav;
+}
+
+.main {
+  grid-area: main;
+}
+
+.footer {
+  grid-area: footer;
+}
+

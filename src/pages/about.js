@@ -1,6 +1,7 @@
 import React from 'react'
+//
 
 export default () =>
-  <div>
-    <p>About me.</p>
+  <div className="content">
+    <p>About page.</p>
   </div>

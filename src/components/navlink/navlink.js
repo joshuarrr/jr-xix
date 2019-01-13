@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from '@reach/router'
-
+//
 
 export default (props) =>
   <Link
@@ -10,7 +10,7 @@ export default (props) =>
       // anchor element's props
       return {
         style: {
-          color: isCurrent ? "red" : "blue"
+          color: isCurrent ? "white" :"green"
         }
       };
     }}

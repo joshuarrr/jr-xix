@@ -2,4 +2,4 @@ import React from 'react'
 //
 
 export default () =>
-  <p>code</p>
+  <p>Code page.</p>

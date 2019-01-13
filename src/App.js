@@ -2,14 +2,24 @@ import React from 'react'
 import { Root, Routes } from 'react-static'
 
 // components
-import Nav from './components/nav'
-import './app.css'
+import Header from './components/header/'
+import Footer from './components/footer/'
+import Nav from './components/nav/'
+import Controls from './components/controls/'
 
+// styles
+import './app.css'
+//
 
 export default() =>
   <Root>
+  <div className="grid">
+    <Header />
+    <Controls />
     <Nav />
-    <div className="content">
+    <main className="main">
       <Routes />
-    </div>
+    </main>
+    <Footer />
+  </div>
   </Root>

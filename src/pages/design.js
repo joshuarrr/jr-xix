@@ -1,15 +1,7 @@
-import React, { Component } from 'react'
-import { withRouteData, Head } from 'react-static'
+import React from 'react'
 //
 
-class Design extends Component {
-  render () {
-    // let data = this.props.data
-
-    return(
-      <p>poop</p>
-    )
-  }
-}
-
-export default withRouteData(Design)
+export default () =>
+  <div>
+    <p>Design page</p>
+  </div>

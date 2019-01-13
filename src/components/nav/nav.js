@@ -1,11 +1,13 @@
 import React from 'react'
-import NavLink from './navlink'
+import NavLink from '../navlink/'
 
+// styles
+import './nav.css'
+//
 
 export default () =>
-  <nav>
-    <NavLink to="/">Home</NavLink>
+  <nav className="nav">
+    <NavLink to="/">design</NavLink>
     <NavLink to="/code">code</NavLink>
-    <NavLink to="/design">design</NavLink>
     <NavLink to="/about">about</NavLink>
   </nav>
