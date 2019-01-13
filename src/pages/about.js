@@ -1,7 +1,6 @@
 import React from 'react'
 
-export default () => (
+export default () =>
   <div>
-    <p>React Static is a progressive static site generator for React.</p>
+    <p>About me.</p>
   </div>
-)
