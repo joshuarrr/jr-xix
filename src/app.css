@@ -1,14 +1,15 @@
+/* hi from app.css!*/
 @import './styles/reset.css';
 @import './styles/grid.css';
 
 body {
-  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial,
-    'Lucida Grande', sans-serif;
+  font-family: serif;
   font-weight: 300;
   font-size: 16px;
   margin: 0;
   padding: 0;
-  background: rgba(0, 0, 0, .9);
+  /* background: rgba(0, 0, 0, .9); */
+  background: black(.9);
   color: white;
 }
 

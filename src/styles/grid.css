@@ -10,26 +10,18 @@
     "nav main ."
     "footer . .";
 
+  .header,
+  .controls,
+  .nav,
+  .main,
+  .footer {
+    border: 1px dotted rgba(255, 255, 255, .3);
+  }
 }
 
-.grid > .header,
-.grid > .controls,
-.grid > .nav,
-.grid > .main,
-.grid > .footer {
-  border: 1px dotted rgba(255, 255, 255, .3);
-}
 
 
-/* Grid areas.controls {
-  grid-area: controls;
-}  */
-/* grid-row-start + grid-column-start + grid-row-end + grid-column-end: */
-.header {
-  grid-area: header;
-  background: rgba(100, 0, 0, .5);
-}
-
+/* grid areas */
 .controls {
   grid-area: controls;
 }

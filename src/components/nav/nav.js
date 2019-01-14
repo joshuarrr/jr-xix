@@ -5,9 +5,12 @@ import NavLink from '../navlink/'
 import './nav.css'
 //
 
-export default () =>
-  <nav className="nav">
-    <NavLink to="/">design</NavLink>
-    <NavLink to="/code">code</NavLink>
-    <NavLink to="/about">about</NavLink>
-  </nav>
+export default () => {
+  return (
+    <nav className="nav">
+      <NavLink className="nav-item" to="/">design</NavLink>
+      <NavLink className="nav-item" to="/code">code</NavLink>
+      <NavLink className="nav-item" to="/about">about</NavLink>
+    </nav>
+  )
+}
