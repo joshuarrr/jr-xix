@@ -10,7 +10,7 @@ export default (props) =>
       // anchor element's props
       return {
         style: {
-          color: isCurrent ? "white" :"green"
+          color: isCurrent ? "white" :"#2B876A"
         }
       };
     }}

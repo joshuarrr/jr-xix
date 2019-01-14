@@ -1,7 +1,6 @@
-/*! 🏕 Reset ******************************************************************/
+/* 🏕 Reset ******************************************************************/
 :root {
   box-sizing: border-box;
-  font-size: 62.5%;
 }
 
 * {
@@ -9,22 +8,6 @@
   margin: 0;
   padding: 0;
   box-sizing: inherit;
-}
-
-/* Typography */
-a {
-  text-decoration: none;
-}
-
-a:focus {
-  outline: none;
-}
-
-ul,
-ol {
-  list-style: none;
-  margin: 0;
-  padding: 0;
 }
 
 /* Remove image link borders */
@@ -36,13 +19,14 @@ a img,
 
 /* Selection color  */
 ::-moz-selection {
-  color: $body-black;
-  background: $red;
+  color: rgb(255, 255, 255);
+  background: rgb(255, 255, 255);
 }
 
 ::selection {
-  color: $body-black;
-  background: $red;
+  /* background: rgba(0, 0, 0, .8); */
+  color: rgb(255, 255, 255);
+  background: rgba(255, 255, 255, .25);
 }
 
 /* Mobile */

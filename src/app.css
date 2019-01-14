@@ -1,24 +1,4 @@
-/* hi from app.css!*/
+/* 👩‍💻 App *********************************************************************/
 @import './styles/reset.css';
-@import './styles/grid.css';
-
-body {
-  font-family: serif;
-  font-weight: 300;
-  font-size: 16px;
-  margin: 0;
-  padding: 0;
-  /* background: rgba(0, 0, 0, .9); */
-  background: black(.9);
-  color: white;
-}
-
-a {
-  text-decoration: none;
-  color: green;
-  font-weight: bold;
-}
-
-.main {
-  padding: 1rem;
-}
+@import './styles/type.css';
+@import './styles/layout.css';

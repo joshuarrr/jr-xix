@@ -1,0 +1,56 @@
+/* 📰 Layout ******************************************************************/
+body {
+  background: #1d1e1f;
+  color: white;
+}
+
+.grid {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 5fr 1fr;
+  grid-template-rows: 100px 1fr 100px;
+  grid-gap: 3rem;
+   grid-template-areas:
+    "header . controls"
+    "nav main ."
+    "footer . .";
+}
+
+.grid .header,
+.grid .controls,
+.grid .nav,
+.grid .main,
+.grid .footer {
+  /* show grid borders */
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .1);
+  display: flex;
+}
+
+/* grid areas */
+.header {
+  justify-content: center;
+  align-items:  center;
+}
+
+.controls {
+  grid-area: controls;
+  align-items: center;
+}
+
+.nav {
+  grid-area: nav;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main {
+  grid-area: main;
+  align-items: baseline;
+  padding: 1rem; /* match nav-item */
+}
+
+.footer {
+  grid-area: footer;
+}
+

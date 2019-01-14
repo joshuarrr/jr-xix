@@ -1,5 +1,5 @@
 import React from 'react'
-import { Root, Routes } from 'react-static'
+import { Root, Routes, Head } from 'react-static'
 
 // components
 import Header from './components/header/'
@@ -13,13 +13,16 @@ import './app.css'
 
 export default() =>
   <Root>
-  <div className="grid">
-    <Header />
-    <Controls />
-    <Nav />
-    <main className="main">
-      <Routes />
-    </main>
-    <Footer />
-  </div>
+    <Head>
+      <link rel="stylesheet" href="//brick.freetls.fastly.net/Fira+Mono:400" />
+    </Head>
+    <div className="grid">
+      <Header />
+      <Controls />
+      <Nav />
+      <main className="main">
+        <Routes />
+      </main>
+      <Footer />
+    </div>
   </Root>
