@@ -15,7 +15,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #2B876A;
+  color: #46a789;
 }
 
 a:focus {
@@ -28,3 +28,10 @@ ol {
   margin: 0;
   padding: 0;
 }
+
+h1 {
+font-size: 1.5rem;
+color: #46a789;
+}
+
+

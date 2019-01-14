@@ -1,4 +1,5 @@
 /* 👩‍💻 App *********************************************************************/
 @import './styles/reset.css';
+@import './styles/utility.css';
 @import './styles/type.css';
 @import './styles/layout.css';

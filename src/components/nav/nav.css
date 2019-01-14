@@ -6,4 +6,11 @@
 .nav-item {
   color: white;
   padding: 1rem;
+  transition: color 1s ease-out;
+}
+
+.site-logo-j {
+  width: 7rem;
+  fill: WHITE;
+  /* transform: translateX(5% 5%); */
 }

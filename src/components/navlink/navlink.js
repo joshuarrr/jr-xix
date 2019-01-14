@@ -8,10 +8,15 @@ export default (props) =>
     getProps={({ isCurrent }) => {
       // the object returned here is passed to the
       // anchor element's props
+
       return {
         style: {
-          color: isCurrent ? "white" :"#2B876A"
+          color: isCurrent ? "white" :"#46a789"
         }
       };
     }}
   />
+
+
+      // const xclass =isCurrent ? "current" : null
+      // console.log(xclass)

@@ -3,5 +3,6 @@ import React from 'react'
 
 export default () =>
   <div>
-    <p>Home page.</p>
+    <h1>/* Hilights */</h1>
+    <p>React Native music collaboration app</p>
   </div>

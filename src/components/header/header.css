@@ -1,3 +1,11 @@
 /* 💆🏽‍ Header ******************************************************************/
 /* .header {
 } */
+
+
+
+.site-logo-j {
+  position: absolute;
+  fill: white;
+  transform: translate(-50%, -50%);
+}
