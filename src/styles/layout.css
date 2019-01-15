@@ -17,11 +17,11 @@ body {
     "footer . .";
 }
 
-.grid .header,
-.grid .controls,
-.grid .nav,
-.grid .main,
-.grid .footer {
+.header,
+.controls,
+.nav,
+.main,
+.footer {
   display: flex;
   /* show grid borders */
   /* box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .1); */

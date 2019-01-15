@@ -1,5 +1,7 @@
 .summary {
   margin-bottom: 10vh;
+  top: -1px;
+  position: relative;
 }
 
 .image-holder {
