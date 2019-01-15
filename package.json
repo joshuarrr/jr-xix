@@ -30,7 +30,10 @@
     "react-loader-spinner": "^2.3.0",
     "react-move": "^2.8.0",
     "react-responsive": "^6.0.1",
-    "react-static": "^6.0.18"
+    "react-static": "^6.0.18",
+    "stylelint": "^9.9.0",
+    "stylelint-config-recommended": "^2.1.0",
+    "stylelint-scss": "^3.5.0"
   },
   "devDependencies": {
     "eslint-config-react-tools": "1.x.x",

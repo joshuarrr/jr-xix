@@ -1,3 +1,7 @@
+.projects {
+  max-width: 92rem;
+}
+
 .summary {
   margin-bottom: 10vh;
   top: -1px;
@@ -11,7 +15,7 @@
   padding: 5rem;
   position: relative;
   border: 1px solid #333;
-  transition: border 0.3s ease-in-out;
+  transition: border .3s ease-in-out;
 }
 
 .image-holder:hover {
@@ -29,7 +33,7 @@
   border-radius: 3rem;
   box-shadow: 0 .5vh 2vh 0 rgba(0, 0, 0, .9);
   opacity: 0;
-  transition: opacity 0.3s ease-in-out;
+  transition: opacity .3s ease-in-out;
   z-index: -1;
 }
 

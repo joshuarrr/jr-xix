@@ -1,4 +1,7 @@
 /* 💆🏽‍ Header ******************************************************************/
+.header {
+  padding-top: 3rem;
+}
 
 .site-logo-j {
   position: absolute;

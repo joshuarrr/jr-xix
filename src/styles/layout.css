@@ -47,6 +47,7 @@ body {
 .main {
   grid-area: main;
   align-items: baseline;
+  justify-content: center;
   padding: 1rem; /* match nav-item */
 }
 
