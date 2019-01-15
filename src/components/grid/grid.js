@@ -6,12 +6,12 @@ class ResponsiveGrid extends Component {
 
   render = () => {
     return [
-      <MediaQuery query="(max-width: 1024px)">
+      <MediaQuery key="mobile" query="(max-width: 1024px)">
         <div className="mobile grid">
           {this.props.children}
         </div>
       </MediaQuery>,
-      <MediaQuery query="(min-width: 1025px)">
+      <MediaQuery key="desktop" query="(min-width: 1025px)">
         <div className="desktop grid">
           {this.props.children}
         </div>

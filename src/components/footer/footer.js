@@ -1,12 +1,16 @@
 import React from 'react'
 
+// components
+import SocialLinks from '../socialLinks/'
+
 // styles
 import './footer.css'
 //
 
-export default () =>
-  <footer className="footer">
-    <ul className="social">
-      <li className="social-link">⚽️</li>
-    </ul>
-  </footer>
+export default () => {
+  return (
+    <footer className="footer">
+      <SocialLinks />
+    </footer>
+  )
+}
