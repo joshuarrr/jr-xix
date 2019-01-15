@@ -22,9 +22,9 @@ body {
 .grid .nav,
 .grid .main,
 .grid .footer {
-  /* show grid borders */
-  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .1);
   display: flex;
+  /* show grid borders */
+  /* box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .1); */
 }
 
 /* grid areas */
@@ -52,5 +52,8 @@ body {
 
 .footer {
   grid-area: footer;
+  position: fixed;
+  bottom: 1rem;
+  left: 7vw;
 }
 

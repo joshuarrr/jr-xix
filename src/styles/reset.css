@@ -17,6 +17,10 @@ a img,
   border: 0;
 }
 
+img {
+  max-width: 100%;
+}
+
 /* Selection color  */
 ::-moz-selection {
   color: rgb(255, 255, 255);

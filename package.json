@@ -12,6 +12,7 @@
   "dependencies": {
     "@reach/router": "^1.2.1",
     "autoprefixer": "^9.4.5",
+    "cloudinary-react": "^1.1.0",
     "postcss-advanced-variables": "^3.0.0",
     "postcss-calc": "^7.0.1",
     "postcss-color-alpha": "^2.0.0",
@@ -26,6 +27,8 @@
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-hot-loader": "^4.3.12",
+    "react-loader-spinner": "^2.3.0",
+    "react-move": "^2.8.0",
     "react-static": "^6.0.18"
   },
   "devDependencies": {

@@ -9,7 +9,7 @@ html {
 
 body {
   font-size: 1.5rem;
-  letter-spacing: .15rem;
+  letter-spacing: .1Zrem;
   line-height: 2;
 }
 
@@ -32,6 +32,12 @@ ol {
 h1 {
 font-size: 1.5rem;
 color: #46a789;
+/* padding-bottom: 2rem; */
 }
+
+p {
+  margin-bottom: 2rem;
+}
+
 
 
