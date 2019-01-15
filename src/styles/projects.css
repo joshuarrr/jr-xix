@@ -3,11 +3,34 @@
 }
 
 .image-holder {
-  background: #313131;
+  background: #222;
   line-height: 0;
   border-radius: 3rem;
   padding: 5rem;
-  overflow: hidden;
-  border: 1px solid #1f614d;
-  box-shadow: 0 .5vh 2vh 0 rgba(0, 0, 0, .9)
+  position: relative;
+  border: 1px solid #333;
+  transition: border 0.3s ease-in-out;
+}
+
+.image-holder:hover {
+  border: 1px solid #2c7c64;
+}
+
+.image-holder:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: transparent;
+  border-radius: 3rem;
+  box-shadow: 0 .5vh 2vh 0 rgba(0, 0, 0, .9);
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+  z-index: -1;
+}
+
+.image-holder:hover:after {
+  opacity: 1;
 }

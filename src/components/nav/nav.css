@@ -6,11 +6,16 @@
 .nav-item {
   color: white;
   padding: 1rem;
-  transition: color 1s ease-out;
+  transition:
+    color .3s ease-out,
+    background-color .3s ease-in;
+  width: 100%;
+  border-bottom-right-radius: 1rem;
+  border-top-right-radius: 1rem;
+  text-align: center;
+  cursor: pointer;
 }
 
-.site-logo-j {
-  width: 7rem;
-  fill: WHITE;
-  /* transform: translateX(5% 5%); */
+.nav-item:hover {
+  background: #161616;
 }

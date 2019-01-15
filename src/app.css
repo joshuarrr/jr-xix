@@ -3,3 +3,15 @@
 @import './styles/utility.css';
 @import './styles/type.css';
 @import './styles/layout.css';
+
+
+/* Vars */
+:root {
+  /* colors */
+  --green: #46a789;
+  --secondary-color: white;
+
+/* borders */
+
+/* transition */
+}

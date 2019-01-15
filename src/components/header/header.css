@@ -1,11 +1,14 @@
 /* 💆🏽‍ Header ******************************************************************/
-/* .header {
-} */
-
-
 
 .site-logo-j {
   position: absolute;
+  width: 7rem;
   fill: white;
   transform: translate(-50%, -50%);
+  transition: fill .3s ease-out;
+  border-radius:1rem;
+}
+
+.site-logo-j:hover {
+  fill: #46a789;
 }

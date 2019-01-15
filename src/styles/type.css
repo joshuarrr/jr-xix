@@ -15,7 +15,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #46a789;
+  color: var(--green);
 }
 
 a:focus {
