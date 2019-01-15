@@ -31,9 +31,10 @@ export default {
   },
 
   // Post CSS Plugin - see react static plugin api
-  plugins: [
-    'postCSS-loader',
-  ],
+  // https://github.com/nozzle/react-static/tree/master/docs/plugins
+  // plugins: [
+  //   'postCSS-loader',
+  // ],
 
   Document: class CustomDocument extends Component {
     render () {
