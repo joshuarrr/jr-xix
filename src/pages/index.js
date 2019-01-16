@@ -1,4 +1,7 @@
 import React from 'react'
+import { Head } from 'react-static'
+
+// components
 import { Img } from '../components/image-loader'
 
 // styles
@@ -7,6 +10,9 @@ import '../styles/projects.css'
 
 export default () =>
   <div className="projects">
+    <Head>
+      <title>joshuar(product design)</title>
+    </Head>
     <section className="summary">
       <h1>/* Hilights */</h1>
       <p>A React Native music collaboration app that facilitates conversations about specific sections of recordings.</p>
