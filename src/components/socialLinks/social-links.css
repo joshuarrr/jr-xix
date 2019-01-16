@@ -30,7 +30,7 @@
 
 .icon {
   filter: saturate(05%);
-  opacity: .7;
+  opacity: .5;
   transition:
     filter .5s,
     opacity .5s,

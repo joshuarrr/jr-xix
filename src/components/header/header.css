@@ -3,15 +3,22 @@
   padding-top: 3rem;
 }
 
-.site-logo-j {
-  position: absolute;
-  width: 7rem;
+.logo {
+  position: relative;
+/*   width: 7rem;
+  height: 7rem; */
   fill: white;
-  transform: translate(-50%, -50%);
+  /* transform: translate(-50%, -50%); */
   transition: fill .3s ease-out;
-  border-radius:1rem;
+  /* left: 50%; */
+  /* top: 7vh; */
 }
 
-.site-logo-j:hover {
+.logo:hover {
   fill: #46a789;
+}
+
+.title {
+  color: white;
+  text-align: center;
 }
