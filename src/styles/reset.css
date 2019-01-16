@@ -10,15 +10,15 @@
   box-sizing: inherit;
 }
 
+img {
+  max-width: 100%;
+}
+
 /* Remove image link borders */
 a img,
 :link img,
 :visited img {
   border: 0;
-}
-
-img {
-  max-width: 100%;
 }
 
 /* Selection color  */

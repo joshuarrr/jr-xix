@@ -8,6 +8,10 @@
   position: relative;
 }
 
+.summary p {
+  margin-bottom: 3.5rem;
+}
+
 .image-holder {
   background: #222;
   line-height: 0;
@@ -19,7 +23,8 @@
 }
 
 .image-holder:hover {
-  border: 1px solid #2c7c64;
+  /* border: 1px solid #2c7c64; */
+  border: 1px solid #285547;
 }
 
 .image-holder:after {
@@ -31,7 +36,7 @@
   right: 0;
   background: transparent;
   border-radius: 3rem;
-  box-shadow: 0 .5vh 2vh 0 rgba(0, 0, 0, .9);
+  box-shadow: 0 .5vh 1.5vh 0 rgba(0, 0, 0, .35);
   opacity: 0;
   transition: opacity .3s ease-in-out;
   z-index: -1;

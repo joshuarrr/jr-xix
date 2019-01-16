@@ -1,7 +1,6 @@
 /* 📰 Layout ******************************************************************/
 body {
-  background: #1d1e1f;
-  color: white;
+  background: var(--bg-color);
 }
 
 .grid {
@@ -27,10 +26,10 @@ body {
   /* box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .1); */
 }
 
-/* grid areas */
+/* grid areas and flex stuffs */
 .header {
   justify-content: center;
-  align-items:  center;
+  align-items: center;
 }
 
 .controls {
@@ -57,4 +56,3 @@ body {
   bottom: 1rem;
   left: 7vw;
 }
-

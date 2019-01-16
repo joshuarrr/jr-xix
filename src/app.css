@@ -11,7 +11,12 @@
   --green: #46a789;
   --secondary-color: white;
 
-/* borders */
+  --bg-color: #1d1e1f;
 
-/* transition */
+  /* fonts */
+  --body-text-color: rgb(220, 220, 220);
+
+  /* borders */
+
+  /* transition */
 }

@@ -15,7 +15,7 @@ import './app.css'
 export default() =>
   <Root>
     <Head>
-      <link rel="stylesheet" href="//brick.freetls.fastly.net/Fira+Mono:400" />
+      {/*<link rel="stylesheet" href="//brick.freetls.fastly.net/Fira+Mono:400" />*/}
     </Head>
     <ResponsiveGrid>
         <Header />
