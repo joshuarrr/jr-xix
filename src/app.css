@@ -9,14 +9,16 @@
 :root {
   /* colors */
   --green: #46a789;
+  --border-green: #285547;
+  --border-gray: #333333;
   --secondary-color: white;
-
   --bg-color: rgb(25, 25, 25);
 
   /* fonts */
   --body-text-color: rgb(220, 220, 220);
 
-  /* borders */
+  /* layout */
+  --trailer: 5vh;
 
   /* transition */
 }

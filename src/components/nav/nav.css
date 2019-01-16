@@ -1,7 +1,7 @@
 /* 🗺 Nav *********************************************************************/
 .nav {
   color: white;
-  margin-bottom: 5vh;
+  margin-bottom: var(--trailer);
   text-align: center;
 }
 

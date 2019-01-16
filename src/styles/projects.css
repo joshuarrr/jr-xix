@@ -3,7 +3,7 @@
 }
 
 .project-summary {
-  margin-bottom: 10vh;
+  margin-bottom: calc(var(--trailer) * 2);
   top: -1px;
   position: relative;
 }
@@ -18,13 +18,13 @@
   border-radius: 3rem;
   padding: 5rem;
   position: relative;
-  border: 1px solid #333;
+  border: 1px solid var(--border-gray);
   transition: border .3s ease-in-out;
 }
 
 .image-holder:hover {
   /* border: 1px solid #2c7c64; */
-  border: 1px solid #285547;
+  border: 1px solid var(--border-green);
 }
 
 .image-holder:after {
