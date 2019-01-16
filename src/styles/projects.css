@@ -2,13 +2,13 @@
   max-width: 92rem;
 }
 
-.summary {
+.project-summary {
   margin-bottom: 10vh;
   top: -1px;
   position: relative;
 }
 
-.summary p {
+.project-summary p {
   margin-bottom: 3.5rem;
 }
 

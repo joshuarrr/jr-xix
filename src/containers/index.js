@@ -8,6 +8,6 @@ export default () => [
     <title>joshuar(design)</title>
   </Head>,
   <div key="design-page">
-    <p>Design page</p>
+    <p>Index</p>
   </div>
 ]

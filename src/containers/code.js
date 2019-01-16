@@ -3,8 +3,10 @@ import { Head } from 'react-static'
 //
 
 export default () => [
-  <Head>
+  <Head key="head">
     <title>joshuar(HTML + CSS + JS)</title>
   </Head>,
-  <p>Code page.</p>
+  <section key="content" className="projects">
+    <p>Code page.</p>
+  </section>
 ]

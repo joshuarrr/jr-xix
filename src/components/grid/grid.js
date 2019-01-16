@@ -4,20 +4,18 @@ import MediaQuery from 'react-responsive';
 
 class ResponsiveGrid extends Component {
 
-  render = () => {
-    return [
-      <MediaQuery key="mobile" query="(max-width: 1024px)">
-        <div className="mobile grid">
-          {this.props.children}
-        </div>
-      </MediaQuery>,
-      <MediaQuery key="desktop" query="(min-width: 1025px)">
-        <div className="desktop grid">
-          {this.props.children}
-        </div>
-      </MediaQuery>
-    ]
-  }
+  render = () => [
+    <MediaQuery key="mobile" query="(max-width: 1024px)">
+      <div className="mobile grid">
+        {this.props.children}
+      </div>
+    </MediaQuery>,
+    <MediaQuery key="desktop" query="(min-width: 1025px)">
+      <div className="desktop grid">
+        {this.props.children}
+      </div>
+    </MediaQuery>
+  ]
 }
 
 export default (ResponsiveGrid)

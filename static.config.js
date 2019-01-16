@@ -30,30 +30,30 @@ export default {
     host: '127.0.0.1',
   },
 
+  getRoutes: async () => [
+    {
+      path: '/',
+      component: 'src/containers/design',
+    },
+    {
+      path: 'code',
+      component: 'src/containers/code',
+    },
+    {
+      path: 'about',
+      component: 'src/containers/about',
+    },
+    {
+      path: '404',
+      component: 'src/containers/404',
+    },
+  ]
+
   // Post CSS Plugin - see react static plugin api
   // https://github.com/nozzle/react-static/tree/master/docs/plugins
   // plugins: [
   //   'postCSS-loader',
   // ],
-
-  Document: class CustomDocument extends Component {
-    render () {
-      const {
-        Html, Head, Body, children,
-      } = this.props
-
-      return (
-        <Html>
-          <Head>
-            <meta charSet="UTF-8" />
-            <meta name="viewport" content="width=device-width, initial-scale=1" />
-            <meta httpEquiv="Accept-CH" content="DPR, Viewport-Width, Width" />
-          </Head>
-          <Body>{children}</Body>
-        </Html>
-      )
-    }
-  },
 }
 
 
