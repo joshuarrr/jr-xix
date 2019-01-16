@@ -11,7 +11,7 @@
   --green: #46a789;
   --secondary-color: white;
 
-  --bg-color: #1d1e1f;
+  --bg-color: rgb(25, 25, 25);
 
   /* fonts */
   --body-text-color: rgb(220, 220, 220);
