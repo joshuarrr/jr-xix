@@ -20,18 +20,29 @@ html {
 
 body {
   color: var(--body-text-color);
-  font-size: 1.4rem;
-  letter-spacing: .15rem;
-  line-height: 2;
+  font-size: 1.3rem;
+  letter-spacing: .05rem;
+  line-height: 1.75;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
 }
 
+h1 {
+  font-size: 1.3rem;
+  color: #46a789;
+  padding-bottom: .5rem;
+}
+
+p {
+  margin-bottom: 2rem;
+}
+
 a {
   text-decoration: none;
   color: var(--green);
+  border: 1px soli var(--green);
 }
 
 a:focus {
@@ -45,17 +56,14 @@ ol {
   padding: 0;
 }
 
-h1 {
-  font-size: 1.4rem;
-  color: #46a789;
-  padding-bottom: 2.1rem;
-}
 
-p {
-  margin-bottom: 2rem;
-}
-
-.desktop body,
+.desktop,
 .desktop h1 {
   font-size: 1.5rem;
+  letter-spacing: .15rem;
+  line-height: 2;
+}
+
+.desktop h1 {
+  padding-bottom: 2.1rem;
 }

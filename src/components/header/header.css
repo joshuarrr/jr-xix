@@ -2,8 +2,9 @@
 .header {
   width: 100%;
   display: flex;
-  /* justify-: space-between; */
+  /* justify-content: space-between; */
   flex-direction: row;
+  margin-bottom: var(--trailer)
 }
 
 .logo-link {
@@ -30,4 +31,8 @@
 .title {
   color: white;
   text-align: center;
+}
+
+.desktop .logo-link {
+  top: var(--trailer);
 }

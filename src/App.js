@@ -8,7 +8,6 @@ import Header from './components/header/'
 import Footer from './components/footer/'
 import Nav from './components/nav/'
 import Controls from './components/controls/'
-import ScrollButton from './components/scrollToTop/'
 
 // styles
 import './app.css'
@@ -25,13 +24,6 @@ export default() =>
         <main className="main">
           <Routes />
         </main>
-        <ScrollButton
-          scrollStepInPx="50"
-          delayInMs="16.66"
-        />
-        <MediaQuery key="mobile" query="(max-width: 1024px)">
-          <Nav />
-        </MediaQuery>
         <Footer />
     </ResponsiveGrid>
   </Root>
