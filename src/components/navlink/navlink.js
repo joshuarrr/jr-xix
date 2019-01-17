@@ -16,7 +16,3 @@ export default (props) =>
       };
     }}
   />
-
-
-      // const xclass =isCurrent ? "current" : null
-      // console.log(xclass)
