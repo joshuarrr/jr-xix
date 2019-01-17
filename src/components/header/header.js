@@ -1,5 +1,9 @@
 import React from 'react'
 import NavLink from '../navlink/'
+import MediaQuery from 'react-responsive'
+
+// components
+import Nav from '../nav/'
 
 // styles
 import './header.css'
@@ -7,14 +11,15 @@ import './header.css'
 
 export default () =>
   <header className="header">
-    <NavLink to="/">
-      <span className="logo">
-        <svg viewBox="-165 -5 375 70">
-          <path d="M25.7,20.09c0-1.74,0-2-1.21-2.77l-.4-.27a.62.62,0,0,1,0-.81,30.58,30.58,0,0,0,4.61-2.19c.23,0,.41.09.45.27C29.1,15.88,29,18,29,19.87V30.71a19.05,19.05,0,0,1-.94,7c-1.34,3.22-3.71,5.37-6.81,7.3a.76.76,0,0,1-.62-1,8.53,8.53,0,0,0,2.64-2c1.61-1.88,2.42-5.1,2.42-10.57ZM29.42,7.33a2.33,2.33,0,0,1-4.66,0A2.29,2.29,0,0,1,27.18,5,2.24,2.24,0,0,1,29.42,7.33Z" />
-        </svg>
-      </span>
+    <NavLink to="/" className="logo-link">
+      <svg id="j" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+        <path d="M10,7.55c0-.87,0-1-.6-1.39L9.23,6a.31.31,0,0,1,0-.4,15.42,15.42,0,0,0,2.31-1.1c.11,0,.2,0,.22.13,0,.78-.09,1.86-.09,2.78v5.42a9.57,9.57,0,0,1-.47,3.49A7.88,7.88,0,0,1,7.82,20a.38.38,0,0,1-.31-.52,4.27,4.27,0,0,0,1.32-1c.81-.94,1.21-2.55,1.21-5.29ZM11.9,1.16a1.11,1.11,0,0,1-1.19,1.17A1.11,1.11,0,0,1,9.57,1.19,1.15,1.15,0,0,1,10.78,0,1.12,1.12,0,0,1,11.9,1.16Z"/>
+      </svg>
       <h1 className="title hidden-text">
         Joshua Richey
       </h1>
     </NavLink>
+    <MediaQuery key="mobile" query="(max-width: 1024px)">
+      <Nav />
+    </MediaQuery>
   </header>

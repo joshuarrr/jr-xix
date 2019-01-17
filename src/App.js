@@ -19,7 +19,9 @@ export default() =>
     <ResponsiveGrid>
         <Header />
         <Controls />
-        <Nav />
+        <MediaQuery key="mobile" query="(min-width: 1024px)">
+          <Nav />
+        </MediaQuery>
         <main className="main">
           <Routes />
         </main>

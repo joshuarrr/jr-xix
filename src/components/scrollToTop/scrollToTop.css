@@ -1,7 +1,7 @@
 .scroll-button {
   background-color: rgba(15, 15, 15, .8);
-  width: 4rem;
-  height: 4rem;
+  width: 3.5rem;
+  height: 3.5rem;
   border-radius: 5px;
   margin-bottom: var(--trailer);
   opacity: .5;
@@ -9,18 +9,16 @@
   transition:
     opacity .3s ease-out,
     border .3s ease-out;
-  }
-
+}
 
 .scroll-button:hover {
   opacity: 1;
   border: 1px solid var(--border-green);
 }
 
-.up-arrow {
-  fill: white;
+.up-arrow svg {
+  fill: White;
 }
-
 
 .scroll-button:after {
   content: "";
@@ -40,4 +38,21 @@
 .scroll-button:hover:after {
   opacity: 1;
   cursor: pointer;
+}
+
+
+/* Desktop positioning */
+.desktop .scroll-button {
+  position: fixed;
+  right: 5vw;
+  bottom: 0;
+  margin-bottom: calc(var(--trailer) / 2);
+  transition:
+    opacity .3s ease-in-out,
+    transform .3s ease-in-out;
+  transform: scale(.8, .8);
+}
+
+.desktop .scroll-button:hover {
+  transform: scale(1, 1);
 }

@@ -20,7 +20,7 @@ html {
 
 body {
   color: var(--body-text-color);
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   letter-spacing: .15rem;
   line-height: 2;
 }
@@ -46,11 +46,16 @@ ol {
 }
 
 h1 {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   color: #46a789;
   padding-bottom: 2.1rem;
 }
 
 p {
   margin-bottom: 2rem;
+}
+
+.desktop body,
+.desktop h1 {
+  font-size: 1.5rem;
 }

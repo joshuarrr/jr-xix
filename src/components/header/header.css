@@ -1,20 +1,29 @@
 /* 💆🏽‍ Header ******************************************************************/
 .header {
-  padding-top: 3rem;
+  width: 100%;
+  display: flex;
+  /* justify-: space-between; */
+  flex-direction: row;
 }
 
-.logo {
+.logo-link {
+  line-height: 0;
+  width: 3.5rem;
+  height: 3.5rem;
+  left: -1rem;
+  top: -.25rem;
   position: relative;
-/*   width: 7rem;
-  height: 7rem; */
-  fill: white;
-  /* transform: translate(-50%, -50%); */
-  transition: fill .3s ease-out;
-  /* left: 50%; */
-  /* top: 7vh; */
 }
 
-.logo:hover {
+.logo-link svg {
+  fill: white;
+  transition: fill .3s ease-out;
+  top: 50%;
+  width: 3.5rem;
+  height: 3.5rem;
+}
+
+.logo-link:hover svg {
   fill: #46a789;
 }
 
