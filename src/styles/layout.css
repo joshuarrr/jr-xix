@@ -10,6 +10,10 @@ body {
   align-items: center;
 }
 
+.mobile main {
+  width: 100%;
+}
+
 .desktop.grid {
   display: grid;
   width: 100vw;

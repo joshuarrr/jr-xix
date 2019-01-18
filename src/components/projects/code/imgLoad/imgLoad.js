@@ -49,9 +49,7 @@ class ImgLoad extends React.Component {
     }
   }
 
-  loadImage = () => {
-  /* return a promise that resolves if the image loaded */
-    let promise = new Promise( (resolve, reject) => {
+  loadImage = () => new Promise( (resolve, reject) => {
       console.log('Loading...')
       const img = new Image()
       /* resolve promise on load */
@@ -65,8 +63,6 @@ class ImgLoad extends React.Component {
       /* image to load */
       img.src = this.state.imgUrl
     })
-    return promise;
-  }
 
   componentDidMount = () => {
     /* loadImage promise success */
@@ -87,7 +83,7 @@ class ImgLoad extends React.Component {
     const w = ratio.toString().split("x")[0] // before x
     const h = ratio.toString().split("x")[1] // after x
     const aspectRatio = w && h
-      ? `${((h / w) * 100).toFixed(2)}px`
+      ? `${((h / w) * 100).toFixed(2)}%`
       : console.log("Incorrect ratio prop")
       // console.log(`aspect ratio = ${aspectRatio}`)
     return aspectRatio
@@ -95,26 +91,29 @@ class ImgLoad extends React.Component {
 
   reloadImage = () => {
     this.setState(state => ({
-      rerender: state.rerender + 1
-    }));
+      rerender: state.rerender + 1,
+      imgUrl: this.props.images[Math.floor(Math.random() * this.props.images.length)],
+      loaded: false
+    }), () => {
+      this.loadImage().then(() => {
+        this.setState({loaded: true})
+      })
+    });
     console.log(`rerender: ${this.state.rerender}`)
   }
 
-  imgLoadControls = () => {
-    return (
+  imgLoadControls = () => (
       <div className="image-loader-controls">
         <button onClick={this.reloadImage}>
           rerender
         </button>
       </div>
     )
-  }
 
   render = () => {
     const imgStyles = this.props.fade
       ? {
         opacity: this.state.loaded ? '1' : '0',
-        borderBottom: this.getAspectRatio(),
         transition: `opacity ${this.props.duration} ease-in-out`
       }
       : null
@@ -138,6 +137,7 @@ class ImgLoad extends React.Component {
         className={`image-loader ${this.props.classes}`}
         key="image-loader"
         style={{
+          paddingBottom: this.getAspectRatio()
         }}
       >
         {showLoadingIndicator}

@@ -4,11 +4,13 @@
   border: 1px solid var(--border-gray);
   line-height: 0;
   position: relative;
+  width: 100%;
 }
 
 /* Image */
 .image-loader .image {
   /* visibility: hidden; */
+  position: absolute;
 }
 
 /* ClassName */
