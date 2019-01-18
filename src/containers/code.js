@@ -33,6 +33,7 @@ export default () => [
         classes="rounded"
         indicator={true}
         loadingMessage={false} // or string e.g: 'loading...'
+        showControls
       />
     </section>
   </section>,

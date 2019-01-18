@@ -22,14 +22,13 @@ import LoadingIndicator from '../../../loadingIndicator/'
     className: add a class
     loadingMessage: display a message while loading
     indicator: display a component while loading
+    controls:  show controls to adjust props
   */
 //
 
 class ImgLoad extends React.Component {
   constructor(props) {
     super(props)
-
-    // console.log(`* constructor * \n \t random = ${props.random}`)
 
     /* return a random number from an array */
     const randomIndexOf = (arr) => Math.floor(Math.random() * arr.length)
@@ -45,7 +44,8 @@ class ImgLoad extends React.Component {
     /* initial state */
     this.state = {
       loaded: false,
-      imgUrl: img
+      imgUrl: img,
+      rerender: 1
     }
   }
 
@@ -82,16 +82,33 @@ class ImgLoad extends React.Component {
     });
   }
 
-getAspectRatio = () => {
-  const ratio = this.props.ratio
-  const w = ratio.toString().split("x")[0] // before x
-  const h = ratio.toString().split("x")[1] // after x
-  const aspectRatio = w && h
-    ? `${((h / w) * 100).toFixed(2)}px`
-    : console.log("Incorrect ratio prop")
-    // console.log(`aspect ratio = ${aspectRatio}`)
-  return aspectRatio
-}
+  getAspectRatio = () => {
+    const ratio = this.props.ratio
+    const w = ratio.toString().split("x")[0] // before x
+    const h = ratio.toString().split("x")[1] // after x
+    const aspectRatio = w && h
+      ? `${((h / w) * 100).toFixed(2)}px`
+      : console.log("Incorrect ratio prop")
+      // console.log(`aspect ratio = ${aspectRatio}`)
+    return aspectRatio
+  }
+
+  reloadImage = () => {
+    this.setState(state => ({
+      rerender: state.rerender + 1
+    }));
+    console.log(`rerender: ${this.state.rerender}`)
+  }
+
+  imgLoadControls = () => {
+    return (
+      <div className="image-loader-controls">
+        <button onClick={this.reloadImage}>
+          rerender
+        </button>
+      </div>
+    )
+  }
 
   render = () => {
     const imgStyles = this.props.fade
@@ -102,9 +119,9 @@ getAspectRatio = () => {
       }
       : null
 
-    const showLoadingIndicator = this.state.loaded
-      ? null
-      : <LoadingIndicator />
+    const showLoadingIndicator = !this.state.loaded
+      ? <LoadingIndicator />
+      : null
 
     const showLoadingMessage = this.props.loadingMessage
       ? !this.state.loaded
@@ -112,10 +129,11 @@ getAspectRatio = () => {
         : null
       : null
 
-    // console.log(`* Render *`)
-    // console.log('this.props = ', this.props)
+    const showControls = this.props.showControls
+      ? this.imgLoadControls()
+      : null
 
-    return (
+    return [
       <div
         className={`image-loader ${this.props.classes}`}
         key="image-loader"
@@ -129,9 +147,11 @@ getAspectRatio = () => {
           src={this.state.imgUrl}
           className="image"
           style={imgStyles}
+          rerender={this.state.rerender}
         />
-      </div>
-    )
+      </div>,
+      [showControls]
+    ]
   }
 
   // default props
@@ -143,7 +163,8 @@ getAspectRatio = () => {
     duration: '.5s',
     classes: '',
     indicator: true,
-    loadingMessage: null
+    loadingMessage: null,
+    controls: false
   }
 }
 
