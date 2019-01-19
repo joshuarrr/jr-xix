@@ -1,8 +1,10 @@
 .projects {
+  width: 100%;
   max-width: 92rem;
 }
 
 .project-summary {
+  width: 100%;
   margin-bottom: calc(var(--trailer) * 2);
   position: relative;
 }

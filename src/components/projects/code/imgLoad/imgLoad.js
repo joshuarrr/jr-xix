@@ -1,5 +1,8 @@
 import React from 'react'
 
+// cloudinary responsive image component
+import { CloudImage } from 'cloudinary-react'
+
 // styles
 import './imgLoad.css'
 
@@ -23,6 +26,7 @@ import LoadingIndicator from '../../../loadingIndicator/'
     loadingMessage: display a message while loading
     indicator: display a component while loading
     controls:  show controls to adjust props
+    cloudinary: use cloudinary component instead of img
   */
 //
 
@@ -80,27 +84,27 @@ class ImgLoad extends React.Component {
 
   getAspectRatio = () => {
     const ratio = this.props.ratio
-    const w = ratio.toString().split("x")[0] // before x
-    const h = ratio.toString().split("x")[1] // after x
+    const w = parseInt(ratio.toString().split("x")[0]) // before x
+    const h = parseInt(ratio.toString().split("x")[1]) // after x
     const aspectRatio = w && h
       ? `${((h / w) * 100).toFixed(2)}%`
       : console.log("Incorrect ratio prop")
-      // console.log(`aspect ratio = ${aspectRatio}`)
+      console.log(`aspect ratio = ${aspectRatio}`)
     return aspectRatio
   }
 
-  reloadImage = () => {
-    this.setState(state => ({
-      rerender: state.rerender + 1,
-      imgUrl: this.props.images[Math.floor(Math.random() * this.props.images.length)],
-      loaded: false
-    }), () => {
-      this.loadImage().then(() => {
-        this.setState({loaded: true})
-      })
-    });
-    console.log(`rerender: ${this.state.rerender}`)
-  }
+  // reloadImage = () => {
+  //   this.setState(state => ({
+  //     rerender: state.rerender + 1,
+  //     imgUrl: this.props.images[Math.floor(Math.random() * this.props.images.length)],
+  //     loaded: false
+  //   }), () => {
+  //     this.loadImage().then(() => {
+  //       this.setState({loaded: true})
+  //     })
+  //   });
+  //   console.log(`rerender: ${this.state.rerender}`)
+  // }
 
   imgLoadControls = () => (
       <div className="image-loader-controls">
@@ -157,14 +161,15 @@ class ImgLoad extends React.Component {
   // default props
   static defaultProps = {
     images: [],
-    random: true,
+    random: false,
     ratio: null,
     fade: true,
     duration: '.5s',
     classes: '',
     indicator: true,
     loadingMessage: null,
-    controls: false
+    controls: false,
+    cloudinary: false
   }
 }
 

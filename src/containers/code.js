@@ -3,8 +3,6 @@ import { Head } from 'react-static'
 
 // components
 import ScrollButton from '../components/scrollToTop/'
-
-// projects
 import ImgLoad from '../components/projects/code/imgLoad/'
 
 /* Images */
