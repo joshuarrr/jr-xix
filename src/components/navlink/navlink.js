@@ -3,16 +3,15 @@ import { Link } from '@reach/router'
 //
 
 export default (props) =>
-  <Link
-    {...props}
-    getProps={({ isCurrent }) => {
-      // the object returned here is passed to the
-      // anchor element's props
-
-      return {
-        style: {
-          color: isCurrent ? "white" :"#46a789"
-        }
-      };
-    }}
-  />
+<Link
+  {...props}
+  getProps={({ isCurrent }) => {
+    // the object returned here is passed to the
+    // anchor element's props
+    return {
+      class: isCurrent
+        ? `${props.className} current`
+        : `${props.className}`
+    };
+  }}
+/>

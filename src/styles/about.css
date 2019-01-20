@@ -6,13 +6,14 @@
 }
 
 .profile-pic-wrapper {
-  width: 15rem;
+  width: 20rem;
 }
 
-.profile-pic {
-  /* border-radius: 2.5rem; */
-  border: 1px solid var(--border-gray);
-  /* position: relative; */
+.working-pic-wrapper {
+  width: 20rem;
+  height: 20rem;
+  margin: 0 auto;
+  padding-top: calc(var(--trailer) / 2);
 }
 
 .bio {

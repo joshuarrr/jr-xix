@@ -9,20 +9,47 @@
   padding: 1rem;
   z-index: 100;
   position: relative;
+  transition:
+    color .3s ease-out,
+    background-color .3s ease-in;
+}
+
+.nav-item:hover {
+  color: var(--yellow);
+  cursor: pointer;
+}
+
+.nav-item.current {
+  color: white;
 }
 
 .desktop .nav-item {
   padding: 1rem;
-  transition:
-    color .3s ease-out,
-    background-color .3s ease-in;
   width: 100%;
-  border-bottom-right-radius: 1rem;
-  border-top-right-radius: 1rem;
   text-align: center;
-  cursor: pointer;
+  position: relative;
+  z-index: 10;
 }
 
 .desktop .nav-item:hover {
-  background: #161616;
+  cursor: pointer;
+  color: yellow;
 }
+
+/* .desktop .nav-item:after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  transition: transform .3s ease-out;
+  z-index: -1;
+  transform: translateX(-100%);
+}
+
+
+.desktop .nav-item:hover:after {
+  background: #161616;
+  transform: translateX(0);
+} */

@@ -7,12 +7,10 @@ body {
   padding: 8vw;
   display: grid;
   height: 100vh;
-/*   flex-direction: column;
-  align-items: center; */
   grid-template-areas:
-            "header"
-            "main"
-            "footer";
+    "header"
+    "main"
+    "footer";
   grid-template-rows: 100px 1fr 160px;
 }
 
@@ -32,59 +30,76 @@ body {
   grid-area: footer;
 }
 
-
 /* Desktop */
-.desktop.grid {
-  display: grid;
-  width: 100vw;
+.desktop .left-column {
+  position: fixed;
+  width: var(--desktop-sidebar-width);
+  left: 0;
+  top: 0;
   height: 100vh;
-  grid-template-columns: 1fr 5fr 1fr;
-  grid-template-rows: 100px 1fr 100px;
-  grid-gap: 3rem;
+  padding-right: var(--desktop-gutter);
+  display: grid;
   grid-template-areas:
-    "header . controls"
-    "nav main ."
-    "footer . .";
+    "header"
+    "nav"
+    "footer";
+  grid-template-rows: 100px 1fr calc(170px + var(--trailer));
+  /* show column borders */
+  /* box-shadow: inset 0 0 0 10px rgba(150, 0, 0, .3); */
 }
 
-.desktop .header,
-/* .desktop .controls, */
-.desktop .nav,
-.desktop .main,
-.desktop .footer {
-  display: flex;
-  /* show grid borders */
-  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .1);
-}
-
-/* Desktop */
-/* grid areas and flex stuffs */
 .desktop .header {
   justify-content: center;
-  align-items: center;
 }
 
 .desktop .controls {
   grid-area: controls;
-  align-items: center;
+  /* align-items: center; */
 }
 
 .desktop .nav {
   grid-area: nav;
+  display: flex;
   flex-direction: column;
   align-items: center;
-}
-
-.desktop .main {
-  grid-area: main;
-  align-items: baseline;
-  justify-content: center;
-  padding: 1rem; /* match nav-item */
+  margin-top: var(--trailer);
 }
 
 .desktop .footer {
   grid-area: footer;
-  position: fixed;
-  bottom: 1rem;
-  left: 7vw;
 }
+
+.desktop .main {
+  grid-area: main;
+  min-height: 100vh;
+  align-items: baseline;
+  justify-content: center;
+
+  padding: calc(var(--desktop-header-height) + var(--trailer) + 1.1rem)
+    var(--desktop-sidebar-width)
+    0;
+  /* show column borders */
+  /* box-shadow: inset 0 0 0 10px rgba(255, 255, 150, 1); */
+}
+
+.desktop .right-column {
+  position: fixed;
+  width: var(--desktop-sidebar-width);
+  right: 0;
+  top: 0;
+  height: 100vh;
+  display: grid;
+  /* show column borders */
+  /* box-shadow: inset 0 0 0 10px rgba(0, 150, 0, .3); */
+}
+
+/* show grid borders */
+/* .desktop .header,
+.desktop .controls,
+.desktop .nav,
+.desktop .footer {
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .1);
+}
+ */
+
+

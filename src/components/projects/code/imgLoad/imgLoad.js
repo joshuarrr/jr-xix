@@ -35,12 +35,21 @@ class ImgLoad extends React.Component {
     super(props)
     /* return a random number from an array */
     const randomIndexOf = (arr) => Math.floor(Math.random() * arr.length)
+
     /* return an item from an array */
     const chooseFrom = (arr) => arr[randomIndexOf(arr)]
-    /* return random image url from images array if props.random = true */
-    const img = props.random === true
-      ? chooseFrom(props.images)
-      : this.props.images[0]
+
+    /* return random image url from images array if the array isn't empty
+    and props.random = true, otherwise return the first item of the array */
+    const img = this.props.images.length
+      ? (console.log('* images array is not empty'),
+        this.props.random)
+        ? (console.log('* random is true'),
+          chooseFrom(props.images))
+        : (console.log('* random is false'),
+          this.props.images[0])
+      : console.log('* images array is empty')
+
     /* initial state */
     this.state = {
       loaded: false,
@@ -81,18 +90,25 @@ class ImgLoad extends React.Component {
         this.setState({loaded: false});
       });
     }
-
   }
 
   getAspectRatio = () => {
-    const ratio = this.props.ratio
-    const w = parseInt(ratio.toString().split("x")[0]) // before x
-    const h = parseInt(ratio.toString().split("x")[1]) // after x
-    const aspectRatio = w && h
-      ? `${Math.floor(((h / w) * 100).toFixed(2))}%`
-      : console.log("Incorrect ratio prop")
+    const computeRatio = (ratio) => {
+      const w = parseInt(ratio.toString().split("x")[0]) // before x
+      const h = parseInt(ratio.toString().split("x")[1]) // after x
+      const aspectRatio = w && h
+        ? `${((h / w) * 100).toFixed(2)}%`
+        : console.log("Incorrect ratio prop")
+      console.log(aspectRatio)
+      return aspectRatio
+    }
+    console.log(this.props.ratio)
+    const ratio =  this.props.ratio && this.props.ratio.length
+      ? computeRatio(this.props.ratio)
+      : null
+
       // console.log(`aspect ratio = ${aspectRatio}`)
-    return aspectRatio
+    return ratio
   }
 
   render = () => {
@@ -132,7 +148,7 @@ class ImgLoad extends React.Component {
     /* if cloudinary prop is true, use the cloudinary component... */
     const showImage = this.props.cloudinary
       ? <Image
-          className={`cloudinary image ${this.props.classes}`}
+          className={`cloudinary image ${this.props.className}`}
           cloudName="joshuar"
           publicId={this.state.imgUrl}
           width="auto"
@@ -157,7 +173,7 @@ class ImgLoad extends React.Component {
 
     return (
       <div
-        className={`image-loader ${this.props.classes}`}
+        className={`image-loader ${this.props.className}`}
         key="image-loader"
         style={{
           paddingBottom: this.getAspectRatio()
@@ -167,7 +183,6 @@ class ImgLoad extends React.Component {
         {showLoadingMessage}
         {showImage}
         {showControls}
-        }
       </div>
     )
   }
@@ -179,7 +194,7 @@ class ImgLoad extends React.Component {
     ratio: null,
     fade: true,
     duration: '.5s',
-    classes: '',
+    className: '',
     indicator: true,
     loadingMessage: null,
     controls: false,

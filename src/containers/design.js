@@ -2,7 +2,8 @@ import React from 'react'
 import { Head } from 'react-static'
 
 // components
-import { Img } from '../components/image-loader'
+import ImgLoad from '../components/projects/code/imgLoad/'
+// import { Img } from '../components/image-loader'
 import ScrollButton from '../components/scrollToTop/'
 
 // styles
@@ -18,19 +19,38 @@ export default () => [
     <section className="project-summary">
       <h1>/* Hilights */</h1>
       <p>In development: A React Native music collaboration app that facilitates conversations around specific sections of recordings.</p>
-      <Img name="jr-xix/hilights/cover.png" />
+      <div className="project-cover">
+        <ImgLoad
+          images={["jr-xix/hilights/cover.png"]}
+          cloudinary
+          ratio="511x289"
+        />
+      </div>
     </section>
 
     <section className="project-summary">
       <h1>/* Lumen Learning */</h1>
       <p>User research, usability testing, and UI wireframes for a LMS (Learning Management System).</p>
-      <Img name="jr-xix/lumen/cover.png" className="rounded" />
+      <div className="project-cover">
+        <ImgLoad
+          images={["jr-xix/lumen/cover.png"]}
+          cloudinary
+          ratio="900x564"
+          className="rounded"
+        />
+      </div>
     </section>
 
     <section className="project-summary">
       <h1>/* Idealist */</h1>
       <p>Idealist.org is an international non-profit job board with a social mission to create more good in the world by helping people turn their intentions into actions. I was their Lead Web Designer for five years.</p>
-      <Img name="jr-xix/idealist/cover.png" />
+      <div className="project-cover">
+        <ImgLoad
+          images={["jr-xix/idealist/cover.png"]}
+          cloudinary
+          ratio="900x646"
+        />
+      </div>
     </section>
   </section>,
 

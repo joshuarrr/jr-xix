@@ -33,7 +33,7 @@ export default () => [
         images={images}
         ratio='16x9'
         duration='3s'
-        classes="rounded"
+        className="rounded bordered"
         cloudinary
         random
       />
@@ -45,7 +45,7 @@ export default () => [
         images={images}
         ratio='16x9'
         duration='3s'
-        classes="rounded"
+        className="rounded bordered"
         cloudinary
         random
       />

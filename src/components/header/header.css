@@ -35,4 +35,5 @@
 
 .desktop .logo-link {
   top: var(--trailer);
+  left: -.1rem;
 }

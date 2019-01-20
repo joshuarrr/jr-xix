@@ -9,6 +9,7 @@
 :root {
   /* colors */
   --green: #46a789;
+  --yellow: rgb(200, 200, 60);
   --border-green: #285547;
   --border-gray: #333333;
   --secondary-color: white;
@@ -20,7 +21,8 @@
 
   /* layout */
   --trailer: 5vh;
-  --border-radius: 3vw;
-
-  /* transition */
+  --border-radius: 2.5rem;
+  --desktop-sidebar-width: 25vw;
+  --desktop-header-height: 10rem;
+  --desktop-gutter: 2.5vw;
 }
