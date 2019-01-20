@@ -1,7 +1,7 @@
 import React from 'react'
 
 // cloudinary responsive image component
-import { CloudImage } from 'cloudinary-react'
+import { Image } from 'cloudinary-react'
 
 // styles
 import './imgLoad.css'
@@ -33,23 +33,18 @@ import LoadingIndicator from '../../../loadingIndicator/'
 class ImgLoad extends React.Component {
   constructor(props) {
     super(props)
-
     /* return a random number from an array */
     const randomIndexOf = (arr) => Math.floor(Math.random() * arr.length)
-
     /* return an item from an array */
     const chooseFrom = (arr) => arr[randomIndexOf(arr)]
-
     /* return random image url from images array if props.random = true */
     const img = props.random === true
       ? chooseFrom(props.images)
       : this.props.images[0]
-
     /* initial state */
     this.state = {
       loaded: false,
       imgUrl: img,
-      rerender: 1
     }
   }
 
@@ -66,20 +61,27 @@ class ImgLoad extends React.Component {
       }
       /* image to load */
       img.src = this.state.imgUrl
+      // console.log(`img.src = ${this.state.imgUrl}`)
     })
 
   componentDidMount = () => {
+    // console.log( this.loadImage())
+    /* If not using cloudinary, call loadImage */
     /* loadImage promise success */
-    this.loadImage().then(() => {
-      console.log('Loaded.')
-      this.setState({
-        loaded: true
-      })
-    /* loadImage promise failure */
-    }, (error) => {
-      console.log('Loading failed.', error)
-      this.setState({loaded: false});
-    });
+    if (!this.props.cloudinary) {
+      console.log('...not cloudinary...')
+      this.loadImage().then(() => {
+        console.log('Loaded.')
+        this.setState({
+          loaded: true
+        })
+      /* loadImage promise failure */
+      }, (error) => {
+        console.log('Loading failed.', error)
+        this.setState({loaded: false});
+      });
+    }
+
   }
 
   getAspectRatio = () => {
@@ -87,34 +89,14 @@ class ImgLoad extends React.Component {
     const w = parseInt(ratio.toString().split("x")[0]) // before x
     const h = parseInt(ratio.toString().split("x")[1]) // after x
     const aspectRatio = w && h
-      ? `${((h / w) * 100).toFixed(2)}%`
+      ? `${Math.floor(((h / w) * 100).toFixed(2))}%`
       : console.log("Incorrect ratio prop")
-      console.log(`aspect ratio = ${aspectRatio}`)
+      // console.log(`aspect ratio = ${aspectRatio}`)
     return aspectRatio
   }
 
-  // reloadImage = () => {
-  //   this.setState(state => ({
-  //     rerender: state.rerender + 1,
-  //     imgUrl: this.props.images[Math.floor(Math.random() * this.props.images.length)],
-  //     loaded: false
-  //   }), () => {
-  //     this.loadImage().then(() => {
-  //       this.setState({loaded: true})
-  //     })
-  //   });
-  //   console.log(`rerender: ${this.state.rerender}`)
-  // }
-
-  imgLoadControls = () => (
-      <div className="image-loader-controls">
-        <button onClick={this.reloadImage}>
-          rerender
-        </button>
-      </div>
-    )
-
   render = () => {
+    // console.log(this.state)
     const imgStyles = this.props.fade
       ? {
         opacity: this.state.loaded ? '1' : '0',
@@ -122,21 +104,56 @@ class ImgLoad extends React.Component {
       }
       : null
 
-    const showLoadingIndicator = !this.state.loaded
+    const showLoadingIndicator = !this.state.loaded && this.props.indicator
       ? <LoadingIndicator />
       : null
 
     const showLoadingMessage = this.props.loadingMessage
-      ? !this.state.loaded
-        ? <p className="loading-message">{this.props.loadingMessage}</p>
-        : null
-      : null
+       ? !this.state.loaded
+         ? <p className="loading-message">{this.props.loadingMessage}</p>
+         : null
+       : null
 
-    const showControls = this.props.showControls
-      ? this.imgLoadControls()
-      : null
+      const showControls = this.props.showControls &&
+        <div className="image-loader-controls">
+          <button onClick={this.reloadImage}>
+            rerender
+          </button>
+        </div>
 
-    return [
+      const imageLoad = () => {
+        this.setState({
+          loaded: true
+        })
+      }
+
+    /* if cloudinary prop is true, use the cloudinary component... */
+    const showImage = this.props.cloudinary
+      ? <Image
+          className={`cloudinary image ${this.props.classes}`}
+          cloudName="joshuar"
+          publicId={this.state.imgUrl}
+          width="auto"
+          dpr="auto"
+          crop="scale"
+          progressive="false"
+          f_auto="true"
+          secure
+          responsive
+          onLoad={() => {
+            console.log('Loaded Cloudinary')
+            imageLoad()
+          }}
+          style={imgStyles}
+        />
+      : <img
+          alt=""
+          src={this.state.imgUrl}
+          className="image"
+          style={imgStyles}
+        />
+
+    return (
       <div
         className={`image-loader ${this.props.classes}`}
         key="image-loader"
@@ -146,16 +163,11 @@ class ImgLoad extends React.Component {
       >
         {showLoadingIndicator}
         {showLoadingMessage}
-        <img
-          alt=""
-          src={this.state.imgUrl}
-          className="image"
-          style={imgStyles}
-          rerender={this.state.rerender}
-        />
-      </div>,
-      [showControls]
-    ]
+        {showImage}
+        {showControls}
+        }
+      </div>
+    )
   }
 
   // default props
@@ -169,7 +181,7 @@ class ImgLoad extends React.Component {
     indicator: true,
     loadingMessage: null,
     controls: false,
-    cloudinary: false
+    cloudinary: false,
   }
 }
 
