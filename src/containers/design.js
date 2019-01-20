@@ -18,7 +18,7 @@ export default () => [
   <section key="design-projects" className="design projects">
     <section className="project-summary">
       <h1>/* Hilights */</h1>
-      <p>In development: A React Native music collaboration app that facilitates conversations around specific sections of recordings.</p>
+      <p>Product design for a music collaboration app that facilitates conversations around specific sections of recordings.</p>
       <div className="project-cover">
         <ImgLoad
           images={["jr-xix/hilights/cover.png"]}
@@ -30,7 +30,7 @@ export default () => [
 
     <section className="project-summary">
       <h1>/* Lumen Learning */</h1>
-      <p>User research, usability testing, and UI wireframes for a LMS (Learning Management System).</p>
+      <p>User research, usability testing, and UI wireframes for a LMS (Learning Management System) that provides open source textbooks.</p>
       <div className="project-cover">
         <ImgLoad
           images={["jr-xix/lumen/cover.png"]}
@@ -43,7 +43,7 @@ export default () => [
 
     <section className="project-summary">
       <h1>/* Idealist */</h1>
-      <p>Idealist.org is an international non-profit job board with a social mission to create more good in the world by helping people turn their intentions into actions. I was their Lead Web Designer for five years.</p>
+      <p>UX design & frontend engineering for Idealist.org, an international non-profit job board with a social mission to create more good in the world by helping people turn their intentions into actions.</p>
       <div className="project-cover">
         <ImgLoad
           images={["jr-xix/idealist/cover.png"]}

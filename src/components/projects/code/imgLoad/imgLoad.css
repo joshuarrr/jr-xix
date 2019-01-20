@@ -20,6 +20,11 @@
   overflow: hidden;
 }
 
+.image-loader.rounded img {
+  border-radius: var(--border-radius);
+}
+
+
 .desktop .image-loader.rounded {
   border-radius: calc(var(--border-radius) * 1.25);
   overflow: hidden;
