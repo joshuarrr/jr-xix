@@ -2,9 +2,7 @@ import React from 'react'
 import { Head } from 'react-static'
 
 // components
-// import { Img } from '../components/image-loader'
 import ImgLoad from '../components/projects/code/imgLoad/'
-
 
 // images
 import profilePic from'../img/Me.jpg';

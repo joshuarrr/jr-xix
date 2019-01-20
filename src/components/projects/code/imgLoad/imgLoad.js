@@ -127,6 +127,8 @@ class ImgLoad extends React.Component {
         })
       }
 
+      console.log(this.state.imgUrl)
+
     /* if cloudinary prop is true, use the cloudinary component... */
     const showImage = this.props.cloudinary
       ? <Image
@@ -141,7 +143,7 @@ class ImgLoad extends React.Component {
           secure
           responsive
           onLoad={() => {
-            console.log('Loaded Cloudinary')
+            console.log('Loaded Cloudinary Image')
             imageLoad()
           }}
           style={imgStyles}

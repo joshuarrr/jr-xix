@@ -1,14 +1,11 @@
 import React from 'react'
 
-
+// components
+import ImgLoad from '../imgLoad/'
 //
 
 /* ImgGrid *//*
-  - get a random image from array
-  - set loading text
-  - use a promise to make sure image loaded successfully
-  - set opacity of image when loaded to fade it in gracefully
-  - generate a grid of cells based on the window size
+  - generate a grid of cells based on the image size
   - color cells based on the image color
   - assign divs random opacities
   - change some random cell opacities on an interval to animate the cells
@@ -30,7 +27,7 @@ class ImgGrid extends React.Component {
       return grid
     }
 
-    const imagesToLoad = this.props.imageSet
+    const imagesToLoad = this.props.images
 
     /* Return a random number from an array */
     const randomIndexOf = (arr) => Math.floor(Math.random() * arr.length)
@@ -54,29 +51,7 @@ class ImgGrid extends React.Component {
     }
   }
 
-  /* Return a promise that resolves if the image loaded */
-  loadImage = () => {
-    let promise = new Promise( (resolve, reject) => {
-      console.log('Loading...');
-      const img = new Image()
-      /* cross-origin fix: */
-      img.setAttribute('crossOrigin', 'anonymous');
-      // img.crossOrigin = 'anonymous';
 
-      /* Resolve promise on load */
-      img.onload = () => {
-        resolve(img) // return the image element
-      }
-      /* Reject promise on not load */
-      img.onerror = () => {
-        reject()
-      }
-      /* Image to load */
-      img.src = this.state.imgUrl
-      // console.log(`src = ${this.state.imgUrl}`)
-    });
-    return promise;
-  }
 
   /* Generate grid cells */
   generateCells = (opacities, cellColor) =>
@@ -91,7 +66,6 @@ class ImgGrid extends React.Component {
         }}
       />
     )
-
 
   /* Generate grid-border cells */
   generateCellBorders = (count) => {
@@ -111,16 +85,19 @@ class ImgGrid extends React.Component {
     /* Generate a grid of cells  */
     this.interval = setInterval(() => {
       // * Get the current array of opacities
+      // console.log(this.state.opacities)
       const updatedCells = this.state.opacities
-      const numberToChange = 10
+      const numberOfCellsToChange = 10
      /* get a random integer */
       const randomOpacity = () => {
         // console.log(Math.floor(Math.random() * 11))
         return Math.floor(Math.random() * 11)
       }
-      for (let i = 0; i < numberToChange; i++) {
+      for (let i = 0; i < numberOfCellsToChange; i++) {
+
        // * generate a random index number from the array
         const randomIndex = randomIndexOf(this.state.opacities)
+
         // assign opacities
         updatedCells[randomIndex] = `.${randomOpacity()}`
       }
@@ -146,28 +123,8 @@ class ImgGrid extends React.Component {
   }
 
   componentDidMount = () => {
-    window.addEventListener("resize", this.updateDimensions);
-    // console.log(`this.state.cols = ${this.state.cols}`)
-
-    /* loadImage promise success */
-    this.loadImage().then( img => {
-      console.log('Loaded.')
-      // console.log(img)
-      const colorThief = new ColorThief()
-      const rgb = colorThief.getColor(img)
-      const rgbColor = `rgb(${rgb.join(', ')})`
-      // console.log(rgbColor)
-      this.setState({
-        imageColor: rgbColor
-      });
-
-    /* loadImage promise failure */
-    }, (error) => {
-      console.log('Loading failed.', error)
-      this.setState({loaded: false});
-    });
-
-    this.updateCells()
+    // window.addEventListener("resize", this.updateDimensions);
+    // this.updateCells()
   }
 
   render = () => {
@@ -202,32 +159,9 @@ class ImgGrid extends React.Component {
       >
         {this.generateCellBorders(cellCount)}
       </div>,
-      <div
-        className="image-loader"
-        key="image-loader"
-        style={{backgroundColor: this.state.imageColor}}
-      >
-      <img
-        src={this.state.imgUrl}
-        className="image"
-        style={
-          this.state.loaded
-            ? {opacity: '1'}
-            : {}
-        }
-        onLoad={
-          () => this.setState({
-            loaded: true
-          })
-        }
-      />
-      </div>
+      <ImgLoad {...this.props} />
     ]
   }
 }
-
-
-/* Render */
-// ReactDOM.render(<App />, document.getElementById('root'))
 
 export default (ImgGrid)

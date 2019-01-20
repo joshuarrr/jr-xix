@@ -4,6 +4,7 @@ import { Head } from 'react-static'
 // components
 import ScrollButton from '../components/scrollToTop/'
 import ImgLoad from '../components/projects/code/imgLoad/'
+import ImgGrid from '../components/projects/code/imgGrid/'
 
 /* Images */
 // const images = [
@@ -25,6 +26,18 @@ export default () => [
     <title>joshuar(HTML + CSS + JS)</title>
   </Head>,
   <section key="content" className="code projects">
+    <section className="project-summary">
+      <h1>/* React Grid Thing */</h1>
+      <p>Pretty squares.</p>
+      <ImgGrid
+        images={images}
+        ratio='16x9'
+        duration='3s'
+        classes="rounded"
+        cloudinary
+        random
+      />
+    </section>
     <section className="project-summary">
       <h1>/* ImgLoad */</h1>
       <p>React image loader.</p>
