@@ -9,7 +9,7 @@ export default (props) =>
     // the object returned here is passed to the
     // anchor element's props
     return {
-      class: isCurrent
+      className: isCurrent
         ? `${props.className} current`
         : `${props.className}`
     };

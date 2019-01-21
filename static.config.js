@@ -36,6 +36,10 @@ export default {
       component: 'src/containers/design',
     },
     {
+      path: 'design/hilights',
+      component: 'src/containers/design/hilights',
+    },
+    {
       path: 'code',
       component: 'src/containers/code',
     },

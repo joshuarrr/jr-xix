@@ -1,10 +1,11 @@
 import React from 'react'
 import { Head } from 'react-static'
+import { Router, Link } from "@reach/router"
 
 // components
 import ImgLoad from '../components/projects/code/imgLoad/'
-// import { Img } from '../components/image-loader'
 import ScrollButton from '../components/scrollToTop/'
+import Hilights from './design/hilights'
 
 // styles
 import '../styles/projects.css'
@@ -20,13 +21,19 @@ export default () => [
       <h1>/* Hilights */</h1>
       <p>Product design for a music collaboration app that facilitates conversations around specific sections of recordings.</p>
       <div className="project-cover">
-        <ImgLoad
-          images={["jr-xix/hilights/cover.png"]}
-          cloudinary
-          ratio="511x289"
-        />
+        <Link href="./design/hilights" to="design/hilights">
+          <ImgLoad
+            images={["jr-xix/hilights/cover.png"]}
+            cloudinary
+            ratio="511x289"
+          />
+        </Link>
       </div>
     </section>
+
+    <Router>
+      <Hilights path="hilights" />
+    </Router>
 
     <section className="project-summary">
       <h1>/* Lumen Learning */</h1>

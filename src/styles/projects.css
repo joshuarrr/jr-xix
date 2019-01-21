@@ -3,17 +3,19 @@
   max-width: 92rem;
 }
 
+.project,
 .project-summary {
   width: 100%;
   margin-bottom: calc(var(--trailer) * 2);
   position: relative;
 }
 
+.project p,
 .project-summary p {
   margin-bottom: calc(var(--trailer) / 2);
 }
 
-.project-summary .project-cover {
+.project-cover {
   background: #222;
   line-height: 0;
   border-radius: var(--border-radius);
@@ -50,10 +52,24 @@
   opacity: 1;
 }
 
+.desktop .project,
 .desktop .project-summary {
   top: -1px; /* optical alignment */
 }
 
+.desktop .project p,
 .desktop .project-summary p {
   margin-bottom: 3.5rem;
+}
+
+
+.project {
+  background: #222;
+  border-radius: var(--border-radius);
+  padding: 3rem;
+  border: 1px solid var(--border-gray);
+}
+
+.project section:not(:last-of-type) {
+  margin-bottom: var(--trailer);
 }

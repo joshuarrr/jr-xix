@@ -4,7 +4,7 @@ import { Head } from 'react-static'
 
 export default () => [
   <Head>
-    <title>j (not found)</title>
+    <title>joshuar(not found)</title>
   </Head>,
   <div>
     <h1>404 - Not found.</h1>
