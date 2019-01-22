@@ -43,6 +43,7 @@
   flex-direction: column;
 }
 
+.two-up .image-loader,
 .three-up .image-loader {
   margin-bottom: calc(var(--trailer) / 2);
 }
@@ -69,9 +70,22 @@
   width: 45%;
 }
 
-
 .desktop .two-up .two-up-wrapper:not(:last-of-type) {
   margin-right: calc(var(--desktop-gutter) / 2);
+}
+
+/* scrollable */
+.image-loader.scrollable {
+  overflow-y: scroll;
+}
+
+.desktop .image-loader.scrollable {
+  overflow-y: scroll;
+}
+
+.desktop .image.scrollable {
+  overflow: hidden;
+  /* border-radius: 0; */
 }
 
 /* Loading message */

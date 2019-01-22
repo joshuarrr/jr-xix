@@ -25,9 +25,36 @@ class Idealist extends React.Component {
       <section className="project-content">
         <section>
           <ImgLoad
-            images={["jr-xix/idealist/cover.png"]}
+            images={["jr-xix/idealist/cover"]}
             cloudinary
-            ratio="511x289"
+            ratio="900x646"
+          />
+        </section>
+        <section>
+          <h1>/* responsive search */</h1>
+          <ImgLoad
+            images={["jr-xix/idealist/idealist-search-mobile"]}
+            cloudinary
+            ratio="1800x796"
+            className="rounded"
+          />
+        </section>
+        <section>
+          <h1>/* our team + about us */</h1>
+          <ImgLoad
+            images={["jr-xix/idealist/idealist-team-mobile"]}
+            cloudinary
+            ratio="1800x1296"
+            className="rounded"
+          />
+        </section>
+        <section>
+          <h1>/* desktop search */</h1>
+          <ImgLoad
+            images={["jr-xix/idealist/idealist-search-desktop.jpg"]}
+            cloudinary
+            ratio="2560x1600"
+            className="rounded scrollable"
           />
         </section>
 

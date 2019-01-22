@@ -63,7 +63,8 @@
 }
 
 .desktop .scroll-button:hover {
+  transform-origin: center;
   transform:
     scale(1, 1)
-    translateY(50%);
+    translate(-40%, -8%);
 }

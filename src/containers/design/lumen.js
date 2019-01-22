@@ -109,15 +109,27 @@ class Lumen extends React.Component {
         </section>
         <section>
           <h1>/* wireframes */</h1>
-          <ImgLoad
-            images={["jr-xix/lumen/lumen-ac-wireframes"]}
-            cloudinary
-            ratio="2400x1453"
-            className="white rounded"
-          />
+          <div className="two-up">
+            <div className="two-up-wrapper">
+              <ImgLoad
+                images={["jr-xix/lumen/lumen-ac-wireframes"]}
+                cloudinary
+                ratio="2400x1453"
+                className="white rounded"
+              />
+            </div>
+            <div className="two-up-wrapper">
+              <ImgLoad
+                images={["jr-xix/lumen/lumen-qe-wireframes"]}
+                cloudinary
+                ratio="2400x1453"
+                className="white rounded"
+              />
+            </div>
+          </div>
         </section>
        <section>
-          <h1>/* card sorting for IA */</h1>
+          <h1>/* assessment creator */</h1>
           <div className="two-up">
             <div className="two-up-wrapper">
               <ImgLoad
@@ -138,6 +150,7 @@ class Lumen extends React.Component {
           </div>
         </section>
         <section>
+          <h1>/* question editor */</h1>
           <ImgLoad
             images={["jr-xix/lumen/lumen-wireframe-05-preview"]}
             cloudinary
