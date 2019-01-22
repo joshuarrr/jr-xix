@@ -58,7 +58,7 @@ export default () => [
 
     <section className="project-summary">
       <h1>/* Idealist */</h1>
-      <p>UX design & frontend engineering for Idealist.org, an international non-profit job board with a social mission to create more good in the world by helping people turn their intentions into actions.</p>
+      <p>UX design & front-end engineering for Idealist.org, an international non-profit job board with a social mission to create more good in the world by helping people turn their intentions into actions.</p>
       <div className="project-cover">
         <Link href="./design/idealist" to="design/idealist">
           <ImgLoad

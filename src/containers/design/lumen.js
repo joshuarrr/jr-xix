@@ -20,7 +20,7 @@ class Lumen extends React.Component {
     <section key="lumen-project" className="project lumen">
       <section className="summary">
         <h1>/* Lumen */</h1>
-        <p>UX design & frontend engineering for Lumen.org, an international non-profit job board with a social mission to create more good in the world by helping people turn their intentions into actions.</p>
+        <p>User research, usability testing, and UI wireframes for a LMS (Learning Management System) that provides open source textbooks.</p>
       </section>
       <section className="project-content">
         <section>
