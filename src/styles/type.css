@@ -42,7 +42,12 @@ p {
 a {
   text-decoration: none;
   color: var(--green);
-  border: 1px soli var(--green);
+  transition: color .3s ease-out;
+}
+
+a:hover {
+  cursor: pointer;
+  color: var(--yellow);
 }
 
 a:focus {
