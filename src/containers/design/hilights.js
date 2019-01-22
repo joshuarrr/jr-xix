@@ -1,5 +1,6 @@
 import React from 'react'
 import { Head } from 'react-static'
+import { Link } from "@reach/router"
 
 // components
 import ImgLoad from '../../components/projects/code/imgLoad/'
@@ -12,17 +13,16 @@ import '../../styles/project.css'
 
 class Hilights extends React.Component {
   render = () => [
-  <Head key="head">
-    <meta charSet="UTF-8" />
-    <title>joshuar(design)</title>
-  </Head>,
-  <div key="hilights-page">
-    <section className=" hilights">
+    <Head key="head">
+      <meta charSet="UTF-8" />
+      <title>joshuar(design)</title>
+    </Head>,
+    <section key="hilights-project" className="project hilights">
       <section className="summary">
         <h1>/* Hilights */</h1>
         <p>Product design for a music collaboration app that facilitates conversations around specific sections of recordings.</p>
       </section>
-      <section className="project">
+      <section className="project-content">
         <section>
           <ImgLoad
             images={["jr-xix/hilights/cover.png"]}
@@ -99,13 +99,13 @@ class Hilights extends React.Component {
           />
         </section>
       </section>
-    </section>
-  </div>,
-  <ScrollButton
-    key="scroll-button"
-    scrollStepInPx="80"
-    delayInMs="16.66"
-  />
+      <Link to="../../" href="/" className="back-link">back</Link>
+    </section>,
+    <ScrollButton
+      key="scroll-button"
+      scrollStepInPx="80"
+      delayInMs="16.66"
+    />
   ]
 }
 

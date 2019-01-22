@@ -24,7 +24,6 @@
   border-radius: var(--border-radius);
 }
 
-
 .desktop .image-loader.rounded {
   border-radius: calc(var(--border-radius) * 1.25);
   overflow: hidden;
@@ -37,6 +36,42 @@
 .image-loader.circle {
   border-radius: 50%;
   overflow: hidden;
+}
+
+.three-up {
+  display: flex;
+  flex-direction: column;
+}
+
+.three-up .image-loader {
+  margin-bottom: calc(var(--trailer) / 2);
+}
+
+.desktop .three-up {
+  display: flex;
+  flex-direction: row;
+}
+
+.desktop .three-up .three-up-wrapper {
+  width: 30%;
+}
+
+.desktop .three-up .three-up-wrapper:not(:last-of-type) {
+  margin-right: calc(var(--desktop-gutter) / 2);
+}
+
+.desktop .two-up {
+  display: flex;
+  flex-direction: row;
+}
+
+.desktop .two-up .two-up-wrapper {
+  width: 45%;
+}
+
+
+.desktop .two-up .two-up-wrapper:not(:last-of-type) {
+  margin-right: calc(var(--desktop-gutter) / 2);
 }
 
 /* Loading message */

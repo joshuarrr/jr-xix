@@ -40,6 +40,14 @@ export default {
       component: 'src/containers/design/hilights',
     },
     {
+      path: 'design/lumen',
+      component: 'src/containers/design/lumen',
+    },
+    {
+      path: 'design/idealist',
+      component: 'src/containers/design/idealist',
+    },
+    {
       path: 'code',
       component: 'src/containers/code',
     },

@@ -51,7 +51,7 @@
 /* Desktop positioning */
 .desktop .scroll-button {
   /* position: fixed; */
-  right: calc(var(--desktop-sidebar-wixdth) / 2);
+  right: 50%;
   bottom: 0;
   margin-bottom: var(--trailer);
   transition:
@@ -59,7 +59,7 @@
     transform .3s ease-in-out;
   transform:
     scale(.8, .8)
-    translateY(50%);
+    translateX(-50%);
 }
 
 .desktop .scroll-button:hover {
