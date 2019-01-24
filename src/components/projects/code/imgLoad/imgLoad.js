@@ -1,6 +1,4 @@
 import React from 'react'
-
-// cloudinary responsive image component
 import { Image } from 'cloudinary-react'
 
 // utils
@@ -20,8 +18,7 @@ import LoadingIndicator from '../../../loadingIndicator/'
   - optionally set image aspect ratio
 
   props:
-    images: an array of at least one image
-    random: defaults to false - use a random image from an array
+    image: a url
     ratio: if provided as #x#, will size the image for stenciling
     fade: defaults to true - fade image opacity of load
     duration: effect duration - defaults to .5s
@@ -32,7 +29,6 @@ import LoadingIndicator from '../../../loadingIndicator/'
     cloudinary: use cloudinary component instead of img
   */
 //
-
 class ImgLoad extends React.Component {
   constructor(props) {
     super(props)
@@ -99,8 +95,8 @@ class ImgLoad extends React.Component {
   }
 
   render = () => {
-    console.log(`imgload props: `)
-    console.log(this.props)
+      // console.log(`imgload props: `)
+      // console.log(this.props)
 
     // console.log(this.state)
     const imgStyles = this.props.fade
@@ -149,9 +145,9 @@ class ImgLoad extends React.Component {
           secure
           responsive
           onLoad={event => {
-            // narf
-            if (this.props.hollahBackGurl) {
-              this.props.hollahBackGurl(event.currentTarget.src)
+            // let parent know the image loaded and send back the url
+            if (this.props.imgLoaded) {
+              this.props.imgLoaded(event.currentTarget.src)
             }
             imageLoad()
           }}

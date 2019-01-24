@@ -28,13 +28,13 @@ class Code extends React.Component {
   }
 
   render = () => {
-    console.log ('this.state.image', this.state.image)
+    // console.log ('this.state.image', this.state.image)
     return [
       <Head key="head">
         <title>joshuar(HTML + CSS + JS)</title>
       </Head>,
-      <section key="content" className="code projects">
-        <section className="project-summary">
+      <section key="content-code-projects" className="code projects">
+        <section className="project-summary" key="project-grid-thing">
           <h1>/* React Grid Thing */</h1>
           <p>Pretty squares...</p>
           <ImgGrid
@@ -45,7 +45,7 @@ class Code extends React.Component {
             cloudinary
           />
         </section>
-        <section className="project-summary">
+        <section className="project-summary" key="project-imgload">
           <h1>/* ImgLoad */</h1>
           <p>React image loader.</p>
     {/*      <ImgLoad

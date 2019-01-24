@@ -3,6 +3,7 @@ import Palette from 'react-palette'
 
 // components
 import ImgLoad from '../imgLoad'
+import GridCells from '../gridCells'
 
 // styles
 import './imgGrid.css'
@@ -17,6 +18,11 @@ import './imgGrid.css'
   */
 
 class ImgGrid extends React.Component {
+  // default props
+  static defaultProps = {
+    image: null
+  }
+
   constructor(props) {
     super(props)
     this.imageGrid = React.createRef();
@@ -24,9 +30,32 @@ class ImgGrid extends React.Component {
     /* initial state */
     this.state = {
       loaded: false,
-      imageColor: null,
       imgUrl: this.props.url
     }
+  }
+
+
+  render = () => {
+    // console.log("this.state.imgUrl", this.state.imgUrl)
+    return (
+      <div
+        ref={this.imageGrid}
+        className="img-grid-wrapper"
+        style={{
+          paddingBottom: this.getAspectRatio()
+        }}
+      >
+        {
+          this.state.loaded &&
+          <Palette image={this.state.imgUrl}>
+            {palette => (
+              <GridCells color={palette.vibrant} node={this.imageGrid} />
+            )}
+          </Palette>
+        }
+        {this.renderImg()}
+      </div>
+    )
   }
 
   getAspectRatio = () => {
@@ -36,73 +65,27 @@ class ImgGrid extends React.Component {
       const aspectRatio = w && h
         ? `${((h / w) * 100).toFixed(2)}%`
         : console.log("Incorrect ratio prop")
-      // console.log(aspectRatio)
       return aspectRatio
     }
-    // console.log(this.props.ratio)
+
     const ratio = this.props.ratio && this.props.ratio.length
       ? computeRatio(this.props.ratio)
       : null
 
-      // console.log(`aspect ratio = ${aspectRatio}`)
     return ratio
   }
 
-  getImgColor = (img) =>
-    <Palette image={img}>
-      {palette => (
-        console.log("palette", palette) ||
-        <div style={{ color: palette.vibrant }}>
-          Text with the vibrant color
-        </div>
-      )}
-    </Palette>
 
   renderImg = () =>
     <ImgLoad {...this.props}
-      hollahBackGurl={imgUrl => {
-        console.log("imgUrl??????????", imgUrl)
+      imgLoaded ={src => {
+        // console.log("loaded??", loaded)
         this.setState({
-          imgUrl
+          loaded: true,
+          imgUrl: src
         })
       }}
     />
-
-  render = () => {
-    return [
-      <div
-        className="img-grid-wrapper"
-        style={{
-          paddingBottom: this.getAspectRatio()
-        }}
-      >
-        {/* Grid */}
-        <div
-          className="img-grid"
-          key="grid"
-        >
-          {this.state.loaded && this.generateCells()}
-        </div>
-
-        {/* Grid Borders */}
-        <div
-          className="grid-borders"
-          key="grid-borders"
-        >
-          {this.state.loaded && this.generateCells()}
-        </div>
-
-        {/* image */}
-        {this.renderImg()}
-        {this.state.imgUrl && this.getImgColor(this.state.imgUrl)}
-      </div>
-    ]
-  }
-
-  // default props
-  static defaultProps = {
-    image: null
-  }
 }
 
 export default (ImgGrid)
