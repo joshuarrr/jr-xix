@@ -25,7 +25,7 @@ class Lumen extends React.Component {
       <section className="project-content">
         <section>
           <ImgLoad
-            images={["jr-xix/lumen/cover.png"]}
+            url="jr-xix/lumen/cover.png"
             cloudinary
             ratio="511x289"
             className="rounded"
@@ -34,7 +34,7 @@ class Lumen extends React.Component {
         <section>
           <h1>/* app audit */</h1>
           <ImgLoad
-            images={["jr-xix/lumen/lumen-audit"]}
+            url="jr-xix/lumen/lumen-audit"
             cloudinary
             ratio="16x7"
             className="white rounded"
@@ -45,7 +45,7 @@ class Lumen extends React.Component {
           <div className="three-up">
             <div className="three-up-wrapper">
               <ImgLoad
-                images={["jr-xix/lumen/lumen-research-01"]}
+                url="jr-xix/lumen/lumen-research-01"
                 cloudinary
                 ratio="956x726"
                 className="rounded"
@@ -53,7 +53,7 @@ class Lumen extends React.Component {
             </div>
             <div className="three-up-wrapper">
               <ImgLoad
-                images={["jr-xix/lumen/lumen-research-02"]}
+                url="jr-xix/lumen/lumen-research-02"
                 cloudinary
                 ratio="956x726"
                 className="rounded"
@@ -61,7 +61,7 @@ class Lumen extends React.Component {
             </div>
             <div className="three-up-wrapper">
               <ImgLoad
-                images={["jr-xix/lumen/lumen-research-03"]}
+                url="jr-xix/lumen/lumen-research-03"
                 cloudinary
                 ratio="956x726"
                 className="rounded"
@@ -72,7 +72,7 @@ class Lumen extends React.Component {
         <section>
           <h1>/* personas */</h1>
           <ImgLoad
-            images={["jr-xix/lumen/lumen-personas-02"]}
+            url="jr-xix/lumen/lumen-personas-02"
             cloudinary
             ratio="502x325"
             className="white rounded"
@@ -83,7 +83,7 @@ class Lumen extends React.Component {
           <div className="three-up">
             <div className="three-up-wrapper">
               <ImgLoad
-                images={["jr-xix/lumen/lumen-card-sorting-01"]}
+                url="jr-xix/lumen/lumen-card-sorting-01"
                 cloudinary
                 ratio="12x12"
                 className="rounded"
@@ -91,7 +91,7 @@ class Lumen extends React.Component {
             </div>
             <div className="three-up-wrapper">
               <ImgLoad
-                images={["jr-xix/lumen/lumen-card-sorting-02"]}
+                url="jr-xix/lumen/lumen-card-sorting-02"
                 cloudinary
                 ratio="12x12"
                 className="rounded"
@@ -99,7 +99,7 @@ class Lumen extends React.Component {
             </div>
             <div className="three-up-wrapper">
               <ImgLoad
-                images={["jr-xix/lumen/lumen-card-sorting-03"]}
+                url="jr-xix/lumen/lumen-card-sorting-03"
                 cloudinary
                 ratio="12x12"
                 className="rounded"
@@ -112,7 +112,7 @@ class Lumen extends React.Component {
           <div className="two-up">
             <div className="two-up-wrapper">
               <ImgLoad
-                images={["jr-xix/lumen/lumen-ac-wireframes"]}
+                url="jr-xix/lumen/lumen-ac-wireframes"
                 cloudinary
                 ratio="2400x1453"
                 className="white rounded"
@@ -120,7 +120,7 @@ class Lumen extends React.Component {
             </div>
             <div className="two-up-wrapper">
               <ImgLoad
-                images={["jr-xix/lumen/lumen-qe-wireframes"]}
+                url="jr-xix/lumen/lumen-qe-wireframes"
                 cloudinary
                 ratio="2400x1453"
                 className="white rounded"
@@ -133,7 +133,7 @@ class Lumen extends React.Component {
           <div className="two-up">
             <div className="two-up-wrapper">
               <ImgLoad
-                images={["jr-xix/lumen/lumen-ac-02"]}
+                url="jr-xix/lumen/lumen-ac-02"
                 cloudinary
                 ratio="2880x2936"
                 className="rounded"
@@ -141,7 +141,7 @@ class Lumen extends React.Component {
             </div>
             <div className="two-up-wrapper">
               <ImgLoad
-                images={["jr-xix/lumen/lumen-ac-03"]}
+                url="jr-xix/lumen/lumen-ac-03"
                 cloudinary
                 ratio="2880x2686"
                 className="rounded"
@@ -152,7 +152,7 @@ class Lumen extends React.Component {
         <section>
           <h1>/* question editor */</h1>
           <ImgLoad
-            images={["jr-xix/lumen/lumen-wireframe-05-preview"]}
+            url="jr-xix/lumen/lumen-wireframe-05-preview"
             cloudinary
             ratio="2400x1453"
             className="white rounded"

@@ -30,6 +30,20 @@ import LoadingIndicator from '../../../loadingIndicator/'
   */
 //
 class ImgLoad extends React.Component {
+
+  // default props
+  static defaultProps = {
+    url: null,
+    ratio: null,
+    fade: true,
+    duration: '.5s',
+    className: '',
+    indicator: true,
+    loadingMessage: null,
+    controls: false,
+    cloudinary: true,
+  }
+
   constructor(props) {
     super(props)
 
@@ -129,8 +143,6 @@ class ImgLoad extends React.Component {
         })
       }
 
-      // console.log(this.state.imgUrl)
-
     /* if cloudinary prop is true, use the cloudinary component... */
     const showImage = this.props.cloudinary
       ? <Image
@@ -174,19 +186,6 @@ class ImgLoad extends React.Component {
         {showControls}
       </div>
     )
-  }
-
-  // default props
-  static defaultProps = {
-    images: [],
-    ratio: null,
-    fade: true,
-    duration: '.5s',
-    className: '',
-    indicator: true,
-    loadingMessage: null,
-    controls: false,
-    cloudinary: true,
   }
 }
 

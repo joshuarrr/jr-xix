@@ -25,7 +25,7 @@ class Idealist extends React.Component {
       <section className="project-content">
         <section>
           <ImgLoad
-            images={["jr-xix/idealist/cover"]}
+            url="jr-xix/idealist/cover"
             cloudinary
             ratio="900x646"
           />
@@ -33,7 +33,7 @@ class Idealist extends React.Component {
         <section>
           <h1>/* responsive search */</h1>
           <ImgLoad
-            images={["jr-xix/idealist/idealist-search-mobile"]}
+            url="jr-xix/idealist/idealist-search-mobile"
             cloudinary
             ratio="1800x796"
             className="rounded"
@@ -42,7 +42,7 @@ class Idealist extends React.Component {
         <section>
           <h1>/* our team + about us */</h1>
           <ImgLoad
-            images={["jr-xix/idealist/idealist-team-mobile"]}
+            url="jr-xix/idealist/idealist-team-mobile"
             cloudinary
             ratio="1800x1296"
             className="rounded"
@@ -51,7 +51,7 @@ class Idealist extends React.Component {
         <section>
           <h1>/* desktop search */</h1>
           <ImgLoad
-            images={["jr-xix/idealist/idealist-search-desktop.jpg"]}
+            url="jr-xix/idealist/idealist-search-desktop.jpg"
             cloudinary
             ratio="2560x1600"
             className="rounded scrollable"

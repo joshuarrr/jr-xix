@@ -25,7 +25,7 @@ class Hilights extends React.Component {
       <section className="project-content">
         <section>
           <ImgLoad
-            images={["jr-xix/hilights/cover.png"]}
+            url="jr-xix/hilights/cover.png"
             cloudinary
             ratio="511x289"
           />
@@ -33,7 +33,7 @@ class Hilights extends React.Component {
         <section>
           <h1>/* wireframes */</h1>
           <ImgLoad
-            images={["jr-xix/hilights/hilights-wireframe-sketches.jpg"]}
+            url="jr-xix/hilights/hilights-wireframe-sketches.jpg"
             cloudinary
             ratio="26x11"
             className="rounded"
@@ -42,7 +42,7 @@ class Hilights extends React.Component {
         <section>
           <h1>/* mobile sitemap */</h1>
           <ImgLoad
-            images={["jr-xix/hilights/hilights-sitemap-mobile.jpg"]}
+            url="jr-xix/hilights/hilights-sitemap-mobile.jpg"
             cloudinary
             ratio="8x5"
             className="rounded"
@@ -51,7 +51,7 @@ class Hilights extends React.Component {
         <section>
           <h1>/* desktop sitemap */</h1>
           <ImgLoad
-            images={["jr-xix/hilights/hilights-sitemap-desktop.jpg"]}
+            url="jr-xix/hilights/hilights-sitemap-desktop.jpg"
             cloudinary
             ratio="8x5"
             className="rounded"
@@ -60,7 +60,7 @@ class Hilights extends React.Component {
         <section>
           <h1>/* mobile wireframes */</h1>
           <ImgLoad
-            images={["jr-xix/hilights/hilights-wireframes-mobile"]}
+            url="jr-xix/hilights/hilights-wireframes-mobile"
             cloudinary
             ratio="900x683"
           />
@@ -68,7 +68,7 @@ class Hilights extends React.Component {
         <section>
           <h1>/* desktop wireframe prototype */</h1>
           <ImgLoad
-            images={["jr-xix/hilights/hilights-wireframe-prototype-desktop"]}
+            url="jr-xix/hilights/hilights-wireframe-prototype-desktop"
             cloudinary
             ratio="8x5"
             className="rounded"
@@ -77,7 +77,7 @@ class Hilights extends React.Component {
         <section>
           <h1>/* mobile comp */</h1>
           <ImgLoad
-            images={["jr-xix/hilights/hilights-mobile"]}
+            url="jr-xix/hilights/hilights-mobile"
             cloudinary
             ratio="2101x1500"
             className="rounded"
@@ -86,13 +86,13 @@ class Hilights extends React.Component {
         <section>
           <h1>/* desktop comps */</h1>
           <ImgLoad
-            images={["jr-xix/hilights/hilights-macbook"]}
+            url="jr-xix/hilights/hilights-macbook"
             cloudinary
             ratio="2101x1700"
             className="rounded"
           />
           <ImgLoad
-            images={["jr-xix/hilights/hilights-imac"]}
+            url="jr-xix/hilights/hilights-imac"
             cloudinary
             ratio="2101x1700"
             className="rounded"

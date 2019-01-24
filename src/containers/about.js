@@ -18,7 +18,7 @@ export default () => [
   <section key="content" className="about content">
     <div className="profile-pic-wrapper">
     <ImgLoad
-      images={['jr-xix/joshua-richey']}
+      url="jr-xix/joshua-richey"
       ratio='1x1'
       duration='1s'
       className="profile-pic rounded bordered"
@@ -32,7 +32,7 @@ export default () => [
       <p>When not in front of his screen, he’s probably out walking around with his dog. When in front of the screen, he probably looks like this:</p>
       <div className="working-pic-wrapper">
         <ImgLoad
-          images={['jr-xix/working']}
+          url="jr-xix/working"
           ratio='1x1'
           duration='1s'
           className="rounded bordered"

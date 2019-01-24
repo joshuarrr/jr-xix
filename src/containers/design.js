@@ -27,7 +27,7 @@ export default () => [
       <div className="project-cover">
         <Link href="./design/hilights" to="design/hilights">
           <ImgLoad
-            images={["jr-xix/hilights/cover.png"]}
+            url="jr-xix/hilights/cover.png"
             cloudinary
             ratio="511x289"
           />
@@ -47,7 +47,7 @@ export default () => [
       <div className="project-cover">
         <Link href="./design/lumen" to="design/lumen">
           <ImgLoad
-            images={["jr-xix/lumen/cover.png"]}
+            url="jr-xix/lumen/cover.png"
             cloudinary
             ratio="900x564"
             className="rounded"
@@ -62,7 +62,7 @@ export default () => [
       <div className="project-cover">
         <Link href="./design/idealist" to="design/idealist">
           <ImgLoad
-            images={["jr-xix/idealist/cover.png"]}
+            url="jr-xix/idealist/cover.png"
             cloudinary
             ratio="900x646"
           />
