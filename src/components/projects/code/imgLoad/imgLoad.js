@@ -18,7 +18,7 @@ import LoadingIndicator from '../../../loadingIndicator/'
 
   props:
     images: an array of at least one image
-    random: defaults to true - use a random image from an array
+    random: defaults to false - use a random image from an array
     ratio: if provided as #x#, will size the image for stenciling
     fade: defaults to true - fade image opacity of load
     duration: effect duration - defaults to .5s
@@ -33,6 +33,7 @@ import LoadingIndicator from '../../../loadingIndicator/'
 class ImgLoad extends React.Component {
   constructor(props) {
     super(props)
+
     /* return a random number from an array */
     const randomIndexOf = (arr) => Math.floor(Math.random() * arr.length)
 
@@ -41,13 +42,19 @@ class ImgLoad extends React.Component {
 
     /* return random image url from images array if the array isn't empty
     and props.random = true, otherwise return the first item of the array */
-    const img = this.props.images.length
-      ? (console.log('* images array is not empty'),
-        this.props.random)
-        ? (console.log('* random is true'),
-          chooseFrom(props.images))
-        : (console.log('* random is false'),
-          this.props.images[0])
+    // const img = this.props.images.length
+    //   ? (console.log('* images array is not empty'),
+    //     this.props.random)
+    //     ? (console.log('* random is true'),
+    //       chooseFrom(props.images))
+    //     : (console.log('* random is false'),
+    //       this.props.images[0])
+    //   : console.log('* images array is empty')
+
+    const img = this.props.images !== []
+      ? this.props.random
+        ? chooseFrom(props.images)
+        : this.props.images[0]
       : console.log('* images array is empty')
 
     /* initial state */
@@ -58,7 +65,7 @@ class ImgLoad extends React.Component {
   }
 
   loadImage = () => new Promise( (resolve, reject) => {
-      console.log('Loading...')
+      // console.log('Loading...')
       const img = new Image()
       /* resolve promise on load */
       img.onload = () => {
@@ -78,9 +85,9 @@ class ImgLoad extends React.Component {
     /* If not using cloudinary, call loadImage */
     /* loadImage promise success */
     if (!this.props.cloudinary) {
-      console.log('...not cloudinary...')
+      // console.log('...not cloudinary...')
       this.loadImage().then(() => {
-        console.log('Loaded.')
+        // console.log('Loaded.')
         this.setState({
           loaded: true
         })
@@ -99,11 +106,11 @@ class ImgLoad extends React.Component {
       const aspectRatio = w && h
         ? `${((h / w) * 100).toFixed(2)}%`
         : console.log("Incorrect ratio prop")
-      console.log(aspectRatio)
+      // console.log(aspectRatio)
       return aspectRatio
     }
-    console.log(this.props.ratio)
-    const ratio =  this.props.ratio && this.props.ratio.length
+    // console.log(this.props.ratio)
+    const ratio = this.props.ratio && this.props.ratio.length
       ? computeRatio(this.props.ratio)
       : null
 
@@ -112,6 +119,9 @@ class ImgLoad extends React.Component {
   }
 
   render = () => {
+    console.log(`imgload props: `)
+    console.log(this.props)
+
     // console.log(this.state)
     const imgStyles = this.props.fade
       ? {
@@ -143,7 +153,7 @@ class ImgLoad extends React.Component {
         })
       }
 
-      console.log(this.state.imgUrl)
+      // console.log(this.state.imgUrl)
 
     /* if cloudinary prop is true, use the cloudinary component... */
     const showImage = this.props.cloudinary
@@ -158,8 +168,11 @@ class ImgLoad extends React.Component {
           f_auto="true"
           secure
           responsive
-          onLoad={() => {
-            console.log('Loaded Cloudinary Image')
+          onLoad={event => {
+            // narf
+            if (this.props.hollahBackGurl) {
+              this.props.hollahBackGurl(event.currentTarget.src)
+            }
             imageLoad()
           }}
           style={imgStyles}
@@ -198,8 +211,8 @@ class ImgLoad extends React.Component {
     indicator: true,
     loadingMessage: null,
     controls: false,
-    cloudinary: false,
+    cloudinary: true,
   }
 }
 
-export default (ImgLoad)
+export default React.forwardRef((props, ref) => <ImgLoad {...props} imgRef={ref}/>)

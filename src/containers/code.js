@@ -15,9 +15,9 @@ import ImgGrid from '../components/projects/code/imgGrid/'
 
 // cloudinary images
 const images = [
-  'photos/conquer.jpg',
-  'jr-xix/projects/nature.jpg',
-  'photos/aerial-01.jpg',
+  'jr-xix/projects/conquer',
+  'jr-xix/projects/santa-monica',
+  'jr-xix/projects/birds',
 ]
 //
 
@@ -28,12 +28,12 @@ export default () => [
   <section key="content" className="code projects">
     <section className="project-summary">
       <h1>/* React Grid Thing */</h1>
-      <p>Pretty squares.</p>
+      <p>Pretty squares...</p>
       <ImgGrid
         images={images}
         ratio='16x9'
         duration='3s'
-        className="rounded bordered"
+        className="rounded bordered img-grid"
         cloudinary
         random
       />
@@ -41,14 +41,14 @@ export default () => [
     <section className="project-summary">
       <h1>/* ImgLoad */</h1>
       <p>React image loader.</p>
-      <ImgLoad
+{/*      <ImgLoad
         images={images}
         ratio='16x9'
         duration='3s'
         className="rounded bordered"
         cloudinary
         random
-      />
+      />*/}
     </section>
   </section>,
   <ScrollButton

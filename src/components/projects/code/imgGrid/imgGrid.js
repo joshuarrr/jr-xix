@@ -1,165 +1,112 @@
 import React from 'react'
+import Palette from 'react-palette'
 
 // components
-import ImgLoad from '../imgLoad/'
+import ImgLoad from '../imgLoad'
+
+// styles
+import './imgGrid.css'
 //
 
 /* ImgGrid *//*
+  - load an image using imgLoad
   - generate a grid of cells based on the image size
   - color cells based on the image color
   - assign divs random opacities
   - change some random cell opacities on an interval to animate the cells
   */
+
 class ImgGrid extends React.Component {
   constructor(props) {
     super(props)
-    const cols = Math.round(window.innerWidth / 100)
-    const rows = Math.round(window.innerHeight / 100)
-
-    /* Randomly assign classes to the grid cells */
-    const assignOpacity = (count) => {
-      const grid = []
-      for (let i = 0; i < count; i++) {
-        grid.push(
-          Math.random()
-        )
-      }
-      return grid
-    }
-
-    const imagesToLoad = this.props.images
-
-    /* Return a random number from an array */
-    const randomIndexOf = (arr) => Math.floor(Math.random() * arr.length)
-
-    /* Return an item from an array */
-    const chooseFrom = (arr) =>
-      arr[randomIndexOf(arr)]
-
-    /* Return random image url from images array */
-    const imgUrl = chooseFrom(imagesToLoad)
-    console.log(`imgUrl = ${imgUrl}`)
+    this.imageGrid = React.createRef();
 
     /* initial state */
     this.state = {
-      cols,
-      rows,
-      opacities: assignOpacity(cols * rows),
       loaded: false,
       imageColor: null,
-      imgUrl
+      imgUrl: null
     }
   }
 
+  getAspectRatio = () => {
+    const computeRatio = (ratio) => {
+      const w = parseInt(ratio.toString().split("x")[0]) // before x
+      const h = parseInt(ratio.toString().split("x")[1]) // after x
+      const aspectRatio = w && h
+        ? `${((h / w) * 100).toFixed(2)}%`
+        : console.log("Incorrect ratio prop")
+      // console.log(aspectRatio)
+      return aspectRatio
+    }
+    // console.log(this.props.ratio)
+    const ratio = this.props.ratio && this.props.ratio.length
+      ? computeRatio(this.props.ratio)
+      : null
 
+      // console.log(`aspect ratio = ${aspectRatio}`)
+    return ratio
+  }
 
-  /* Generate grid cells */
-  generateCells = (opacities, cellColor) =>
-    opacities.map((cellOpacity, i) =>
-      <div
-        key={`cell-${i}`}
-        className="cell"
-        style={{
-          opacity: `${cellOpacity}`,
-          backgroundColor: cellColor,
-          mixBlendMode: this.mixMe
-        }}
+  // getImageColor = () => {
+  //     const colorThief = new ColorThief()
+  //     const rgb = colorThief.getColor(img)
+  //     const rgbColor = `rgb(${rgb.join(', ')})`
+  //     console.log(rgbColor)
+  //     this.setState({
+  //       imageColor: rgbColor
+  //     });
+  // }
+
+  getImgColor = (img) =>
+    <Palette image={img}>
+      {palette => (
+        console.log("palette", palette) ||
+        <div style={{ color: palette.vibrant }}>
+          Text with the vibrant color
+        </div>
+      )}
+    </Palette>
+
+  renderImg = () => {
+    const { images, random, ...props } = this.props
+    return <ImgLoad {...this.props}
+      images={images}
+      hollahBackGurl={imgUrl => {
+        console.log("imgUrl??????????", imgUrl)
+        this.setState({imgUrl})
+      }}
       />
-    )
-
-  /* Generate grid-border cells */
-  generateCellBorders = (count) => {
-    const borders = []
-    for (let i = 0; i < count; i++) {
-      borders.push(
-        <div
-          key={`cell-${i}`}
-          className="cell"
-        />
-      )
-    }
-    return borders
-  }
-
-  updateCells = () => {
-    /* Generate a grid of cells  */
-    this.interval = setInterval(() => {
-      // * Get the current array of opacities
-      // console.log(this.state.opacities)
-      const updatedCells = this.state.opacities
-      const numberOfCellsToChange = 10
-     /* get a random integer */
-      const randomOpacity = () => {
-        // console.log(Math.floor(Math.random() * 11))
-        return Math.floor(Math.random() * 11)
-      }
-      for (let i = 0; i < numberOfCellsToChange; i++) {
-
-       // * generate a random index number from the array
-        const randomIndex = randomIndexOf(this.state.opacities)
-
-        // assign opacities
-        updatedCells[randomIndex] = `.${randomOpacity()}`
-      }
-      // * Set state with the updated array
-      this.setState({
-        opacities: updatedCells
-      })
-    }, 1000);
-  }
-
-  updateDimensions = () => {
-    const cols = Math.round(window.innerWidth / 100)
-    const rows = Math.round(window.innerHeight / 100)
-    // console.log(`columns = ${cols}`)
-    // console.log(`rows = ${rows}`)
-    // console.log(assignOpacity(cols * rows))
-
-    this.setState({
-      cols,
-      rows,
-      opacities: assignOpacity(cols * rows)
-    });
-  }
-
-  componentDidMount = () => {
-    // window.addEventListener("resize", this.updateDimensions);
-    // this.updateCells()
   }
 
   render = () => {
-    const support = window.CSS.supports('mix-blend-mode','multiply');
-    const mixMe = support ? 'multiply' : ''
-    // console.log('render state:', this.state)
-    const cellSize = window.innerWidth / this.state.cols
-    // console.log(`cell size = ${cellSize}`)
-    const cellCount = this.state.cols * this.state.rows
-    // console.log(`this.state.imageColor: ${this.state.imageColor}`)
     return [
-      /* Grid */
       <div
-        className="grid"
-        key="grid"
+        className="img-grid-wrapper"
         style={{
-          gridTemplateColumns: `repeat(auto-fill, minmax(${cellSize}px, 1fr))`
+          paddingBottom: this.getAspectRatio()
         }}
       >
-        { this.state.loaded ?
-          this.generateCells(this.state.opacities, this.state.imageColor)
-          : <p className="loading-text">Loading......</p>
-        }
-      </div>,
-      /* Grid Borders */
-      <div
-        className="grid-borders"
-        key="grid-borders"
-        style={{
-          gridTemplateColumns: `repeat(auto-fill, minmax(${cellSize}px, 1fr))`
-        }}
-      >
-        {this.generateCellBorders(cellCount)}
-      </div>,
-      <ImgLoad {...this.props} />
+        {/* Grid */}
+        <div
+          className="img-grid"
+          key="grid"
+        >
+          {this.state.loaded && this.generateCells()}
+        </div>
+
+        {/* Grid Borders */}
+        <div
+          className="grid-borders"
+          key="grid-borders"
+        >
+          {this.state.loaded && this.generateCells()}
+        </div>
+
+        {/* image */}
+        {this.renderImg()}
+        {this.state.imgUrl && this.getImgColor(this.state.imgUrl)}
+      </div>
     ]
   }
 }
