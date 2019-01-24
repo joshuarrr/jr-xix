@@ -25,7 +25,7 @@ class ImgGrid extends React.Component {
     this.state = {
       loaded: false,
       imageColor: null,
-      imgUrl: null
+      imgUrl: this.props.url
     }
   }
 
@@ -48,16 +48,6 @@ class ImgGrid extends React.Component {
     return ratio
   }
 
-  // getImageColor = () => {
-  //     const colorThief = new ColorThief()
-  //     const rgb = colorThief.getColor(img)
-  //     const rgbColor = `rgb(${rgb.join(', ')})`
-  //     console.log(rgbColor)
-  //     this.setState({
-  //       imageColor: rgbColor
-  //     });
-  // }
-
   getImgColor = (img) =>
     <Palette image={img}>
       {palette => (
@@ -68,16 +58,15 @@ class ImgGrid extends React.Component {
       )}
     </Palette>
 
-  renderImg = () => {
-    const { images, random, ...props } = this.props
-    return <ImgLoad {...this.props}
-      images={images}
+  renderImg = () =>
+    <ImgLoad {...this.props}
       hollahBackGurl={imgUrl => {
         console.log("imgUrl??????????", imgUrl)
-        this.setState({imgUrl})
+        this.setState({
+          imgUrl
+        })
       }}
-      />
-  }
+    />
 
   render = () => {
     return [
@@ -108,6 +97,11 @@ class ImgGrid extends React.Component {
         {this.state.imgUrl && this.getImgColor(this.state.imgUrl)}
       </div>
     ]
+  }
+
+  // default props
+  static defaultProps = {
+    image: null
   }
 }
 

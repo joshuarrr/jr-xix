@@ -3,6 +3,9 @@ import React from 'react'
 // cloudinary responsive image component
 import { Image } from 'cloudinary-react'
 
+// utils
+import { chooseFrom } from '../../../../utils'
+
 // styles
 import './imgLoad.css'
 
@@ -34,33 +37,10 @@ class ImgLoad extends React.Component {
   constructor(props) {
     super(props)
 
-    /* return a random number from an array */
-    const randomIndexOf = (arr) => Math.floor(Math.random() * arr.length)
-
-    /* return an item from an array */
-    const chooseFrom = (arr) => arr[randomIndexOf(arr)]
-
-    /* return random image url from images array if the array isn't empty
-    and props.random = true, otherwise return the first item of the array */
-    // const img = this.props.images.length
-    //   ? (console.log('* images array is not empty'),
-    //     this.props.random)
-    //     ? (console.log('* random is true'),
-    //       chooseFrom(props.images))
-    //     : (console.log('* random is false'),
-    //       this.props.images[0])
-    //   : console.log('* images array is empty')
-
-    const img = this.props.images !== []
-      ? this.props.random
-        ? chooseFrom(props.images)
-        : this.props.images[0]
-      : console.log('* images array is empty')
-
     /* initial state */
     this.state = {
       loaded: false,
-      imgUrl: img,
+      imgUrl: this.props.url,
     }
   }
 
@@ -203,7 +183,6 @@ class ImgLoad extends React.Component {
   // default props
   static defaultProps = {
     images: [],
-    random: false,
     ratio: null,
     fade: true,
     duration: '.5s',
