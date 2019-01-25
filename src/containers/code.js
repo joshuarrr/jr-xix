@@ -40,7 +40,7 @@ class Code extends React.Component {
           <ImgGrid
             url={this.state.image}
             ratio='16x9'
-            duration='3s'
+            duration='.5s'
             className="rounded bordered"
             cloudinary
           />

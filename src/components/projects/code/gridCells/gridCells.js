@@ -17,7 +17,8 @@ class GridCells extends React.Component {
       opacities: null,
       rows: null,
       cols: null,
-      cellSize: null
+      cellSize: null,
+      cellCount: ''
     }
   }
 
@@ -40,7 +41,8 @@ class GridCells extends React.Component {
       rows,
       cols,
       opacities: this.assignOpacity(rows * cols),
-      cellSize: cellSize
+      cellSize: cellSize,
+      cellCount: rows * cols
     })
 
     // this.assignOpacity(this.state.rows * this.state.cols)
@@ -49,10 +51,19 @@ class GridCells extends React.Component {
   }
 
   render = () => {
-    console.log('this.state.opacities', this.state.opacities)
+    // console.log('this.state.opacities', this.state.opacities)
     // console.log('ratio in gridcells', this.props.ratio)
+    const support = window.CSS.supports('mix-blend-mode','multiply');
+    const mixMe = support ? 'multiply' : ''
 
-    return (
+    return [
+      <div
+        className="grid-borders"
+        key="grid-borders"
+      >
+        { this.state.cellCount &&
+          this.generateCellBorders(this.state.cellCount)}
+      </div>,
       <div
         className="img-grid"
         ref={this.imageGrid}
@@ -62,10 +73,10 @@ class GridCells extends React.Component {
         }}
       >
         { this.state.opacities &&
-          this.generateCells(this.state.opacities, this.props.color)
+          this.generateCells(this.state.opacities, this.props.color, mixMe)
         }
       </div>
-    )
+    ]
   }
 
   assignOpacity = (count) => {
@@ -78,7 +89,7 @@ class GridCells extends React.Component {
     return grid
   }
 
-  generateCells = (opacities, cellColor) =>
+  generateCells = (opacities, cellColor, mode) =>
     opacities.map((cellOpacity, i) =>
       <div
         key={`cell-${i}`}
@@ -86,7 +97,7 @@ class GridCells extends React.Component {
         style={{
           opacity: `${cellOpacity}`,
           backgroundColor: cellColor,
-          mixBlendMode: this.mixMe
+          mixBlendMode: mode
         }}
       />
     )
@@ -125,7 +136,7 @@ class GridCells extends React.Component {
       this.setState({
         opacities: updatedCells
       })
-    }, 10000);
+    }, 1000);
   }
 }
 
