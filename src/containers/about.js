@@ -4,12 +4,10 @@ import { Head } from 'react-static'
 // components
 import ImgLoad from '../components/projects/code/imgLoad/'
 
-// images
-import profilePic from'../img/Me.jpg';
-
 // styles
 import'../styles/about.css'
 //
+
 
 export default () => [
   <Head key="head">

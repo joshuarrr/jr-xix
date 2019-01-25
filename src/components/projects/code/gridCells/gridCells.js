@@ -3,10 +3,10 @@ import React from 'react'
 // utils
 import { randomIndexOf } from '../../../../utils'
 
-
 // styles
 import './gridCells.css'
 //
+
 
 class GridCells extends React.Component {
   constructor(props) {
@@ -31,8 +31,8 @@ class GridCells extends React.Component {
     /* if less than 500px, cellsize = 50px, */
     /* if greater than 500, cellsize is 100 */
     const cellSize = w < 500
-      ? 50
-      : 100
+      ? w / 10
+      : w / 20
 
     const rows =  Math.round(w / cellSize)
     const cols =  Math.round(h / cellSize)
@@ -41,18 +41,15 @@ class GridCells extends React.Component {
       rows,
       cols,
       opacities: this.assignOpacity(rows * cols),
-      cellSize: cellSize,
+      cellSize,
       cellCount: rows * cols
     })
 
-    // this.assignOpacity(this.state.rows * this.state.cols)
     window.addEventListener("resize", this.updateDimensions);
     this.updateCells()
   }
 
   render = () => {
-    // console.log('this.state.opacities', this.state.opacities)
-    // console.log('ratio in gridcells', this.props.ratio)
     const support = window.CSS.supports('mix-blend-mode','multiply');
     const mixMe = support ? 'multiply' : ''
 
@@ -103,7 +100,7 @@ class GridCells extends React.Component {
     )
 
   generateCellBorders = (count) => {
-  const borders = []
+    const borders = []
     for (let i = 0; i < count; i++) {
       borders.push(
         <div
@@ -120,12 +117,12 @@ class GridCells extends React.Component {
     this.interval = setInterval(() => {
       // * Get the current array of opacities
       const updatedCells = this.state.opacities
-      const numberToChange = 10
-     /* get a random integer */
-      const randomOpacity = () => {
+      const numberToChange = this.state.rows * this.state.cols / 2
+     /* get a random int */
+      const randomOpacity = () =>
         // console.log(Math.floor(Math.random() * 11))
-        return Math.floor(Math.random() * 11)
-      }
+        Math.floor(Math.random() * 11)
+
       for (let i = 0; i < numberToChange; i++) {
        // * generate a random index number from the array
         const randomIndex = randomIndexOf(this.state.opacities)
@@ -136,7 +133,7 @@ class GridCells extends React.Component {
       this.setState({
         opacities: updatedCells
       })
-    }, 1000);
+    }, 1100);
   }
 }
 

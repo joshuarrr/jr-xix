@@ -1,15 +1,3 @@
-import React from 'react'
-import { Image } from 'cloudinary-react'
-
-// utils
-import { chooseFrom } from '../../../../utils'
-
-// styles
-import './imgLoad.css'
-
-// components
-import LoadingIndicator from '../../../loadingIndicator/'
-
 /* ImgLoad *//*
   - get an image from props array
   - set loading text / spinner
@@ -28,10 +16,19 @@ import LoadingIndicator from '../../../loadingIndicator/'
     controls:  show controls to adjust props
     cloudinary: use cloudinary component instead of img
   */
-//
-class ImgLoad extends React.Component {
 
-  // default props
+import React from 'react'
+import { Image } from 'cloudinary-react'
+
+// styles
+import './imgLoad.css'
+
+// components
+import LoadingIndicator from '../../../loadingIndicator/'
+//
+
+
+class ImgLoad extends React.Component {
   static defaultProps = {
     url: null,
     ratio: null,
@@ -47,37 +44,18 @@ class ImgLoad extends React.Component {
   constructor(props) {
     super(props)
 
-    /* initial state */
     this.state = {
       loaded: false,
       imgUrl: this.props.url,
     }
   }
 
-  loadImage = () => new Promise( (resolve, reject) => {
-      // console.log('Loading...')
-      const img = new Image()
-      /* resolve promise on load */
-      img.onload = () => {
-        resolve(img) // return the image element
-      }
-      /* reject promise on not load */
-      img.onerror = () => {
-        reject()
-      }
-      /* image to load */
-      img.src = this.state.imgUrl
-      // console.log(`img.src = ${this.state.imgUrl}`)
-    })
-
   componentDidMount = () => {
-    // console.log( this.loadImage())
     /* If not using cloudinary, call loadImage */
     /* loadImage promise success */
     if (!this.props.cloudinary) {
       // console.log('...not cloudinary...')
       this.loadImage().then(() => {
-        // console.log('Loaded.')
         this.setState({
           loaded: true
         })
@@ -89,30 +67,7 @@ class ImgLoad extends React.Component {
     }
   }
 
-  getAspectRatio = () => {
-    const computeRatio = (ratio) => {
-      const w = parseInt(ratio.toString().split("x")[0]) // before x
-      const h = parseInt(ratio.toString().split("x")[1]) // after x
-      const aspectRatio = w && h
-        ? `${((h / w) * 100).toFixed(2)}%`
-        : console.log("Incorrect ratio prop")
-      // console.log(aspectRatio)
-      return aspectRatio
-    }
-    // console.log(this.props.ratio)
-    const ratio = this.props.ratio && this.props.ratio.length
-      ? computeRatio(this.props.ratio)
-      : null
-
-      // console.log(`aspect ratio = ${aspectRatio}`)
-    return ratio
-  }
-
   render = () => {
-      // console.log(`imgload props: `)
-      // console.log(this.props)
-
-    // console.log(this.state)
     const imgStyles = this.props.fade
       ? {
         opacity: this.state.loaded ? '1' : '0',
@@ -186,6 +141,35 @@ class ImgLoad extends React.Component {
         {showControls}
       </div>
     )
+  }
+
+  loadImage = () => new Promise( (resolve, reject) => {
+    const img = new Image()
+    /* resolve promise on load */
+    img.onload = () => {
+      resolve(img) // return the image element
+    }
+    /* reject promise on not load */
+    img.onerror = () => {
+      reject()
+    }
+    /* image to load */
+    img.src = this.state.imgUrl
+  })
+
+  getAspectRatio = () => {
+    const computeRatio = (ratio) => {
+      const w = parseInt(ratio.toString().split("x")[0]) // before x
+      const h = parseInt(ratio.toString().split("x")[1]) // after x
+      const aspectRatio = w && h
+        ? `${((h / w) * 100).toFixed(2)}%`
+        : console.log("Incorrect ratio prop")
+      return aspectRatio
+    }
+    const ratio = this.props.ratio && this.props.ratio.length
+      ? computeRatio(this.props.ratio)
+      : null
+    return ratio
   }
 }
 

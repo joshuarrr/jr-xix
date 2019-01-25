@@ -1,7 +1,9 @@
 import React from 'react'
 
-// static
+// styles
 import './LoadingIndicator.css';
+//
+
 
 const LoadingIndicator = () =>
   <div
@@ -12,5 +14,6 @@ const LoadingIndicator = () =>
     <div className="node-2" />
     <div className="node-3" />
   </div>
+
 
 export default LoadingIndicator

@@ -1,3 +1,4 @@
+/* utity functions *./
 
 /* return a random number from an array */
 export const randomIndexOf = (arr) => Math.floor(Math.random() * arr.length)

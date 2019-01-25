@@ -1,11 +1,11 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
-// Your top level component
+// Top level component
 import App from './App'
+//
 
-// Export your top level component as JSX (for static rendering)
-export default App
+
 
 // Render your app
 if (typeof document !== 'undefined') {
@@ -25,3 +25,7 @@ if (typeof document !== 'undefined') {
     module.hot.accept('./App', () => render(require('./App').default))
   }
 }
+
+
+// Export top level component as JSX (for static rendering)
+export default App

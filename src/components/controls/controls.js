@@ -4,8 +4,8 @@ import React from 'react'
 import './controls.css'
 //
 
-class Controls extends React.Component {
 
+class Controls extends React.Component {
   render = () => {
     const toggleMode = this.props.controls
       ? this.props.controls.length

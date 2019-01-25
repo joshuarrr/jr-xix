@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from '@reach/router'
 //
 
+
 export default (props) =>
 <Link
   {...props}
@@ -12,6 +13,6 @@ export default (props) =>
       className: isCurrent
         ? `${props.className} current`
         : `${props.className}`
-    };
+    }
   }}
 />

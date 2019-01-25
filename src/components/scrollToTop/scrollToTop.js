@@ -4,6 +4,7 @@ import React from 'react'
 import './scrollToTop.css'
 //
 
+
 class ScrollButton extends React.Component {
   constructor() {
     super();
@@ -11,18 +12,6 @@ class ScrollButton extends React.Component {
     this.state = {
       intervalId: 0
     };
-  }
-
-  scrollStep() {
-    if (window.pageYOffset === 0) {
-      clearInterval(this.state.intervalId);
-    }
-    window.scroll(0, window.pageYOffset - this.props.scrollStepInPx);
-  }
-
-  scrollToTop() {
-    const intervalId = setInterval(this.scrollStep.bind(this), this.props.delayInMs);
-    this.setState({ intervalId });
   }
 
   render () {
@@ -38,6 +27,19 @@ class ScrollButton extends React.Component {
       </span>
     </button>
    }
+
+  scrollStep() {
+    if (window.pageYOffset === 0) {
+      clearInterval(this.state.intervalId);
+    }
+    window.scroll(0, window.pageYOffset - this.props.scrollStepInPx);
+  }
+
+  scrollToTop() {
+    const intervalId = setInterval(this.scrollStep.bind(this), this.props.delayInMs);
+    this.setState({ intervalId });
+  }
 }
+
 
 export default (ScrollButton)

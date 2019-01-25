@@ -9,8 +9,8 @@ import Nav from '../nav/'
 import Controls from '../controls/'
 //
 
-class Grid extends Component {
 
+class Grid extends Component {
   render = () => [
     <MediaQuery key="mobile" query="(max-width: 1024px)">
       <div className="mobile">
@@ -39,5 +39,6 @@ class Grid extends Component {
     </MediaQuery>
   ]
 }
+
 
 export default (Grid)

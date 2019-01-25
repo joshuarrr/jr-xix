@@ -1,3 +1,11 @@
+/* ImgGrid *//*
+  - load an image using imgLoad
+  - generate a grid of cells based on the image size
+  - color cells based on the image color
+  - assign divs random opacities
+  - change some random cell opacities on an interval to animate the cells
+  */
+
 import React from 'react'
 import Palette from 'react-palette'
 
@@ -9,16 +17,8 @@ import GridCells from '../gridCells'
 import './imgGrid.css'
 //
 
-/* ImgGrid *//*
-  - load an image using imgLoad
-  - generate a grid of cells based on the image size
-  - color cells based on the image color
-  - assign divs random opacities
-  - change some random cell opacities on an interval to animate the cells
-  */
 
 class ImgGrid extends React.Component {
-  // default props
   static defaultProps = {
     image: null
   }
@@ -27,33 +27,26 @@ class ImgGrid extends React.Component {
     super(props)
     this.imageGrid = React.createRef();
 
-    /* initial state */
     this.state = {
       loaded: false,
       imgUrl: this.props.url
     }
   }
 
-
-  render = () => {
-    // console.log("this.state.imgUrl", this.state.imgUrl)
-    return (
-      <div
-        ref={this.imageGrid}
-        className="img-grid-wrapper"
-      >
-        {
-          this.state.loaded &&
-          <Palette image={this.state.imgUrl}>
-            {palette => (
-              <GridCells color={palette.vibrant} node={this.imageGrid} ratio />
-            )}
-          </Palette>
-        }
-        {this.renderImg()}
-      </div>
-    )
-  }
+  render = () =>
+    <div
+      ref={this.imageGrid}
+      className="img-grid-wrapper"
+    >
+      { this.state.loaded &&
+        <Palette image={this.state.imgUrl}>
+          {palette => (
+            <GridCells color={palette.vibrant} node={this.imageGrid} ratio />
+          )}
+        </Palette>
+      }
+      {this.renderImg()}
+    </div>
 
   getAspectRatio = () => {
     const computeRatio = (ratio) => {
@@ -69,15 +62,12 @@ class ImgGrid extends React.Component {
       ? computeRatio(this.props.ratio)
       : null
 
-    // console.log(ratio)
     return ratio
   }
-
 
   renderImg = () =>
     <ImgLoad {...this.props}
       imgLoaded ={src => {
-        // console.log("loaded??", loaded)
         this.setState({
           loaded: true,
           imgUrl: src
@@ -85,5 +75,6 @@ class ImgGrid extends React.Component {
       }}
     />
 }
+
 
 export default (ImgGrid)

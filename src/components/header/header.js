@@ -1,13 +1,14 @@
 import React from 'react'
-import NavLink from '../navlink/'
 import MediaQuery from 'react-responsive'
 
 // components
 import Nav from '../nav/'
+import NavLink from '../navlink/'
 
 // styles
 import './header.css'
 //
+
 
 export default () =>
   <header className="header">

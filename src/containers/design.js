@@ -15,6 +15,7 @@ import Idealist from './design/idealist'
 import '../styles/projects.css'
 //
 
+
 export default () => [
   <Head key="head">
     <title>joshuar(product design)</title>
@@ -34,13 +35,11 @@ export default () => [
         </Link>
       </div>
     </section>
-
     <Router>
       <Hilights path="hilights" />
       <Lumen path="lumen" />
       <Idealist path="idealist" />
     </Router>
-
     <section className="project-summary">
       <h1>/* Lumen Learning */</h1>
       <p>User research, usability testing, and UI wireframes for a LMS (Learning Management System) that provides open source textbooks.</p>
@@ -55,7 +54,6 @@ export default () => [
         </Link>
       </div>
     </section>
-
     <section className="project-summary">
       <h1>/* Idealist */</h1>
       <p>UX design & front-end engineering for Idealist.org, an international non-profit job board with a social mission to create more good in the world by helping people turn their intentions into actions.</p>

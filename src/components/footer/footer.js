@@ -7,6 +7,7 @@ import SocialLinks from '../socialLinks/'
 import './footer.css'
 //
 
+
 export default () =>
   <footer className="footer">
     <SocialLinks />

@@ -2,6 +2,7 @@ import React from 'react'
 import { Head } from 'react-static'
 //
 
+
 export default () => [
   <Head>
     <title>joshuar(not found)</title>
