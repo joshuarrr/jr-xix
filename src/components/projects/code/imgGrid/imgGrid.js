@@ -41,15 +41,12 @@ class ImgGrid extends React.Component {
       <div
         ref={this.imageGrid}
         className="img-grid-wrapper"
-        style={{
-          paddingBottom: this.getAspectRatio()
-        }}
       >
         {
           this.state.loaded &&
           <Palette image={this.state.imgUrl}>
             {palette => (
-              <GridCells color={palette.vibrant} node={this.imageGrid} />
+              <GridCells color={palette.vibrant} node={this.imageGrid} ratio />
             )}
           </Palette>
         }
@@ -72,6 +69,7 @@ class ImgGrid extends React.Component {
       ? computeRatio(this.props.ratio)
       : null
 
+    // console.log(ratio)
     return ratio
   }
 

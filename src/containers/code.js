@@ -41,7 +41,7 @@ class Code extends React.Component {
             url={this.state.image}
             ratio='16x9'
             duration='3s'
-            className="rounded bordered img-grid"
+            className="rounded bordered"
             cloudinary
           />
         </section>
