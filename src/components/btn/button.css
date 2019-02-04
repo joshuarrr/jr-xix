@@ -1,0 +1,31 @@
+.button {
+  font-family: 'FiraCode Light', monospace;
+  font-style: normal;
+  font-weight: 400;
+  padding: .5rem .75rem;
+  border: none;
+  border-radius: .35rem;
+}
+
+.button.default {
+  border: 1px solid var(--green);
+  background: #000;
+  color: var(--green);
+}
+
+.button.primary {
+  border: 1px solid var(--yellow);
+  background: #000;
+  color: var(--yellow);
+}
+
+.button.danger {
+  border: 1px solid var(--red);
+  background: #000;
+  color: var(--yellow);
+}
+
+.button:disabled {
+  opacity: .5;
+  cursor: not-allowed;
+}

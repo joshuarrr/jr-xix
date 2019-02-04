@@ -17,7 +17,8 @@ const listItemStyle = {
   margin: '0 0 1rem'
 }
 
-const buttonTypes = () =>
+const buttonTypes = () => [
+  <h1>Styled-components Buttons</h1>,
   <ul style={listStyle}>
     <li style={listItemStyle}>
       <Button onClick={action('Default button clicked.')}>Default</Button>
@@ -35,5 +36,5 @@ const buttonTypes = () =>
       <Button buttonType="danger" disabled>Danger</Button>
     </li>
   </ul>
-
-storiesOf('Forms', module).add('Buttons', withInfo(buttonTypesInfo)(buttonTypes))
+]
+storiesOf('Forms', module).add('Buttons - Styled Components', withInfo(buttonTypesInfo)(buttonTypes))

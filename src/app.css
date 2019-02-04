@@ -2,6 +2,7 @@
 @import './styles/reset.css';
 @import './styles/utility.css';
 @import './styles/type.css';
+@import './styles/forms.css';
 @import './styles/layout.css';
 
 
@@ -10,6 +11,7 @@
   /* colors */
   --green: #46a789;
   --yellow: rgb(200, 200, 60);
+  --red: #CE3A67;
   --border-green: #285547;
   --border-gray: #333333;
   --secondary-color: white;
