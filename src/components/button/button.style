@@ -1,0 +1,40 @@
+import styled, {css} from 'styled-components'
+//
+
+const buttonStyles = {
+  "default": css`
+    background-color: lightblue;
+  `,
+  "info": css`
+    background-color: white;
+    border: 1px solid lightGray;
+  `,
+  "primary": css`
+    background-color: lightgreen;
+  `,
+  "danger": css`
+    background-color: pink;
+  `
+}
+
+const StyledButton = styled.button`
+  padding: .5rem 1rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 400ms;
+  ${props => buttonStyles[props.buttonType]}
+
+  ${ props => !props.disabled &&
+    css`&:hover {
+      box-shadow: 0 0 0  1px rgba(0, 0, 0, .3) inset;
+    }`
+  }
+
+  &:disabled {
+    opacity: .7;
+    cursor: not-allowed;
+  }
+`
+
+export default (StyledButton)
