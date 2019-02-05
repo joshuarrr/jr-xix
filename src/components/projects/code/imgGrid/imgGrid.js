@@ -20,7 +20,7 @@ import './imgGrid.css'
 
 class ImgGrid extends React.Component {
   static defaultProps = {
-    image: null
+    url: null
   }
 
   constructor(props) {

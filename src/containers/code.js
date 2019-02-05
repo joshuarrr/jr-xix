@@ -39,6 +39,7 @@ class Code extends React.Component {
         <CodeProject
           title="React Grid Thing"
           description="Pretty squares... (wip)"
+          ratio='16x9'
         >
           <ImgGrid
             url={this.state.image1}

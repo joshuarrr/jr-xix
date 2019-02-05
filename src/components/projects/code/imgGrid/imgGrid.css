@@ -1,6 +1,10 @@
 /* imgGrid.css */
 .img-grid-wrapper {
-  position: relative;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
   z-index: 3;
   overflow: hidden;
   border-radius: var(--border-radius);
