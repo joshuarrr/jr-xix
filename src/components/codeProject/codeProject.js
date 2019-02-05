@@ -10,8 +10,6 @@ import './code-project.css'
 //
 
 
-
-
 class CodeProject extends React.Component {
   constructor(props) {
     super(props)
@@ -34,9 +32,6 @@ class CodeProject extends React.Component {
             text: result
           });
         },
-        // Note: it's important to handle errors here
-        // instead of a catch() block so that we don't swallow
-        // exceptions from actual bugs in components.
         (error) => {
           this.setState({
             isLoaded: true,
@@ -45,7 +40,6 @@ class CodeProject extends React.Component {
         }
       )
   }
-
 
   render = () => {
     const { error, isLoaded, text } = this.state;
@@ -90,7 +84,6 @@ class CodeProject extends React.Component {
     )
   }
 
-
   getAspectRatio = () => {
     const computeRatio = (ratio) => {
       const w = parseInt(ratio.toString().split("x")[0]) // before x
@@ -106,5 +99,6 @@ class CodeProject extends React.Component {
     return ratio
   }
 }
+
 
 export default CodeProject;
