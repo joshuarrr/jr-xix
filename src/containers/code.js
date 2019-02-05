@@ -3,6 +3,7 @@ import { Head } from 'react-static'
 
 // components
 import ScrollButton from '../components/scrollToTop/'
+import CodeProject from '../components/codeProject/'
 import ImgLoad from '../components/projects/code/imgLoad/'
 import ImgGrid from '../components/projects/code/imgGrid/'
 
@@ -35,9 +36,10 @@ class Code extends React.Component {
         <title>joshuar(HTML + CSS + JS)</title>
       </Head>,
       <section key="content-code-projects" className="code projects">
-        <section className="project-summary" key="project-grid-thing">
-          <h1>/* React Grid Thing */</h1>
-          <p>Pretty squares... (wip)</p>
+        <CodeProject
+          title="React Grid Thing"
+          description="Pretty squares... (wip)"
+        >
           <ImgGrid
             url={this.state.image1}
             ratio='16x9'
@@ -45,7 +47,7 @@ class Code extends React.Component {
             className="rounded bordered"
             cloudinary
           />
-        </section>
+        </CodeProject>
         <section className="project-summary" key="project-imgload">
           <h1>/* ImgLoad */</h1>
           <p>React image loader.</p>
