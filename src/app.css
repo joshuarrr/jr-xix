@@ -8,8 +8,14 @@
 /* Vars */
 :root {
   /* colors */
-  --green: #46a789;
+
+  --red: #ce3a67;
+  --orange: #f0b046;
   --yellow: rgb(200, 200, 60);
+  --green: #46a789;
+  --blue: #33bce1;
+  --purple: #AA71C4;
+
   --border-green: #285547;
   --border-gray: #333333;
   --secondary-color: white;

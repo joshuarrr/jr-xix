@@ -49,6 +49,10 @@ class GridCells extends React.Component {
     this.updateCells()
   }
 
+  componentWillUnmount = () => {
+    window.removeEventListener("resize", this.updateDimensions);
+  }
+
   render = () => {
     const support = window.CSS.supports('mix-blend-mode','multiply');
     const mixMe = support ? 'multiply' : ''

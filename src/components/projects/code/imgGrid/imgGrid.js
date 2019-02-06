@@ -1,5 +1,5 @@
 /* ImgGrid *//*
-  - load an image using imgLoad
+  - load an image using ImgLoad component
   - generate a grid of cells based on the image size
   - color cells based on the image color
   - assign divs random opacities

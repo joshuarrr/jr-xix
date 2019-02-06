@@ -1,6 +1,11 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import SyntaxHighlighter from 'react-syntax-highlighter';
+
+// hilighter
+import { PrismLight as SyntaxHighlighter } from "react-syntax-highlighter";
+import jsx from 'react-syntax-highlighter/dist/languages/prism/jsx';
+
+SyntaxHighlighter.registerLanguage('jsx', jsx);
 
 // components
 import ImgGrid from '../projects/code/imgGrid/'
@@ -9,6 +14,7 @@ import ImgGrid from '../projects/code/imgGrid/'
 import './code-project.css'
 //
 
+const codeUrl = "https://raw.githubusercontent.com/joshuarrr/jr-xix/master/src/components/projects/code/imgGrid/imgGrid.js"
 
 class CodeProject extends React.Component {
   constructor(props) {
@@ -23,7 +29,7 @@ class CodeProject extends React.Component {
   }
 
   componentDidMount() {
-    fetch("https://raw.githubusercontent.com/joshuarrr/jr-xix/master/src/components/projects/code/imgGrid/imgGrid.js")
+    fetch(codeUrl)
       .then(res => res.text())
       .then(
         (result) => {
@@ -68,11 +74,12 @@ class CodeProject extends React.Component {
               showCode: !prevState.showCode
             }))}
           >code</button>
-          { !this.state.showCode
+          { this.state.showCode
             ? this.props.children
             : <div className="code-pane">
                   <SyntaxHighlighter
-                    language='javascript'
+                    language='jsx'
+                    useInlineStyles={false}
                     showLineNumbers
                   >
                     {this.state.text}

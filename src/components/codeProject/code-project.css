@@ -6,6 +6,7 @@
 }
 
 .code-pane {
+  border-radius: var(--border-radius);
   position: absolute;
   width: 100%;
   height: 100%;
@@ -16,4 +17,44 @@
   position: absolute;
   right: 3rem;
   top: -3rem;
+}
+
+
+.code.projects pre {
+  background: #151515;
+  padding: 2rem;
+  font-size: initial;
+}
+
+/* syntax hilighting */
+.code.projects .token.comment {
+  color: #ccc;
+}
+
+.code.projects .token.keyword {
+  color: var(--green);
+}
+
+.code.projects .token.string {
+  color: var(--orange);
+}
+
+.code.projects .token.function {
+  color: var(--yellow);
+}
+
+.code.projects .token.boolean {
+  color: var(--blue);
+}
+
+.code.projects .token.attr-name {
+  color: var(--red);
+}
+
+.code.projects .token.tag {
+  color: var(--green);
+}
+
+.code.projects .react-syntax-highlighter-line-number {
+  color: #666;
 }
