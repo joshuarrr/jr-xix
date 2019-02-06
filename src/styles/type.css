@@ -21,7 +21,7 @@ html {
 body {
   color: var(--body-text-color);
   font-size: 1.3rem;
-  letter-spacing: .05rem;
+  letter-spacing: .03rem;
   line-height: 1.75;
 }
 
