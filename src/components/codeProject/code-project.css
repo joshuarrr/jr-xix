@@ -41,6 +41,7 @@
 }
 
 .code.projects pre {
+  background: #151515;
   padding: 2rem;
   font-size: 90%;
   display: flex;

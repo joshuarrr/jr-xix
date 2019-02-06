@@ -39,6 +39,7 @@ class Code extends React.Component {
         <CodeProject
           title="React Grid Thing"
           description="Pretty squares... (wip)"
+          codeUrl="https://raw.githubusercontent.com/joshuarrr/jr-xix/master/src/components/projects/code/imgGrid/imgGrid.js"
           ratio='16x9'
         >
           <ImgGrid
@@ -49,9 +50,12 @@ class Code extends React.Component {
             cloudinary
           />
         </CodeProject>
-        <section className="project-summary" key="project-imgload">
-          <h1>/* ImgLoad */</h1>
-          <p>React image loader.</p>
+        <CodeProject
+          title="ImgLoad"
+          description="React image loader."
+          codeUrl="https://raw.githubusercontent.com/joshuarrr/jr-xix/master/src/components/projects/code/imgLoad/imgLoad.js"
+          ratio='16x9'
+        >
           <ImgLoad
             url={this.state.image2}
             ratio='16x9'
@@ -59,7 +63,7 @@ class Code extends React.Component {
             className="rounded bordered"
             cloudinary
           />
-        </section>
+        </CodeProject>
       </section>,
       <ScrollButton
         key="scroll-button"
