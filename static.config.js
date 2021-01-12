@@ -56,6 +56,14 @@ export default {
       component: 'src/containers/about',
     },
     {
+      path: 'stories',
+      component: 'src/containers/stories',
+    },    
+    {
+      path: 'stories/aila',
+      component: 'src/containers/stories/aila.js',
+    },
+    {
       path: '404',
       component: 'src/containers/404',
     },
