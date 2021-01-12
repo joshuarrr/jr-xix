@@ -12,6 +12,7 @@ export default () => [
   </Head>,
     <section key="content" className="story content">
       <h1>Aila, The Winged Unicorn</h1>
+      
       <hr />
       
       <p className="section-title">I: The Day</p>
