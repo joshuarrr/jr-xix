@@ -3,10 +3,10 @@
 
 // Plugins
 const plugins = [{
-        location: "__react_static_root__/",
-        plugins: [],
-        hooks: {}
-      }]
+  location: "/Users/joshuar/Projects/jr-xix",
+  plugins: [],
+  hooks: {}
+}]
 
 // Export em!
 export default plugins
