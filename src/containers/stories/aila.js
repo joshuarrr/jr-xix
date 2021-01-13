@@ -73,6 +73,7 @@ export default () => [
       
       <p>Aila was left alone in the forest. And even if you were here you wouldn&rsquo;t have noticed this: the quiet unicorn closed her eyes and sighed and then she swallowed, and for a moment she felt as sad and empty as a unicorn could possibly feel, as though she had swallowed a tiny bite of death.</p>
       
+      
       <p className="section-title">The Morning</p>
       
       <p>The moment passed and she found her joy as she jumped over a muddy patch on her way back to the others. Aila loved to jump, and she did so merrily several times on her way. And she saw a lovely patch of dark green clover which she snacked on momentarily, which whet her appetite for a more substantial grazing. </p>
@@ -102,6 +103,7 @@ export default () => [
       <p>While she grazed, she thought longingly of her wish. She had of course been friends with the stallions of her herd for, well, for forever. But to truly love.. that must be the best feeling in the world, she thought. &rsquo;I bet it is magical. And my stallion will be the tallest in the heard, even taller than Odon or Osiler. He&rsquo;ll be all black, but with a hint of auburn that flashes in the sunlight, and he will be kind and powerful, and we will make a thousand foals.&rsquo; And her heart was aflutter, as she grazed and fantasized about her wish. </p>
       
       <p>But a distant reservation disturbed her reveries. Though it was unclear what, something pulled on her, nagged her, and her dreaming dissolved. And she paused and looked around at the field, and at the rolling hills, and her friend the bee buzzing by, and the forest, and the rousing heard of beautiful rising unicorns, and she took a deep breath, and she cantered off to make her preparations for the day.</p>
+      
       
       <p className="section-title">II: The Ceremony</p>
       
@@ -159,6 +161,7 @@ export default () => [
       
       <p>Jialy&rsquo;s horn intensely glowed a miraculous dark blue. And as quick as that, Jialy replied &ldquo;My name is Ansil&rdquo;, and the forest turned blue with the light of the unicorns.</p>
       
+      
       <p className="section-title">The Blinding</p>
       
       <p>&ldquo;Now Tabor will step forward.&rdquo; Demanded Osiler. And Tabor did.</p>
@@ -168,6 +171,7 @@ export default () => [
       <p>&ldquo;Unicorns rejoice, for Tabor has been chosen, and we will now perform the blinding!&rdquo;</p>
       
       <p>Osiler raised his right hoof, and he splashed it down heavily into the spring. And out of a new mist, a translucent show of luminescence in the form of a unicorn became partway visible. This was Elphren, the currently blinded! And Elphren turned to face Tabor, and with two graceful motions he thrust his intangible horn into Tabor&rsquo;s eyes. As he did this, wispy threads of light flew away from his form and into Tabor&rsquo;s. And as that was taking place, Elphren became solid. When the spectacle was over, Elphren stood full-bodied facing a semi-transparent memory of Tabor. And on queue, the entire herd of unicorns surrounding the two lowered their heads, and from their horns came their individual colors, and those colors went into Tabor&rsquo;s body and his body flashed a bright white light, and he was gone.</p>
+      
       
       <p className="section-title">The Dream Casting</p>
       
@@ -182,6 +186,7 @@ export default () => [
       <p>Eranor spoke. &ldquo;Thank you, Osiler, and thank you all for this privilege. I have put special attention into my efforts this year for each of you. May these dreams bring you joy.&rdquo; </p>
       
       <p>With that, she reared up onto her hind legs, and when she came crashing down, a great cloud of vapor formed around her. From inside the mist, a turbulent cyclone formed from Eranor&rsquo;s horn, and with a terrific gesture, Eranor rose again to her hind legs and the whirlwind shot up into the sky. Great clouds formed, magically illuminated, and they soon filled the sky. And as quickly as it had begun, it was over, and Eranor was unveiled in the spring facing Osiler again but small wisps of dream cloud vapor clung to her head and horn.</p>
+      
       
       <p className="section-title">The Wishing</p>
       
@@ -202,7 +207,7 @@ export default () => [
 
       <p>She waited patiently. As she gazed up at the stars, her thoughts went back to that day when she and her cousin Liba had peeked through the gates to the world of The Men. The Men were an almost mythical race, far removed from everyday Unicorn life. They were known to be small, upright beings, of an unpredictable nature. But yes, they were real, and on occasion they had been known to find their way here to our realm. </p>
 
-      <p>The first of The Men to come through the gates were sensitive and easily startled, the old stories told. And they were artists, and they spoke to the Unicorns with pictures that they drew in the ground with sticks. The Unicorns at the time thought them to be kind and inquisitive and rather unsophisticated. When the leader of that first party of The Men drew a crude direction of the three of them and the unicorn they were speaking to, Brax (it is told) whinnied and said to them, &quot;Yes! That is you, and that is me, together!&quot; He was amused by the drawing of the obvious, but he couldn't possibly have know the effect that his statement would have.</p>
+      <p>The first of The Men to come through the gates were sensitive and easily startled, the old stories told. And they were artists, and they spoke to the Unicorns with pictures that they drew in the ground with sticks. The Unicorns at the time thought them to be kind and inquisitive and rather unsophisticated. When the leader of that first party of The Men drew a crude direction of the three of them and the unicorn they were speaking to, Brax (it is told) whinnied and said to them, &rdquo;Yes! That is you, and that is me, together!&rdquo; He was amused by the drawing of the obvious, but he couldn't possibly have know the effect that his statement would have.</p>
 
       <p>Hundreds of years later The Men came again. This time there were six members of their herd; though they are all rather small, two were larger than the rest, two were of medium stalk, and two of them were tiny. The tiny ones were delighted when they saw the herd – this was not Aila's herd, but another (The Zengoli, if you are curious or want to keep track) that grazes far to the north. And it is remembered that the littlest of The Men had the ability to actually speak to the Unicorns they met! They had very little to say, but what they did say pleased those there then. They <em>loved</em> us. And probably because the Unicorns felt such love from the little The Men, they became close with those Men. And The Men lived here, in our realm for several years.</p>
 
@@ -218,9 +223,60 @@ export default () => [
 
       <p>Aila was troubled. And that feeling of being afraid had come back, in a new form. She was tracking down the emotion when she felt a warmth in her horn in the sky to the southeast. And she looked up to see her star flying across the dark night sky.</p>
 
-      <p>&quot;Dear Star&quot;, she thought as she looked over at the tunnel leading into the dark forest. &quot;What am I to do? I want to see the world of The Men, but I am afraid.&quot; </p>
+      <p>&ldquo;Dear Star&rdquo;, she thought as she looked over at the tunnel leading into the dark forest. &ldquo;What am I to do? I want to see the world of The Men, but I am afraid.&rdquo; </p>
 
       <p>When she looked back up to sky it had vanished – hidden on the other side of the planet.</p>
+
+
+      <p className="section-title">The Wishing Ceremony</p>
+
+      <p>Aila walked through the long aisles towards the great hall, where she knew the herd would be waiting. She knew the way well, so there was no risk of her getting lost. Not only had she been coming here for Unicorn Ceremonies for a hundred years, but she used to come here to play with the Minotaur when she was a young filly. Minnow (as she called him) hated it when she would almost let him catch her but then phase though one of the walls, but Aila loved doing it. Once she sent poor Minnow into such a rage that he fisted his way through the solid stone wall just in time to see her tail flick goodbye as she trotted through to the forest. Of course as she matured she felt bad for the poor bull-headed little beast, and she did what she could to make amends. For instance once she let him get a hold of her tail – just enough so that he was able to pluck a single strand from her tresses. And to this day he wears that hair around his neck, so she knew they were likely even.</p>
+
+      <p>But today she had serious business, and so she trepidatiously but intently walked through the series of turns and twists of the labyrinth and soon found herself in the great chamber of the Sirens. Ahead, the sisters Thelzie and Mollpe were singing their beautiful harmonies, accompanied by what sounded like a small harp. Their song had no magical effect on her, but Aila tuned in momentarily and was struck with melancholy. The music was soft and mysterious, almost a whisper, and it created a susurrous din throughout the hall that relaxed her spirit. She pushed on, and as she crossed the central bridge over the circular pool, she caught sight of Mollpe twisting through the dark water. </p>
+
+      <p>&ldquo;Your song is enchanting, Mollpe&rdquo;, Aila sent delicately. &ldquo;It calms me, and I am grateful.&rdquo;</p>
+
+      <p>Mollpe finished singing her current phrase, and she breached the water while arching her body backward through the air and resubmerged.</p>
+
+      <p>Aila continued onward. She came to the great gate that lead out to the Clearing, and paused for the briefest of moments. With a deep breath and a slow exhalation she exited the hall into the night. </p>
+
+      <p>First she passed the namelings. She recognized Flaena and Ry, as they were both on either side of the aisle looking excitedly at her as she passed. And there was Morsha! Whose name she had found! She was filled with a brief but poignant joy. And there were young stallions Shax and Artax, each looking at her with a cultured indifference but both inwardly hoping to catch her eye. </p>
+
+      <p>She stepped into the center of the clearing and approached the ring of elders. Her hooves fell effortlessly into the divots that had worn into the stone before the great dais. She thought of all the realms – how many were there? Twelve or a thousand and twelve, she couldn't remember at the moment. And she thought about that day she and Liba had peered into the world of The Men. She smiled and looked up at the Dais. </p>
+
+      <p>Osiler the Great Stallion was before her on the podium, standing tall and stately above the rest of the elders. Instead of his typical scowl, he appeared eager and almost happy. Aila scanned the ring of elders behind him. Her sister Elsie was to the far left – unlike Aila's dream she didn't appear annoyed at all but actually happy. Her father Odon, Liba, Pico, Trin, Era, Plassiler, Vestra, Sastari, Flamler, Trace, Aeina, Azren, Jal, and finally her lovely mother Eranor, and they were all looking at her with love and expectation. </p>
+
+      <p>Eranor's green eyes flashed and Aila her her gentle urging, &ldquo;Go on dear.&rdquo;</p>
+
+      <p>Aila looked down at her beautiful hooves, took a deep breath, looked up directly into the eyes of Osiler and sang out, &ldquo;I wish free passage to and from the world of The Men.&rdquo;</p>
+
+      <p>There was a long pause then wherein nothing happened. No one moved. No fly flitted a wing. Leaves that were halfway along on their voyage to the ground froze where they were. The Clearing – a great field encircled by a stand of tall pines and presently occupied by a coterie of Unicorns – was silent.</p>
+
+      <p>Osiler's eager and almost happy expression slowly shifted. First his slack jaw and slightly open lips tightened and closed. Then his relaxed ears rotated forward. When his eyes narrowed (and did they turn red?), Aila felt the gravity of her wish. Had she made a terrible misstep? Her heart began to sink as she looked around and saw the same look on her father Odon's face.</p>
+
+      <p>Osiler spoke quietly but against the heavy silence his words stood with the weight of the megaliths. </p>
+
+      <p>&ldquo;That is forbidden.&rdquo; </p>
+
+      <p>At that, Aila filled up with a terrible energy. </p>
+
+      <p>&ldquo;Forbidden?&rdquo; She quietly inquired.</p>
+
+      <p>&ldquo;FORBIDDEN!&rdquo; Osiler cried. </p>
+
+      <p>His voice echoed though the Siren's hall behind them, and around in circles guided by the pines as it ascended to the vastness of the sky in order to boom appropriately. </p>
+
+      <p>Aila both exploded and imploded. Her body was filled with dread. No, Terror. No, maybe it was dread. She had never angered Osiler before, and she had never been <em>yelled at</em> before, and she found a powerful distaste for both. What had she done that was so wrong? Why did he yell so forcefully!? She was agitated - every cell in her body wanted to distance itself from Osiler in its own direction. Aila felt that tension. Her mind's eye flashed to Landry rabbit's contorted body stretched out while pegged by her horn as she revived him this morning, and she wondered if this is what dying and coming back to life might feel like. </p>
+
+      <p>She again scanned her periphery, seeking solace or comfort from anywhere, anyone. But everyone seems to be in a similar state of shock. Aila looked back and forth, all around her. She looked up to the sky, following Osiler's voice, and saw a crow circling far above. And in the distance she saw some other young Unicorn's star racing across the night sky. </p>
+
+      <p>&ldquo;Then I wish I had wings so that I might fly away from here.&rdquo; Aila sang before nurturing the thought. But as the words left her mouth she felt the magic conforming. There was a flurry of sounds now, whinnying and nickering and some gasping and some chattering. But all of that was far off in the distance. Aila's entire world consisted of herself, the insane wish she had just made, Osiler's flummoxed expression, and her incredible desire to be anywhere but where she stood.</p>
+
+      <p>&ldquo;So it is done.&rdquo; Voiced Osiler. </p>
+
+      <p>His words broke the spell, and Aila began a new one. She stood up on her hind legs, roared a fierce roar, and she stretched her illustrious wings open wider and wider for all to see. </p>
+
+      <p>And then she flew away.</p>
 
     </section>
 ]
