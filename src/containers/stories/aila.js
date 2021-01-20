@@ -278,6 +278,67 @@ export default () => [
 
       <p>And then she flew away.</p>
 
+
+      <p className="section-title">The Dispersing</p>
+
+      <p>The herd stared in amazement as her transfigured form lofted upwards in a gradual spiral until she crested the tips of the pines and was gone. Eranor called out to her to no avail. After the initial shock wore off, there was a chatter of animated voices as scattered members of the herd gave voice to their surprise and amazement. Eranor was distressed. Elsie and Trin comforted her. Osiler stood motionless looking skyward, his focus turned towards Ilo, or maybe Lastri, or possible it was Orthe. It was one of the three equine planets that were ever present in the sky. I think. What he pondered there, where his mind went then none knows. For minutes he stood in silence, and then he left the Clearing through the Siren's Hall without another word.</p>
+
+      <p>The ceremony ended in a hushed cacophony. </p>
+
+      <p>The unicorns dispersed. Ee and Artax, the young stallions exchangers impressed and surprised faces with each other. Ee was unabashedly smitten, having always been drawn to Aila's free spirit and independence. Artax was intrigued – Aila's wings were impressive and in their way, beautiful – but he felt uneasy. Being the largest in the herd apart from Osiler and Odon, he had always presumed that Aila would chose him to mate, if not a wish-stallion. Now, his immediate reaction was disappointment – he knew deep down that he had no desire to sire foals with wings! Ee on the other hand was enchanted, and Artax's thoughts comforted him. He realized the oddity of Aila's new form but it didn't diminish his esteem for her, it increased it.</p>
+
+      <p>Eranor and Trin left the clearing last. Trin stayed close to Eranor's flank, comforting her. She was exhausted from the dream making and now she didn't know what to think. Her youngest daughter had always been a free spirit, but this was an unexpected event! Eranor had heard Aila's song many times over the past few moons – Why had she not wished for her stallion? And where had she gone! Why did she want to visit the realm of The Men? There were too many unanswered questions, and she was too exhausted to investigate further. She needed rest, and she needed the restorative energy Aila had been cultivating. She hoped she would see her soon as she made her way to her dwelling in the shade of her friend the Sycamore.</p>
+
+      <p>As Eranor crested the hill on the last stretch of her walk home, she saw Aila's signature pink glow near the Sycamore. Eranor sighed a deep sigh, and felt a wash of relief. She may have sprouted wings and flown away but at least she remembered her dear mother. </p>
+
+      <p>&quot;I think I'll leave you now&quot;, Trin said as they drew closer. &quot;I'm sure the two of you will have much to discuss and Trace will be glad for companionship this night.&quot;</p>
+
+      <p>&quot;Thank you, Trin, I've appreciated your companionship tonight myself.&quot;</p>
+
+      
+      <p className="section-title">The Reckoning</p>
+
+      <p>&quot;Aila, you came!&quot; Eranor sent as she approached the tree and her beautiful pinkish shimmering daughter. Aila's coat was white of color, but her color was pink. Her horn, imbued with youth and ripe with magic, was constantly emitting a low level glow that clung to her form and wrapped her body in a subtle charming pink light. Her glow responded to her emotional state, and Aila was currently glowing with a dark, almost red, sheen. And her wings! Tucked in their resting position, Eranor hardly noticed them at first. Now she took a moment to gaze upon her daughter's new form. Even in the cover of night, she could distinguish the new shapes and the texture of feathers.</p>
+
+      <p>&quot;Well aren't they just lovely. Come on, let me have a look.&quot; She demanded.</p>
+
+      <p>&quot;Oh! You like them?&quot; Aila inquired as she slowly unfurled and rose her wingtips wide.</p>
+
+      <p>&quot;I didn't say that.&quot; Eranor grinned. &quot;I think they're just incredible. I might not have chosen them for myself but you have.&quot;</p>
+
+      <p>&quot;Yes, mother, I have! And I don't know why and I don't know what to do. And I do love flying! But what have I done!?&quot;</p>
+
+      <p>&quot;I don't know Aila, but it is done, and there is no going back. I'm sorry you are distressed.&quot;</p>
+
+      <p>&quot;I'm not distressed! I have wings!&quot; Aila cried. </p>
+
+      <p>In all actuality, she was in fact distressed, she just didn't realize it yet. But she would soon.</p>
+
+      <p>&quot;Yes, dear. You do. You have an infinite future in front of you to come to terms with that fact. But there's nothing that I can do about it right here and now.&quot;</p>
+
+      <p>&quot;I know...&quot;</p>
+
+      <p>&quot;But there is something that you can do for me.&quot; Eranor was extremely exhausted, and she lowered her head. &quot;I am quite tired.&quot;</p>
+
+      <p>&quot;Oh mother! I forgot your dream casting! You're so pale! Let me help you.&quot; </p>
+
+      <p>Eranor stepped over to her clearing in the tall grass and slowly and carefully lay down. Aila followed, and when her mother was settled she leaned down and tucked her chin to point her horn towards her dam's chest. She slowly impaled her horn into her mother's side, aiming for the heart. When she could push no further, she closed her eyes and began expelling her energy into her mother's body. Where horn pierced hide there was a bright ring of bright pink, and where Aila's horn was exposed there was an incredible bright white that lit the eerie scene. </p>
+
+      <p>It took a long time – Aila had been saving her magic for several weeks now – but eventually the process was complete. Aila withdrew her horn, and the glow diffused. Eranor was fast asleep, but her color had returned and she was breathing peacefully.</p>
+
+      
+      <p className="section-title">The Flight</p>
+
+      <p>Aila grazed nearby until dawn – that mystical hour before the day had awoken. The grass here was good and substantial, but minty, and Aila had never particularly cared for mint. She grazed, and while restoring her mother's depleted magical energy had calmed her, she was still at odds with herself. Why on Earth had she made such an impetuous wish? Why, not even Liba had done anything this crazy, and everyone always said she was the impish one. Well, it appears she was the wild one now. Wings! What stallion would ever want a mare with <em>wings</em>!? What of her friends? Would they treat her differently now? No, what a silly question. <em>Of course they would.</em> This was distressing.</p>
+
+      <p>&quot;I am distressed!&quot; Aila realized.</p>
+
+      <p>She wanted desperately to talk to Liba, but it would be some time before that was a possibility, and Aila was agitated. Given her options, she decided to go for a fly. She reared up, spread her wings, and when she pushed them down her body went up. And she repeated the process. And it was actually quite easy to get the hang of, now that she knew what it was all about.</p>
+
+      <p>Her first flight had been a bit of an emotional battle. At first it was terrifying, but she was so angry and confused that she didn't let it get to her. But now she had time for it to really sink in – horses were not meant to fly! Countering that was her experience. &quot;I have already done this, and it worked out fine, so surely it will be fine now&quot;, she thought as she watched the sycamore tree and mother below shrink smaller and smaller. </p>
+
+      <p>As she rose higher and higher, she started moving forward, which she found almost as easy as thinking it. She just leaned into the direction she wanted to go and her wings did the rest. And then she had the thought to try <em>hopping</em>. Aila loved to hop and jump when she was land bound, so it was a natural instinct. But when she hopped in the air she flew in a dramatic arc hundreds of meters long. It was exhilarating! And so she air hopped for a while, and then she had another though. &quot;I wonder if I can <em>fly</em> super super super fast!?&quot; And she tried. And guess what.. ok I know you already guessed it. She could. She could fly super super super fast! And if you were here on the ground to see her flying by you would swear it was just a meteorite flying by – a great sharp pink line draw across the sky. </p>
+
       <p></p>
       <p></p>
       <p></p>
