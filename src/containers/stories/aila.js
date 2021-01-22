@@ -339,6 +339,98 @@ export default () => [
 
       <p>As she rose higher and higher, she started moving forward, which she found almost as easy as thinking it. She just leaned into the direction she wanted to go and her wings did the rest. And then she had the thought to try <em>hopping</em>. Aila loved to hop and jump when she was land bound, so it was a natural instinct. But when she hopped in the air she flew in a dramatic arc hundreds of meters long. It was exhilarating! And so she air hopped for a while, and then she had another though. &quot;I wonder if I can <em>fly</em> super super super fast!?&quot; And she tried. And guess what.. ok I know you already guessed it. She could. She could fly super super super fast! And if you were here on the ground to see her flying by you would swear it was just a meteorite flying by – a great sharp pink line draw across the sky. </p>
 
+
+      <p className="section-title">The Space Bath</p>
+
+      <p>Aila's initial reservations about her wish had for the moment evaporated. She reveled in this new sensation. She rejoiced in her new command over her form through the atmosphere. She was elated – a feeling she was quite familiar with. When she tired of air hopping and air flying super super super fast (which she called shooting), she tried going as high as she could. She reached the limits of the atmosphere, and went higher still. She entered the blackness of space, and she kept flying, higher and higher towards Ilo, her favorite of the three equine planets. After several minutes of traversing the vast nothingness, she found her mind starting to wander. She thought about her mother, sleeping far below in the tall minty grass. She thought about Liba, and Liba's foal Ansil, and she felt a tinge of envy. Would she ever mate now that she was... this? Surely there was a stallion out there somewhere that would love her despite her... abnormality. Ee and Artax had both made their interests clear; perhaps one of them would still admire her? She did prefer Ee, though. But Artax was a simple sort and might not care that her foals might be winged, and he might be a fine partner in a pasture-dwelling sort of way. But Ee was a bit more mysterious and unpredictable; Aila had always been curious about him. Wow, her thoughts really were wandering out here among the stars.</p>
+
+      <p>She tucked her wings in a moment, excited to feel the sudden drop of descent, but nothing happened. She floated there, with no resistance whatsoever. For some reason this made her laugh, though she didn't know why. </p>
+
+      <p>She let herself drift above the sky until the cold ate away at her reserves of energy; for a long while her mind was blank, and she simply breathed in the light of the stars. When the sun crested the planet below, a tremendous light pummeled her body and consciousness. </p>
+
+      <p>&quot;Well that was a bit of a rude awakening, wasn't it Mr. Sun!&quot; she exclaimed. </p>
+
+      <p>She supposed she should make her way back to Naranthal. She had found a new calmness, and was looking forward to seeing Liba and Elsie and all her other friends. What would Squalmy say! </p>
+
+      <p>When she looked down she felt a bit queasy. She could see the entire planet, like a great disk in the sky. She could places where the sun had yet to reach! It must be dawn – her favorite time of the not yet day – there where the sun was about to shine. </p>
+
+      <p>As she looked down at the earth so far away, she felt suddenly afraid.</p>
+
+      <p>&quot;Oh no!&quot; She thought. </p>
+
+      <p>&quot;Where is my home?&quot; She wondered.</p>
+
+      <p>From this height she didn't recognize any of the landscape. She should have kept better track of where she was going! </p>
+
+      <p>With no other options, Aila flew down towards the line where sunlight met the darkness, and hoped she would be able to find her way once she was nearer the surface.</p>
+
+      
+      <p className="section-title">The Fountain of Youth</p>
+
+      <p>She alighted near a small pond of sparkling clear blue water, in the warm sun of late morning, in a land completely foreign to her. She took several steps into the pond and had a long drink. The water was cool and had a tingly taste on her lips and tongue and at first she thought nothing of it as she had worked up a terrible thirst. But after a moment she paused, and she noticed in her reflection that her subtle pink ambient glow had intensified. There was something special about this water! She took another long drink, and felt her energies restoring. The tingly water was vaguely sweet, and though no longer thirsty she indulged in a third long dose. This was the most delicious pond she'd ever drank from!</p>
+
+      <p>While lapping at the water greedily, she felt a pair of eyes on her from the trees near the edge of the pond across from her. The pond was only a dozen or so meters across, so when she glanced up she expected to see a friend or visitor, but there was no one. Unicorn eyes are quite good. They are much better than the great eagles at seeing long distances, and much better than the prosimians at seeing in the dark, and they are almost as powerful as the dragonflies at seeing in slow motion. When Aila saw nothing in the woods she did not assume that her eyes were deceiving her; she wondered what invisible presence she detected.</p>
+
+      <p>&quot;Hello?&quot; She sent her curiosity out into the direction of the presence.</p>
+
+      <p>She heard no reply, and the feeling of being watched subsided, so she bowed down to the water and began drinking again. As soon as she did so, she felt the presence return, and she quickly looked up a bit to the right, and as she did so, she saw a small branch of a magnolia tree move abruptly. She stared in that direction intently, her body perfectly still. Though she could see nothing but the woods there, she felt a life-force there that was almost familiar.</p>
+
+      <p>&quot;Who are you, friend? You needn't hide from me. I am Aila, the winged unicorn, and I mean you no harm.&quot; Aila's curiosity got the better of her. </p>
+
+      <p>There was a brief pause, but then Aila saw a very faint yellow glow – it wasn't so much a glow actually, it was more like a network of moving veins that had a faint yellow color – in the vague shape of an invisible unicorn.</p>
+
+      <p>&quot;Oh Tabor! It's you! Thank Ilo, it's good to see you here! I have been lost for hours.&quot; She sent him her thoughts, but she was overflowing with energy. Each word was surrounded by a stream of powerful pink magic.</p>
+
+      <p>Tabor's glow intensified momentarily, and Aila could almost see his complete form. He quickly moved his head in a direction away from the pond.&quot;</p>
+
+      <p>&quot;Do you want me to follow you?&quot; </p>
+
+      <p>At that, Tabor turned away and trotted slowly away.</p>
+
+      <p>It was not known to Aila that the blinded could make themselves visible to a unicorn, and it was unheard of that a blinded would lead an individual, but Aila loved and trusted her uncle, and he was after all the blinded – his purpose now was to lead the herd! </p>
+
+      <p>&quot;I will follow!&quot; </p>
+
+      <p>Aila flapped her wings gently for effect, and she skittered up and across the surface of the pool and was quickly close behind.</p>
+
+      <p>He led her to the south; through a grove of blooming pink magnolia trees that caused Aila's heart to flutter; up a steep hillside completely overgrown with ivy and tall pine trees that dripped lichen; across a great terrain of tall grasses and shrubs where Aila lost sight of Tabor and for a long while followed a nearly invisible trail of stamped grass; and into a sunken vale of mysterious cypress trees. This was a protracted sojourn Tabor was leading her on. Aila had plenty of time to wonder where he was leading her, and why, which was the more intriguing though less answerable question. </p>
+
+      <p>When they reached the cypress vale, Aila felt a slight familiarity. These were interesting trees, and she had long ago made friends with their striated boles that showed off their powerful root structures. Aila remembered them fondly from her adventures with Liba - there were many near the gates of the realms that they had visited.</p>
+
+      <p>&quot;The gates!&quot; She cried, as she realized where they were.</p>
+
+      <p>Tabor stopped a moment, and his yellow glow flared briefly before he continued onward.</p>
+
+      <p>&quot;But why would you bring me here, Tabor?&quot; Perhaps this was just the most direct path to Naranthal. Surely Tabor was just helping her find her way home.</p>
+
+      <p>They proceeded deeper into the vale, through a curvy trail, and were soon at the clearing where large standing stones marked the four directions around the grassy hill. Tabor led her not to the southern stone as she expected as she knew the gates were north of Naranthal, but in a direct path up the hill towards the gates.</p>
+
+      <p>&quot;Tabor, where are you taking me?&quot; Aila demanded, though she knew he could not answer.</p>
+
+      <p>This time he did not respond. His yellow glow was intensifying, and when they arrived at the ring of stone ground that encircled the swirling windows Aila could again clearly see his magical form of swirling yellow lines. He led her around to the easternmost side of the circular path, and stopped facing the portal to the west.</p>
+
+      <p>Aila approached beside him, her mind abuzz. This was the gate to the realm of The Men.</p>
+
+      <p>&quot;But Tabor, I don't understand. I have been here before, and I have even looked through this gate. But Oslier said it is forbidden! Why have you brought me here?&quot;</p>
+
+      <p>He stood motionless, facing the gate. Aila could not read his thoughts and she was unnerved. She was used to fully understanding the thoughts and emotions of her friends and companions. She knew Tabor fairly well, and trusted him implicitly. Her mother, Eranor, had always been close with her older brother, and though Aila had not interacted with Tabor frequently of late, he was family. Long ago, for years after her naming, Tabor would still call her Joili, as a sort of tease, and Aila would lovingly rebuke him for that. Now, she wished desperately to hear his voice. Instead, the ghostly blind indication of him stood motionless staring into the portal of The Men. What did he want her to do? Should she look through? Should she <em>go</em> through? </p>
+
+      <p>Why was this happening? The last day's cycle left Aila reeling. She had wished to go to the land of The Men, and been denied. She had wished for wings, and flown! She restored her mother's magical energy. She flew to the edge of the world and halfway to Ilo! And she had gotten lost, and then drank from a miraculous pond that saturated her with magic energy. She had found Tabor! That alone was a feat worth sharing with the herd - it was a revelation to her that it was even possible! And now she was being faced with an epic conundrum. What was she supposed to do?</p>
+
+      <p>As if on cue, Tabor looked over at Aila and his eyes glowed thick with veins of magical yellow energy. He then took several paces backwards, bowed his head slightly downwards, and lurched forward spanning the gap between himself and the portal in a single bound before leaping up and towards the portal, where he vanished.</p>
+
+      <p>&quot;Tabor!&quot; It was all she could exclaim before he was gone.</p>
+
+      <p>Aila snorted, and pawed at the ground with her fore-hooves. It was clear that he wanted her to go through the portal. A large part of her wanted to! What was on the other side? Where would she find herself if she went? Would she finally meet The Men? Why was Tabor urging her here? <em>What did he know?</em> </p>
+
+      <p>She was filled with excitement at the thought of adventuring out of her realm, and the magic bristled within her. The truth is, she wanted to go, she just wished she understood why this was happening. </p>
+
+      <p>A thought came to her then. It was a saying that Tabor used long ago when Aila was young. One afternoon while walking with him and her mother, she had become afraid to leap across a wide stream, and he said to her ambivalently from the other side, <em>&quot;If not now, then maybe never!&quot;</em> It had peeved her at the time; she wasn't sure she would make it across, and she did not want to land in the rocky water. But she thought about never being able to do it and it gave her the courage she needed. Almost! She did land in the rocks and made a great splash, but she and Tabor and Eranor had a great laugh and it became one of her most cherished memories of her youth.</p>
+
+      <p>She shuffled over to where Tabor had last stood, and gazed into the opalescent portal, and steeled herself.</p>
+
+      <p>&quot;If not now, then maybe never,&quot; she said out loud to herself. With that, she spread her wings out wide and forward and leapt into the world of The Men.</p>
+
       <p></p>
       <p></p>
       <p></p>
