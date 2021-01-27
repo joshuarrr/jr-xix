@@ -431,6 +431,129 @@ export default () => [
 
       <p>&quot;If not now, then maybe never,&quot; she said out loud to herself. With that, she spread her wings out wide and forward and leapt into the world of The Men.</p>
 
+
+      <p className="section-title">III: The World of Men</p>
+
+      <p className="section-title">The Mirror</p>
+
+      <p>She landed where she least expected, which was exactly where she would have landed if she had jumped through nothing. She was in the middle of the 12 portals, on the stone pathway that led to the center of the circle. The only difference that caught her eye was that the tall black obelisk in the center of the structure was glowing with a quiet black light. The light faded momentarily. She approached the stone and placed her horn against the mirrored black surface, but felt nothing. She glanced around, not sure what she hoped to see. She had expected to be transported to the land of The Men, or to at least see visions of the Men as she had with Liba, but it seemed she had just leap through a non-magical gate.</p>
+
+      <p>Aila turned to face the portal she had just come through. The stone pathway led directly to it from here, but there were diverging paths that led to either side of each of the gates. </p>
+
+      <p>She sent out a large pulse of awareness, which informed her that she was in fact in the exact same place, give or take a few paces, as before she had jumped through the gate. What had happened? Were the gates broken? Did she not do it right? </p>
+
+      <p>Curious. She stepped forward to inspect the portal she had come through, but as soon as she looked up she was startled by her reflection. What had been a swirl of indecipherable images and lights on the other side was from this vantage as smooth as a still pond in the morning. In the surface she saw her new incarnation for the first time. </p>
+
+      <p>Aila had of course seen herself in reflective waters, and she had the awareness of her self as seen through her connections and sharing of thoughts with her friends and family of the herd. But this was the first time she had seen herself with her own eyes standing straight and tall. The mirror was true and the reflection perfect. She noticed her wings hangin loosely at her sides. One was nearly touching the ground! She adjusted them by pulling them back and tucking them in, and she admired the form they created. She looked like a swan! Curious, she spread her wings wide, and then directed them forward so that she could see the magnificence of the featherwork inside. She curled them forward and found that she could overlap them in front of herself so that just her eyes and horn were visible. She gave a brief flap and imagined what she would look like in flight, but found she didn't have to imagine – she was already several inches off the ground. </p>
+
+      <p>This mirror was intriguing! She stepped close to the portal. Her horn was glowing hot pink, and tiny tendrils of magic vapor was drifting off her horn and face. Her eyes looked severe in a way she would not have expected, and as she cocked her head a few degrees to the side, the unicorn in the mirror did the opposite. She analyzed her feelings to try to coordinate herself to what she was seeing. She was admittedly a bit nervous and confused – what had she just done, and why wasn't the portal working? She opened her mouth and watched the mirror mimic her. She stuck out her tongue and flipped her ears forward and crossed her eyes, and the mirror copied it all. She looked absurd! Aila laughed, and the unicorn in the portal laughed and she saw that she looked a bit more relaxed. </p>
+
+      <p>Oops – she noticed there was a bit of lichen on the top edge of her nose. She bent her head downward and lifted her right hoof up so that she could paw it off, but as she did so her horn connected with something hard and inert. The mirror! And then she remembered; Tabor had sealed the portal from the world of men.</p>
+
+      <p>&quot;Oh no!&quot; </p>
+
+      <p>&quot;What have I done?&quot; Had she in fact transported somewhere? Was <em>this</em> the world of Men? Was she trapped here for a hundred years? When had he sealed this gate?</p>
+
+      <p>She stepped around the mirror, and examined the portal from the far side, the side she had initially leapt through. Instead of the swirling mass she had thought to see, there was nothing – just a thin, nearly invisible frame. The black obelisk was visible in the center of the hill. She walked through the frame and turned around to see the mirror once again, and she was at last convinced that she had indeed landed in a different realm.</p>
+
+      
+      <p className="section-title">The Hunt</p>
+
+      <p>Aila turned and exited the inner circle via the path near the mirror and circumnavigated the portals. Each of the other eleven gates matched the first. They were all empty frames. She wondered what she was meant to do. Why on earth had Tabor lead her here? Had she in fact ever even seen him, or was that just an illusion brought on by the magic pond water she had drank? She still felt abuzz with the energy she had consumed there, but she noticed her stomach was grumbling. Unicorns had to eat! </p>
+
+      <p>With nowhere else in mind, she decided to had south towards Naranthal and her home pastures. As she trotted down the path through the giant cypress trees, she noticed that everything looked the same, but something felt remarkably different. She couldn't tell what unnerved her, but she was on high alert and keenly aware of her surrounds. She sent out pulses numerous times, but it was indeed the landscape she was familiar with. Something was wrong, she knew; it was almost as if something was missing. Ah, it was the animals. Or, rather, the absence of them. She couldn't sense any other being anywhere nearby.</p>
+
+      <p>She passed through the Cypress, and out through the trails that were cut into the low tangle of brambles and rhododendrons that demarcated the transition from forest to plain. She had only traversed this trail on a couple occasions but she recognized nearly every step. Soon she came to a small shaded thicket rich with ivy and tall willow trees. There she stopped abruptly. Her keen hearing and smell forewarned her of the arrival of her friends the rabbit and the fox as they ran through the underbrush. So there were animals here after all!</p>
+
+      <p>As they scurried through the brush and onto the trail, Aila called out, &quot;Hello Bisky, Tiffle! Where are you off to in such a hurry?&quot; </p>
+
+      <p>Before she had finished her greeting, the rabbit, upon rounding the bend, halted in his tracks for a fraction of a second and darted off into the brambles. Aila saw that a tuft of hair was left dangling from a particularly nasty looking thorn near the ground. In a breath, the fox crashed through the mesh of brambles after the rabbit, and Aila stood open-mouthed. She was awash in the wake of uncomfortable feelings. This was no game they were playing! </p>
+
+      <p>Concerned, Aila circled back around the thickest of the the bushes to a spot that was clear enough for her to sneak through into the network of blackberries and tall gangly plants, and she cantered over to where she saw Tiffle the red fox at rest. She felt a terrible nausea hit her then, and shook her head from left to right, trying to shake it off.</p>
+
+      <p>&quot;Tiffle! What are you doing?&quot; She thought out loud to the fox as she approached.</p>
+
+      <p>The fox turned to her – something dangled loosely from his mouth – and immediately sprang away and disappeared into the deep forest before Aila could get close.</p>
+
+      <p>'What is this? What is happening!', she thought. 'Is Tiffle afraid of <em>me</em>? Whatever for?'</p>
+
+      <p>She walked forward and was stunned to see the rabbits torn body, in pieces on the ground, lifeless.</p>
+
+      <p>&quot;Oh Bisky, you poor animal! What has he done to you?&quot;</p>
+
+      <p>She examined the rabbit with her horn, but parts were missing, and he was beyond restoration. The hungry fox had killed the wild hare.</p>
+
+      <p>Aila felt sick. She impulsively spread her wings and flew several meters into the air, cresting the tree line, seeking vainly to evade her own thoughts. What was wrong with that animal that could make it do something like that? She had never seen an intentional felling before! It made no sense to her. She wished she could go back and stop the atrocity before it happened, but there was nothing she could do about it. </p>
+
+      <p>Instead she breathed, and she focused on the sensation of the wind in her wingtips. She instinctively sent out a pulse and turned in the air for Naranthal, her home. She didn't know what else to do.</p>
+
+      
+      <p  className="section-title">The Wagon</p>
+
+      <p>Aila's emotional state stabilized rapidly. Flying was still a new activity for her and it consumed much of her attention. She stayed low in the sky, barely above the treetops and focused on trying to remain as steady as possible. She found that the more she focused on her task the less successful she became, but when she concentrated on the direction she was going, her wings and body stabilized. As she progressed, she found that when she focused on her empty belly, or the delicious golden fields of Naranthal, her flying was at its best.</p>
+
+      <p>When the trees dwindled down to a smattering and the grasses of Elseland began in Ernest, she landed for a quick bite. This was not favored pastureland of her herd, as the tall grasses here grey bitter and woody with sharp edges, but she was hungry, and she could of course eat and walk. </p>
+
+      <p>Hours had passed since her encounter with the fox and rabbit, and though it was unlike her to dwell, she kept remembering the look that fox had given her before he disappeared. It was as though he knew what he had done was wrong, but he simultaneously enjoyed it. Maybe she was reading too much into the look in his eyes, but it haunted her. A part of poor Bisky dangling from his mouth... he had been <em>eating</em> him. Why would he do that? He must have been starving. That would explain the pleasure in his eyes. Aila herself was currently feeding her empty stomach. But there was plenty of food here, so that didn't make much sense. </p>
+
+      <p>She stumbled upon a patch of lush green clover and chomped at it a while, and she was grateful for the switch from the tall grass which she found barely palatable. Tabor came to mind again, and she reminded herself of her morning. Things were clearly different now, and she <em>had</em> come through the gate. Now she couldn't sense the life-forces of the local fauna, and to top it off they ate each other. If this was indeed the world of The Men, she wasn't so sure she liked it all that much. Again, she wondered, &quot;Why did Tabor urge me here? Why did I want to come here? And if this <em>is</em> the realm of The Men, where are they to be found?&quot;</p>
+
+      <p>The answer to that last question soon presented itself. Aila had moved on from the clover and was considering making a super fast dash for Naranthal when she heard a commotion from far away to the south west. A squeaky high pitched sound. A clunking sound and an accompanying rattle. The rhythmic footfalls of unicorns! Her ears perked up and she tuned her eyes on the direction of the sound. It was coming nearer. </p>
+
+      
+      <p  className="section-title">The Men</p>
+
+      <p>It was late morning, and Ian and Cal were weary from loading the wagon. They were cultivating a state of bored resentment over the entire nature of their trip. The young brothers would much rather be anywhere else than en route to Hillsdale with the tailor's bolts of fabric and the precious box of leather working tools and supplies. </p>
+
+      <p>Ian was particularly resentful. They'd lived as peasants in the grove for what seemed like a century. Instead of his wish for something exciting to happen (anything!) coming true, or any of his family even remembering that it was his birthday, he got the grunt work dumped on his shoulders, again. It was bad enough having to field errands for his father, but it was his box of leather tool that had been sold. He'd spent months crafting those awls and burnishers, and he had just started cutting the teardrop shaped pieces for a scaled cuirass he'd been making for himself. It had taken almost a year of working in the tanner's shop just to afford the leather and now he would have no way to work it. He would make new tools, but the setback was dispiriting. He wished that his older brother Cal had never said anything about the tools to their father but knew that in his way he was trying to be helpful. Their youngest sister Anna was sick and needed expensive herbs.</p>
+
+      <p>Cal was whistling off key, and that bothered Ian not at all for he was deaf. The brothers walked together on one side of the rickety wagon. The floppily rotating wooden wheels squeaked and whined, which also bothered Ian none.</p>
+
+      <p>At least the rain had stopped. It was a lovely morning, and the sun had already risen above the trees and there was still a bit of peach left in the sky to the east. A family of swifts raced in a zig-zag across the tall green grass fields where the shining white unicorn grazed. </p>
+
+      <p>Wait, what! Ian stared for a long moment, not trusting his eyes. He slapped his hand to his brother's shoulder and pointed. Cal stared in disbelief for a long moment, not trusting his eyes. </p>
+
+      <p>Cal pulled back on the reins and stopped the wagon. He took a step towards the unicorn but Ian put his hand to his chest and made that face that meant he was serious. </p>
+
+      <p>The unicorn was walking towards them. She had seen them, and now she was walking towards them. And she had wings. </p>
+
+      
+      <p  className="section-title">The Winged Unicorn</p>
+
+      <p>As they came into view Aila realized they were not unicorns, but horses coming her way. They had a heavy looking cart attached to them with ropes and two slender stick like creatures walked beside. They wore brown flappy material on their bodies, and one was making a peculiar sound with his face. These must be The Men! </p>
+
+      <p>She ambled towards them and then they stopped and became quiet. Were they afraid of her as well? She was curious, and proceeded to approach them slowly and quietly. She herself was not afraid. She didn't see any long knives or other objects.</p>
+
+      <p>As stopped as she neared, and welcomed them with a gently half-snort, half-neigh.</p>
+
+      <p>&quot;Hello, friends. Are you The Men?&quot; She was about two paces away, and she spoke softly. &quot;Horse friends, tell me, do you consent to this treatment of your own free will? These ropes, do you not find them uncomfortable?&quot;</p>
+
+      <p>There was no reply. The horses stood motionless and vacant. One of the Men made a motion to the other, and then slowly stepped towards aila. He held something out at her - it was a small red object. An apple! She liked apples! There weren't apple trees anywhere near here that she knew of, and she wondered how this creature had come upon one. </p>
+
+      <p>The Men then did something startling. He threw the apple at the ground by her feet. She impulsively huffed and stepped backwards, but the Men stood motionless. One of the Men made soft, indecipherable noises that were unnerving. She deduced that the Men were gifting her the apple in a sign of friendship. That was ok, she supposed, though she was unnerved by the strangeness of the entire scene, and the horses strange behavior did not put her at ease. </p>
+
+      <p>She stepped forward and took the apple in her mouth, keeping her eyes on the Men. She crunched down, and a piece fell to the ground while she worked the sweet juices into her mouth. She loved apples! As she bent to retrieve the piece that had escaped, she noticed one of the Men was coming nearer, his limb extended towards her. He seemed slow and harmless enough. What did he want? She wished he would speak.</p>
+
+      <p>&quot;What do you want? Why do you not speak?&quot;</p>
+
+      <p>He came quite close to her, ignoring her inquiry. At a few feet away she felt a faint sense of adoration. The Men did have a feeling, it was just very slight! His outstretched limb then touched the top of her nose. She imagined this must be how the Men greeted each other. Strange, but she supposed that for a species that can't talk, unexpected customs must arise. </p>
+
+      <p>Then the Men moved his hand up and down on her nose, and Aila found that peculiar, but she enjoyed the sensation. It was oddly comforting, and she noticed a tickle arose and then was soothed by his touch. She shut her eyes and sent him a bit of her energy as gratitude. Her horn pulsed a gentle pink light, which was all but invisible in the sunlight.</p>
+
+      <p>The other men had slowly approached, and the spell was broken when he threw a rope across Aila's neck.</p>
+
+      <p>&quot;No! What are you doing?&quot; She cried.</p>
+
+      <p>The other men made an almost identical sound.</p>
+
+      <p>The men pulled down on his rope, and somehow it constricted around her neck in a most uncomfortable and frightening way. So she dispelled it, and the rope vanished. She reared up on her hind legs and the Men with the rope fell backwards to the ground.</p>
+
+      <p>&quot;You will not capture me, small Men! How dare you try! I am Aila, the Winged Unicorn! I am here by my own will. I am free!&quot;</p>
+
+      <p>As she spread her wings and took flight she noticed the other Men, the one whom she had let touch her, standing towards her with his top limbs outstretched. Perhaps not all of The Men were the same. No matter. She wanted nothing to do with these two now. </p>
+
+      <p>She rose into the air and made her way towards Naranthal.</p>
+
       <p></p>
       <p></p>
       <p></p>
