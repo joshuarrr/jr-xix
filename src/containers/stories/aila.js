@@ -647,7 +647,7 @@ export default () => [
 
       <p>&quot;He <em>made you</em> feel these things?&quot; Aila inquired in disbelief. &quot;Perhaps this is a human thing? Men can <em>make</em> you feel things? Unicorns feel our own feelings. We are aware of other's feelings, and those can change what we decide to feel. But none can make us feel a thing. None can make us feel love or joy, or even fear; those feelings come from our own making. Our feelings belong to us, and in fact they are us – they make us who we are. I don't mean to preach, Sierra, but this is the way with us. When we love, we give our energy to another, and they give us theirs. It feels wonderful because their love is a feeling custom made for us. Trading energy feels good! I think you have been giving your love away for a long time without getting any back.&quot;</p>
 
-      <p>The princess looked out at the mountains in the distance, and down at the ground for a brief moment, then she looked again at the unicorn before her.</p>
+      <p>The princess looked out at the mountains in the distance, and down at the ground for a brief moment before looking up again at the unicorn before her.</p>
 
       <p>&quot;I still don't believe that you are real. May I touch you? You are such a beautiful creature.&quot;</p>
 
