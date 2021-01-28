@@ -518,7 +518,7 @@ export default () => [
       <p>The unicorn was walking towards them. She had seen them, and now she was walking towards them. And she had wings. </p>
 
       
-      <p  className="section-title">The Winged Unicorn</p>
+      <p className="section-title">The Winged Unicorn</p>
 
       <p>As they came into view Aila realized they were not unicorns, but horses coming her way. They had a heavy looking cart attached to them with ropes and two slender stick like creatures walked beside. They wore brown flappy material on their bodies, and one was making a peculiar sound with his face. These must be The Men! </p>
 
@@ -553,6 +553,111 @@ export default () => [
       <p>As she spread her wings and took flight she noticed the other Men, the one whom she had let touch her, standing towards her with his top limbs outstretched. Perhaps not all of The Men were the same. No matter. She wanted nothing to do with these two now. </p>
 
       <p>She rose into the air and made her way towards Naranthal.</p>
+
+
+      <p className="section-title">The Castle</p>
+
+      <p>She rose to a great height with only a few wingstrokes. She was furious! And a little bit scared. She remembered back to the story of Marissella's sad fate, and it had begun in much the same way, with The Men trying to capture a unicorn with a rope. Until today she hadn't even really known what rope was. She had heard of it from stories of the Men, but she had never seen it before, and she surely had never felt it. Around her neck, no less. The gall! Her outrage mounted. Aila liked most things she had encountered, but she didn't think she liked rope, much. </p>
+
+      <p>Her feelings about Men were more complicated. She certainly did not like the one that had put a rope around her neck. In her mind she saw him falling back to the ground as the rope vanished from his hands, and as she played back the event she felt an urge to put her foot down on his body and stomp him out of existence. What a dreadful thought! What a vicious aspect this realm was bringing out in her. She had never had such thoughts before and she disliked how they made her feel. She blew the tension out through her nose as snort and resolved to think kinder thoughts. </p>
+
+      <p>One of the Men had given her an apple and rubbed her nose. She had felt that he admired her. He seemed calm and gentle. Perhaps even kind? </p>
+
+      <p>Her anger cooled off as she considered this. It was strange to her that the two Men had behaved so differently. It actually fascinated her. It reminded her of the time she had looked through the portal with Liba, when she had seen so many fractured moments of these creatures; some of the things she saw distressed her, but some of them she almost envied. </p>
+
+      <p>If men varied so much amongst each other, how could she ever know who was safe and who was to be feared? Perhaps the gentle one was just craftier and also had foul motives. Perhaps he wanted to capture her as well. Aila didn't believe that, because she trusted the warm feeling that she felt from him. The other Men had no feeling about him at all, and he gave her no such comfort. Perhaps only some men were treacherous. Still, that made them all treacherous. She would apparently have to be more careful if she was to get home in one piece.</p>
+
+      <p>Home! How was she supposed to get home? She had come through a portal to the land of The Men and now she was stuck here! Tabor had sealed the portal, and she had no idea how else to get back to her own realm. She still hadn't spoken to Liba or Elsie or any of her friends in the herd and she missed them. She may have made a terrible mistake coming here, where animals kill each other and Men try to capture her. Her thoughts boiled again. 'What a terrible place this is turning out to be. Why why why on earth did Tabor lead me here?'</p>
+
+      <p>She took a few vigorous wing flaps, and surveyed the ground below. She saw the trail that the Men and the strange horses and wagon had been on, winding south towards – she could see from her vantage that something peculiar where the fields of Naranthal should be. She followed the road back with her eyes and saw now that alongside it were several large brown disruptions with rigid sides. She knew that the Men built things out of dead trees – perhaps these were their dwellings. But there were so many of them! </p>
+
+      <p>She took several more vigorous wing flaps. Soon she was near the hill where her mother's favorite Sycamore grew. Aila breathed a sigh of relief to see it standing tall and wide as ever, but there was one of the brown structures situated close by. This was the closest she had been to one, and she saw that it was in fact made of dead trees and mud and straw. It was big enough that three or four unicorns could fit inside at one time, and it had a gate cut into one side. Peculiar indeed!</p>
+
+      <p>She stayed high above the ground, and as she continued south she realized that the brown structures were tiny compared to what occupied the fields she sought. The lush pastures were nowhere to be seen. They were instead covered entirely with stone and tree parts and mud and straw and Men. There were hundreds of them, milling about on paved paths and making such loud noises that Aila could hear them from the clouds. But what intrigued and impressed her most was the enormous stone structure that sat in the middle of the entire conglomeration. It was hundreds of meters wide in both directions, and nearly as tall. There were four great towers on each corner, and long colorful banners atop conical structures on each. It was remarkable, and Aila was amazed.</p>
+
+      <p>She flew closer to the incredible structure, and as she did, something atop the nearest tower attracted her eye. It was a Men, and yet it appeared very different that those she had recently encountered. This one was slender and not quite as tall. It wore a white garment that stretched out behind her for many meters. It was narrow atop but billowed out near the ground, and Aila thought it looked like a flower. Also, this one was unfortunate because it was leaking profusely from its mid-section down the edge of the structure.</p>
+
+      <p>Aila's curiosity got the best of her she realized when the Men on the top of the structure looked up at her and made eye contact. She should not have been flying this close! The Men's eyes went wide, and their mouth fell open. Aila did not want to appear rude, so she flew in a narrow ring and landed gently on the stone surface several meters from the Men. </p>
+
+      <p>&quot;Hello, Sierra, what ails you?&quot; Aila greeted.</p>
+
+      <p>The Men just stared at her, their mouth agape. They seemed terrified.</p>
+
+      <p>&quot;You needn't fear <em>me</em>, fair one. I am Aila, and I mean you no harm. Perhaps we may be friends!&quot; Aila tried to use her most soothing voice. She was of course wary of Men after her last encounter, but this one seemed frail and sad and unthreatening. Aila certainly did not want to frighten the poor thing.</p>
+
+      <p>&quot;...Friends?&quot; The men questioned meekly after a perfectly timed dramatic pause. Princesses were good at such things, though Aila did not yet know that's what she had stumbled upon.</p>
+
+      <p>&quot;Friends, sure.&quot; Aila replied. </p>
+
+      <p>&quot;You have wings. You can fly?&quot; </p>
+
+      <p>&quot;Yes, clearly.&quot; She fluffed her wings out slightly, for effect. Unicorns have their own talents as you well know.</p>
+
+      <p>&quot;How is that possible? How are <em>you</em> possible? Am I dead? Did I finally do it? Did I jump to my death?&quot; </p>
+
+      <p>Aila noticed the young Men's eyes were red and wet. They'd been crying. Their skin was fair and thin and almost transparent in places. They had dark auburn hair that was pulled into a loose knot behind their face. They stood on the edge of the stone ground, near a break in the short wall that was apparently meant to keep the Men from falling off. Globs of ethereal black fluid was slowly draining from their chest, pulsing out with each heartbeat. And an aura of intense sadness spread from their body.</p>
+
+      <p>&quot;I came through the gate. In my realm, this structure stands in the middle of a great plain of golden grass, Naranthal, my home. I do not know how I am possible, but I wished for my wings at my wishing ceremony and I assure you that you are not dead. But dear Sierra, you are leaking, and this we must address.&quot;</p>
+
+      <p>&quot;What? How do you know me? Who are you?&quot;</p>
+
+      <p>&quot;I don't know you, we just met. I am Aila, the Winged Unicorn. I am from Naranthal, of the Elseland herd. I would take you there today if I could but I myself am trapped here. The portal is sealed. But Sierra, you are leaking and appear to be critically wounded. I can help if you'll let me.&quot;</p>
+
+      <p>&quot;How do you know my name? What do you mean I'm leaking? Do you mean my eyes? I was crying, I can't hide that I suppose.&quot;</p>
+
+      <p>&quot;I don't know your name, I just call you what I think you should be called. Not your eyes, your chest.&quot; Aila stepped forward, and pointer her horn towards the princess. </p>
+
+      <p>&quot;Here.&quot; </p>
+
+      <p>Aila increased the magical current to her horn, and in the magical pink light that flared up, the princess could see. She <em>was</em> leaking! The hole she had felt in her chest was real, and dark blackish red fluid had flooded the front of her and drenched her gown and a puddle had even formed at her feet. With each heartbeat a new spurt of the dark goop was expelled. She was mortified, and she gasped a slight shriek of shock. </p>
+
+      <p>&quot;Help!&quot; The princess cried, waving her hands about herself.</p>
+
+      <p>&quot;I will.&quot;</p>
+
+      <p>Aila put her horn to the princesses chest, and into the gaping hole. A swirl of various colors twisted inside her horn, and after a moment it grew brighter and brighter. The princess shrieked. The unicorn closed her eyes. A final bright flash of light articulated the event. New flesh materialized and sealed the wound. Aila's horn was left embedded a few centimeters into the area over the princess's heart. She pulled her head back, and when the horn vacated the skin, a slight pink seven pointed star-shaped scar about the size of the princess's pinky nail remained.</p>
+
+      <p>&quot;I am sorry, I did not know that Men scar.&quot;</p>
+
+      <p>&quot;Men? I am not a man, Unicorn, I am a princess. A woman.&quot;</p>
+
+      <p>Aila cocked her head. Of course! This was must be a female Men. That explained her different appearance. Her delicate features, slightness of body, her long tresses. Perhaps even her strange but beautiful clothing. </p>
+
+      <p>&quot;My apologies, princess.&quot; Aila was embarrassed and felt that she had insulted the woman. &quot;I know very little of The Men.&quot;</p>
+
+      <p>&quot;Again, The Men? Why do you call me that?&quot;</p>
+
+      <p>&quot;I am sorry! What should we call you? In our history we have met The Men, but none of them has spoken to us but the little ones, and they did not tell us much. I did not expect that any of you could talk.&quot;</p>
+
+      <p>&quot;Well, I suppose you should call us Humans, or People. I don't much care for either name, but that is what people call us. Men are the males of our species, and women the females. I am a person. When you say 'the little ones', do you mean children?&quot; </p>
+
+      <p>&quot;I suppose so; I never actually met any 'people' before this day.&quot; </p>
+
+      <p>&quot;Then we're even, for I have never met a unicorn.&quot; Sierra held her hands gently over her breast. She looked down at herself, and then back at Aila, the unicorn standing before her.</p>
+
+      <p>In a quieter but more serious voice she asked, &quot;Aila, what have you done to me?&quot;</p>
+
+      <p>The unicorn lowered here head so that her eyes were level with the princess's. &quot;I closed the hole. All of your love and energy was pouring out of you and you were dying. I am sorry about the scar, princess, though it may have been unavoidable. All love scars. Did someone hurt you?&quot;</p>
+
+      <p>The princess looked down at her chest again. She felt different. She had been mourning for weeks, and had lost herself to her anguish and unrequited longing. She tried not to think about it, but it was everywhere. She constantly ached for him, and yet she could not see him, nor tell him how she loved him. She had felt drained of meaning, and her every ambition abandoned her. She spent days on end at the tower crenelations considering her fate. Life had no meaning, and she had no will to go on. It was her fear of dying that kept her alive, for whenever she put her toes to the edge, a wave of vertigo and fear overrode her decision to end herself. </p>
+
+      <p>&quot;Henry.&quot; She whispered the name out loud. &quot;He was to marry me. I love him with all of my heart, but he did not love me. I only believed that he did. Perhaps I just wished it. He made me feel so alive, Aila. He brought me so much joy. And now I have no one. Even my father has gone away.&quot;</p>
+
+      <p>Sierra had stopped talking weeks ago, as her sickness consumed her. She had sequestered herself in her tower, and only her quiet maid of honour, Bee, had seen her in these dark days. She brought food and spirits, herbs and flowers. She lit candles, and placed peppermint in various places throughout the princess's chambers. She made the bed, and took care of the menial chores for Sierra, but there was little else to do and little to say. </p>
+
+      <p>&quot;He <em>made you</em> feel these things?&quot; Aila inquired in disbelief. &quot;Perhaps this is a human thing? Men can <em>make</em> you feel things? Unicorns feel our own feelings. We are aware of other's feelings, and those can change what we decide to feel. But none can make us feel a thing. None can make us feel love or joy, or even fear; those feelings come from our own making. Our feelings belong to us, and in fact they are us – they make us who we are. I don't mean to preach, Sierra, but this is the way with us. When we love, we give our energy to another, and they give us theirs. It feels wonderful because their love is a feeling custom made for us. Trading energy feels good! I think you have been giving your love away for a long time without getting any back.&quot;</p>
+
+      <p>The princess looked out at the mountains in the distance, and down at the ground for a brief moment, then she looked again at the unicorn before her.</p>
+
+      <p>&quot;I still don't believe that you are real. May I touch you? You are such a beautiful creature.&quot;</p>
+
+      <p>&quot;You may.&quot; Aila was slightly alarmed, but she felt nothing but meekness from Sierra, and she again dismissed her apprehension.</p>
+
+      <p>She stepped closer to the princess and rose her head slightly. The princess reached up and very delicately placed her hand on the unicorn's neck. Aila could barely feel the touch, but she felt a tiny gentle loving sensation from the princess. She returned it with a soft pulse of magical energy, which she focused to Sierra's heart. </p>
+
+      <p>&quot;You have much love in you. I believe you are going to be fine.&quot; Aila gently sent her words of affirmation, and Sierra responded.</p>
+
+      <p>&quot;You know, Aila, I think I will be.&quot;</p>
 
       <p></p>
       <p></p>
