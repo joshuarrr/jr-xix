@@ -668,7 +668,111 @@ export default () => [
       
       <p>&#8220;You know, Aila, I think I will be.&#8221;</p>
       
-      <p className="section-title">&#8230;</p>
+      <p className="section-title">The Road</p>
+
+      <p>Aila felt pangs of hunger in her belly, so she turned away from the princess to give herself room for take off. She had not eaten much of that dreadful Algaronian grass! But where should she go, she wondered. She&#8217;d been looking forward to the lush fields of Naranthal, but now she was here and yet the grazelands were not.</p>
+
+      <p>&#8220;Wait, where are you going&#8221; Sierra interjected.</p>
+
+      <p>&#8220;I don&#8217;t know, actually. I need to graze but the fields I expected to be here are covered by human. I guess I will head west, to Farro&#8217;s Den, where we sometimes graze in the summer.&#8221;</p>
+
+      <p>&#8220;Oh! I hoped we would have more time together. But don&#8217;t go west! My father has lead our army west to do battle with the Kells.&#8221;</p>
+
+      <p>&#8220;Battle? What is that? What is an army?&#8221;</p>
+
+      <p>&#8220;Oh Aila. You little bird.&#8221;</p>
+
+      <p>At that, Aila huffed. She was no bird! But she sensed that Sierra meant it playfully, so she let it go.</p>
+
+      <p>&#8220;Armies are great numbers of men dressed and trained to do battle, where they fight and kill each other. It&#8217;s rather pointless, I think, but father said that if we don&#8217;t make a stand that the Kells would take our lands and murder and enslave our people, so he had to fight them to protect our kingdom.&#8221;</p>
+
+      <p>Aila did not fully understand, but she was mortified.</p>
+
+      <p>&#8220;They go to kill each other? This is dreadful. I don&#8217;t understand. Why would these Kells attack your herd?&#8221;</p>
+
+      <p>&#8220;I don&#8217;t know, Aila, but the whole town is scared that when our army returns it will be in defeat, or worse, they they won‘t return at all, and instead the Kells will come. Everyone is worried. I had given up hope for myself so cared little, but now I find myself worried again. Still, for your sake I beseech you, do not go west!&#8221;</p>
+
+      <p>&#8220;I will not. I fear I do not know this land as I once did.&#8221;</p>
+
+      <p>Sierra perked up a bit. &#8220;Oh! I know it well! Perhaps I can help you, as you helped me! I can show you where many green pastures are. Do you like alfalfa?&#8221;</p>
+
+      <p>&#8220;I do! What is it?&#8221;</p>
+
+      <p>&#8220;Ha! You can&#8217;t like it if you don&#8217;t even know what it is! Aila, you&#8217;re silly!&#8221;</p>
+
+      <p>&#8220;I like most things. Though, I don&#8217;t like rope.&#8221;</p>
+
+      <p>&#8220;Rope? What&#8217;s so bad about rope?&#8221; The Princess squinched up her face and rose an eyebrow. Aila thought her expression looked peculiarly cute. The princess had charms.</p>
+
+      <p>&#8220;A man tried to capture me with rope. He put it around my neck and pulled until it choked me. Sierra, I will not be captured or confined in that way ever again.&#8221;</p>
+
+      <p>&#8220;Oh that&#8217;s dreadful! Aila, hear me. I am the princess of this kingdom; I technically rule all of these lands when my father is away. While you are with me, no harm will befall you from the people here.&#8221;</p>
+
+      <p>&#8220;You are the leader?&#8221; Aila cocked her head.</p>
+
+      <p>&#8220;I am their princess. My father is the king, and he is the ruler of Rothelyn and many lands stretching east and south. That is why he has gone off to fight this war with the Kells.&#8221;</p>
+
+      <p>&#8220;I see. I am sorry I must go then. But tell me first what is a Rothelyn?&#8221;</p>
+
+      <p>&#8220;Why, this kingdom. This,&#8221; she said as she stretched her arms out wide and directed Aila&#8217;s attention to the buildings and people below, &#8220;is Rothe.&#8221;</p>
+
+      <p>&#8220;Oh. I would have called it Aerenthal.&#8221;</p>
+
+      <p>Sierra made a face that confused Aila. The princess lowered her forelegs and opened her mouth to speak but said nothing. Aila again felt the absence of her ability to know the woman&#8217;s thoughts, and was suddenly curious.</p>
+
+      <p>&#8220;Why do you falter? Is something wrong with that name?&#8221;</p>
+
+      <p>The princess looked down at her hands, and her face became somber again.</p>
+
+      <p>&#8220;Aden is the prince of Aerenthal, the kingdom to the south. Aila, how do you know these things?&#8221;</p>
+
+      <p>&#8220;I did not know! I just said what I felt this place should be called.&#8221;</p>
+
+      <p>&#8220;That doesn&#8217;t make any sense!&#8221;</p>
+
+      <p>Aila felt terrible about the misunderstanding and about having said the name of Aden&#8217;s land. But she did not like the way Sierra was addressing her, and thought it best for her to depart.</p>
+
+      <p>&#8220;I&#8217;m sorry. I did not mean to upset you. I will leave now.&#8221;</p>
+
+      <p>&#8220;No, do not leave. I demand that you tell me why you have come here. You said you only arrived this day and that you did not know our lands. How do you know of Aerenthal? How do you know my name?&#8221;</p>
+
+      <p>Sierra&#8217;s consternation was making Aila anxious. She&#8217;d been pleased that her healing had gone so well, and the princess&#8217;s mood had dramatically improved in a short time. But she was again agitated and this was different. Instead of moribund and morose she was now exasperated and angry. Aila&#8217;s innocence guided her.</p>
+
+      <p>&#8220;Sierra, look at me. Put your hand on my shoulder. <em>I am a unicorn</em>. I do not know you or your ways, and you do not know mine. I know names. I don&#8217;t know how or why, I just know that I do. I named Morsha yesterday at the naming ceremony. I have known the names of Esthle, Pim, Nylse, and Neddle. Many unicorns channel this art, but not all.&#8221;</p>
+
+      <p>Aila&#8217;s tone was soothing, and at the mention of each name her horn pulsed gently. Sierra put her hand on Aila&#8217;s shoulder and admired the unicorns long, coarse white hair.</p>
+
+      <p>&#8220;Why have you come here, Unicorn? Why have you come to me?&#8221;</p>
+
+      <p>&#8220;I don&#8217;t know. I followed Tabor to the gates. I wished to visit the world of The Men.&#8221; Aila caught herself too late. &#8220;The world of Humans.&#8221;</p>
+
+      <p>Sierra rolled her eyes and raised the corner of one lip a fraction of a degree. She felt a strange electricity from the powerful beast&#8217;s coat. She noted that the unicorn was simultaneously powerfully muscled and delicately formed. She was by no means slender, and yet she appeared so. Her coat was almost metallic, the hairs were so perfectly aligned and thick. She was warm. Not just her exterior - Sierra felt an almost magical depth to the animal, and it was kind and inviting. And then she felt an indescribably sensation – few humans have ever experienced this, and there is no good way to describe it but it was almost as if her thoughts became tangible and they touched something, or fell into a velvet tapestry.</p>
+
+      <p><em>You can feel me?</em></p>
+
+      <p>Sierra jerked away from the Unicorn. &#8220;What was that!?&#8221; She gasped.</p>
+
+      <p>&#8220;I felt you! That was me! Aila!&#8221;</p>
+
+      <p>The princess took several back-steps away. If you were here and paying close attention you might have noticed that her left hand that had touched the unicorn had a faint swirl of pink mist about it. You would very likely not have noticed that the scar above her heart was faintly glowing in the sunlight as well.</p>
+
+      <p>&quot;Aila. Why have you come here. Why have you come here <em>now</em>??</p>
+
+      <p>&#8220;I don&#8217;t know! Maybe I came here to heal you. But Sierra, I must go now to graze. If not east then I will head south.&#8221;</p>
+
+      <p>Sierra put a hand to her lip and looked away.</p>
+
+      <p>&#8220;Wait. Yes. Go south. Follow the road south out of town and when you get to the bridge bear east – there are fields there that may be suitable for grazing while you wait for me. I&#8217;ll follow and when I arrive I will take you to the alfalfa fields. You mustn&#8217;t go alone for there are many men there. But you will be safe with me.&#8221;</p>
+
+      <p>Aila was relieved at this change in the princess&#8217;s disposition. She was unpredictable in a way that unnerved her, but Aila had to admit to herself that a part of her liked that about her. She was impulsive and petulant but good natured at heart. In a way, Sierra reminded Aila of Liba. Aila snorted at that thought.</p>
+
+      <p>&#8220;What?&#8221; Sierra asked, thinking the snort was meant for her.</p>
+
+      <p>&#8220;Oh nothing, that sounds perfect. Just one thing, though&#8230;&#8221;</p>
+
+      <p>&#8220;What?&#8221;</p>
+
+      <p>&#8220;Tell me, what is a road?&#8221;</p>
       
       <p></p>
       
