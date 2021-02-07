@@ -774,8 +774,246 @@ export default () => [
 
       <p>&#8220;Tell me, what is a road?&#8221;</p>
 
+      <p className="section-title">The Battle</p>
+
+      <p>King Reginald was tired. He was cold, and he was covered from head to toe with dried sweat, mud, and blood. Alone in his tent, weary from the days battle, he stood staring down at the makeshift war table, his arms crossed. He had lost two entire battalions today. He was now down to 700 men. 706, if you&#8217;re keeping track of such things. He refused to think the actual words, fearing that if he formed the sentences – even in his mind – that they would become truth. But his gut was more daring, and there he felt the inevitable. He had lost this war.</p>
+
+      <p>The king frowned. Today&#8217;s defeat was the latest in a series of desperations, though the battles had begun well enough. Reginald had led his army of three thousand to this spot thirty days ago. One thousand archers, including three hundred longbowmen. Fifteen hundred infantrymen. Two hundred pikes. Three hundred mounted calvary. They had fortified the eastern edge of the sloped valley between the scarps of the sister mountains Gaia and Egris with hurried entrenchments consisting of crude ditches and bulwarks.</p>
+
+      <p>The first of the Kells, a vanguard brigade of a thousand calvary men, had fallen fast. Reginalds longbowmen stood on either side of valley forming a large V, and as the riders entered the vale, they let loose clouds of arrows. His infantry had finished the job, and that first battle was over. He had lost 3 men that day, to the Kells thousand, and he let the men celebrate against his better judgement. Though they had handily defeated this wave of attack, he knew well that the true battle had yet to begin.</p>
+
+      <p>There was nothing the next day, nor the next. He sent scouts. He busied the men with continued ditch digging and bulwark construction. He rode his horse Abi up the side of Egris as far as he could, and surveyed the surrounding lands. It was mountains and trees as far as the eye could see in all directions. It was spring, and it was cloudy. This was perhaps one of his last days. He breathed in the crisp air, and tasted the faint dust of wildflower. Waiting for war is a kingly experience he had grown tired of. Days passed, and his scouts did not return. He sent more.</p>
+
+      <p>His trebuchets had arrived a week later: six twenty foot wood beam structures that could lob giant stone blocks at the enemy with great force. His army was growing restless, but they were confident after their first victory. With his growing fortifications, the king himself let himself hope that it would be enough to stave off the Kell&#8217;s next attack.</p>
+
+      <p>It was not. The next morning brought a sea of infantrymen, perhaps five thousand. Shielded and armored, the longbowmen loosed volleys of arrows but had little effect. His calvary rode out in a strong phalanx and was swallowed whole. When the Kells were within range, his trebuchets fired round after round and devastated large aisles of the invaders, but they were slow to load and Reginald wished he had a hundred of the nefarious machines. It was his pikemen and infantry who saved that day, for they fought with vigor and held the line for wave after wave of the kells onslaught.</p>
+
+      <p>The invaders retreated that late-afternoon, and this time their victory was not jovial. It was hard to tell if it was a victory at all. They had held the line, but now they knew the terror they faced, and they shared the king&#8217;s apprehension.</p>
+
+      <p>Jival, his best scout, returned to camp that evening. He helped Reginald arrange the stone figures on the parchment map in his tent. The map was sobering and they said little. After they completed arranging the markers, he dismissed Jival, and called for his five generals. These were his friends, and he knew each well. They were fathers, and lords of their own lands. They had fought battles together, but never at these odds. When they came to him now, he was not relieved for their company, he was ashamed. He could see no victory before them.</p>
+
+      <p>'My lords. We have fought bravely and with honor. Each of you has proven yourself to me on the battlefield and off. I owe you my allegiance and my gratitude, and know that you have it. As you know, this war is not yet over. It has only begun. My scouts inform me that Davas Kell has amassed an army ten times the size of ours when we set out from Rothe. I invite now your inspiration. I ask you to study this map, and to see in it arithmetic in our favor.&quot;</p>
+
+      <p>The five men crowded around the map and for many minutes made not a sound. Thedlin abruptly reached for one of the markers, then stopped mid-motion and retracted his arm. Agien put his hands on either side of the table opposite the king and leaned over, staring at the pieces. He looked up at Reginald and they traded a grave expression.</p>
+
+      <p>After the uncomfortable silence had progressed into shock, Willyn was the first to speak.</p>
+
+      <p>&#8220;What of King Stewart? What of Aerenthal?&#8221;</p>
+
+      <p>&#8220;No word.&#8221; The king dismissed the notion. His hopes at improving relations with Aerenthal had withered when Prince Aden had rejected his and Sierra&#8217;s betrothal. Many kings would have gone to war over such a slight, and if not for the Kells intrusions he himself may have as well. He had considered it when Steward had sent a page with the news on scroll. He didn&#8217;t even have the nerve to come face to face. Coward.</p>
+
+      <p>&#8220;I&#8217;ll not send another bird.&#8221;</p>
+
+      <p>Silence encased the room once again.</p>
+
+      <p>Egner stepped back from the table and turned toward the king. &#8220;There is no arithmetic here my lord. There is only defeat. We must surrender.&#8221;</p>
+
+      <p>Thedlin rebutted. &#8220;Aye, like the Lastlers surrendered! Look at them now, wiped clean from the earth. Or like the Castlans surrendered – enslaved in their own homes. Or like the coastal tribes, the Inquori and the Maults. Where are they now, Egner? You would have us join them on the plains of Farro?&#8221;</p>
+
+      <p>Agien gave muted voice to his outrage. &#8220;We must not surrender, Egner. The Kells have no mercy. They do not want our tribute, our taxes, our trade. They mean only to bury us.&#8221;</p>
+
+      <p>Thedlin spoke again. &#8220;We have twice rebutted their attacks. Here we have the tactical advantage.&#8221; He contemplated the map and moved the bulk of the Kells armies into the valley they were perched above.</p>
+
+      <p>&#8220;We must hold. Our archers will take one in ten.&#8221; He moved a handful of the black stones off the map to the edge of the table.</p>
+
+      <p>&#8220;Our trebuchets two more.&#8221; Again he scooped away a small portion of the stones.</p>
+
+      <p>&#8220;Suppose we place pikemen here,&#8221; he moved three of the white stones to the bluff on the south side of the valley, &#8220;And here&#8230;&#8221; He moved three more stones to a cluster even farther south, &#8220;&#8230;and if we move all our longbows from the north side to the south,&#8221; he slid the five conical white stones from one side of the valley to the other. &#8220;Then when the Kells fill the Valley, our pikes will take their flank by surprise, and our bows might be able to take quite a few more men than otherwise.&#8221;</p>
+
+      <p>He moved another handful of the black stones off to the edge of the map.</p>
+
+      <p>&#8220;We will still be greatly outnumbered. Your own math doesn&#8217;t add up, Thedlin.&#8221; Vots had remained quiet, but this was strategy he was comfortable with.</p>
+
+      <p>&#8220;But. As you point out, this strategy may well disrupt the thrust of their attack. This is good. If we can slow them down further, we may be able to hold the line long enough for our short bows to get under their belly.&#8221;</p>
+
+      <p>Vots now reached over and moved several small white triangular markers out from behind the apex of the V where the fortifications were.</p>
+
+      <p>&#8220;Here. We put most of our bows here. They will have no cover, but they will take a small regiment of swords as their vanguard. Here they can attack the enemy from the rear if they stay hidden long enough to do so. Then we might have a chance to prolong their attack long enough for the trebuchets to extend their doom.&#8221;</p>
+
+      <p>&#8220;Aye, this plan may work.&#8221; Agien spoke after a long pause. &#8220;It may not work. But it may.&#8221;</p>
+
+      <p>The king rose. He stared momentarily at Agien and flashed him a faint inference of resignation.</p>
+
+      <p>&#8220;It may work. There is a chance. That&#8217;s what we have at our disposition. Chance. My lords, pray tonight to whatever god or gods you put faith in for that chance. Tonight I will write to my daughter and send her my blessings. Perhaps you will do the same. I will resign my fate, and the fate of Rothelyn, to chance on the morrow. But I will not put my trust in chance. I do trust in your honor. I trust your courage, and your love for this land. I trust that your men will fight for their freedom and their lives, and the lives of their families. I trust in our fellowship. Thedlin, Vots. You have not given me much hope this night. But you have given us a chance.&#8221;</p>
+
+      <p>They retired. The king wrote to his daughter Sierra.</p>
+
+      <p>My love,
+      Though these are difficult times, I must place a task of the utmost importance on you now. I am not long for the earth, I fear. Our victory here is ill-assured. You will soon be queen, and I have not prepared you for this position. This tiny stone you may recognize as your mother&#8217;s. Take it to the gates, and to her land. Yes, I was not forthcoming about this but the stories were true. There you may find Rothelyn&#8217;s, and perhaps all of Aerenthal&#8217;s, salvation. You know who to seek.
+      Dear Sierra I have erred in so many ways.<br />
+      Forgive me.
+      Reg</p>
+
+      <p>The next morning the Kells main force advanced. The Rothians executed their battle plans and were successful in deflecting the forces. They held their line.</p>
+
+      <p>They had held their line now for several weeks, but at great cost. Each subsequent battle had been won by desperation and chance. At this rate, the Kells would defeat them through persistence alone. They were down to seven hundred men. Seven hundred and six, if you&#8217;re counting.</p>
+
+      <p className="section-title">The Scroll</p>
+
+      <p>Sierra rode a fine large gray stallion, which surprised Aila. When she had seen the horse and rider approaching, she retracted a bit into the denser foliage near the forest line, ready to bolt. She was not afraid of these humans but she did not want to engage at the moment. She wanted only to graze. Sierra have been right, and this was good pasture. Though plain the grass was thick and bitter. There were brambles and goat&#8217;s heads but she had avoided them for the most part. It had been some while since she flew from the castle when Sierra arrived, but she was still hungry. She did not realize how ravenous she had become until this opportunity to properly graze.</p>
+
+      <p>&#8220;Aila! You made it!&#8221; Sierra called as she entered the field and rode towards the unicorn.</p>
+
+      <p>If not for her voice she would not have recognized the princess. Instead of her flowing white gown, she now wore a sleeveless grey material around her top half and tight fitting black garments around her legs. Her long auburn hair was tied behind her face in a pretty pattern, and it reminded Aila of a unicorn or horse&#8217;s tail.</p>
+
+      <p>Aila relaxed as they neared and she recognized the princess&#8217;s voice.</p>
+
+      <p>&#8220;Hello Sierra! And good day to you, fine stallion; how is it that you carry this woman on your back?&#8221;</p>
+
+      <p>The horse said nothing, though, and Aila realized that the princess was holding a rope that was tied around the poor stallion&#8217;s face.</p>
+
+      <p>&#8220;Rope! What are you doing? Why do you treat this animal so?&#8221; Aila was horrified. Maybe she was dangerous after all. This was dreadful!</p>
+
+      <p>&#8220;Oh!&#8221; Sierra was aghast. &#8220;Oh Aila, I am sorry! I should have told you I&#8217;d be riding. This is my horse, Willow. Oh this must look dreadful to you.&#8221;</p>
+
+      <p>Aila took several steps back from the woman and lowered her head.</p>
+
+      <p>&#8220;You will not capture me, human.&#8221; She stated matter of factly. Then, louder, &#8220;Stallion, why do you not speak. What ill has befallen you?&#8221;</p>
+
+      <p>&#8220;Aila! I don&#8217;t want to capture you!&#8221; Sierra jumped off the horse. &#8220;I have had Willow since I was a child. I love him. And I think he loves me! I just use the reins to tell him which way I want to go. It must seem just awful to you but he doesn&#8217;t mind. I promise!&#8221;</p>
+
+      <p>Sierra reached up and pat the strong muscular grey neck.</p>
+
+      <p>&#8220;You don&#8217;t mind, do you boy?&#8221;</p>
+
+      <p>&#8220;I do not mind.&#8221; The stallion huffed.</p>
+
+      <p>Aila&#8217;s ears perked up. &#8220;So you can speak! Why do you speak to her but not me? Stallion, is what she says true? You permit this treatment?&#8221;</p>
+
+      <p>The stallion looked off into the woods blankly, as if he hadn&#8217;t heard the unicorn.</p>
+
+      <p>Sierra replied. &#8220;I don&#8217;t think he understands you, Aila. What do you mean he can speak?&#8221;</p>
+
+      <p>&#8220;When he huffed, did you not hear him?&#8221; The unicorn was confused.</p>
+
+      <p>&#8220;I heard him huff, of course.&#8221; The princess was confused.</p>
+
+      <p>&#8220;Well, he replied. I understood, even if you did not.&#8221; Aila was less outraged, and was piecing things together. The horse, Willow, understood the princess but not her. The princess understood her, but not her horse. Aila alone could understand them both.</p>
+
+      <p>&#8220;He did!?&#8221; The princess was excited by this for some reason. &#8220;What on earth did he say?&#8221;</p>
+
+      <p>&#8220;He said, I do not mind.&#8221; The unicorn was resigned to this situation even though she was uncomfortable with it.</p>
+
+      <p>&#8220;Ah Willie, I knew you didn&#8217;t mind! So you can understand me, huh! All this time?&#8221; And she put her arms around her steed&#8217;s neck and whispered in his ear &#8220;I love you, good boy.&#8221;</p>
+
+      <p>Willow snorted. As Sierra turned to her, she realized her role as translator in her present company.</p>
+
+      <p>&#8220;He says&#8230; he says he loves you. &#8230;And that his ear itches again.&#8221;</p>
+
+      <p>Sierra scrubbed his ear and scratched all around and behind it and then rubbed his cheek. She looked then again at the unicorn standing nearby, and realized that Aila was staring somewhat uncomfortably.</p>
+
+      <p>&#8220;Aila, I do not mistreat my animals. I will take off his reins if you prefer. But it does make riding easier.&#8221;</p>
+
+      <p>&#8220;What do you mean by saying <em>my animals</em>? Surely you do not believe that you can own an animal?&#8221; Aila was confronting a very uncomfortable situation the best way she knew how, with curiosity.</p>
+
+      <p>&#8220;Ownership is peculiar, I guess. It must seem so to you. Amongst men, Willow is considered to be my own, yes. And there are many other animals in that category. But my father taught me that to own an animal means only that I am responsible for its well-being and care. I have help now, but for most of my childhood I worked in the stables and I alone fed and brushed him. He was a young pup when I first rode him, and I took many falls learning to ride. Aila, we grew up together, Willow and I. I still often visit the stables to feed him and I bring him treats. No of course he is not <em>mine</em>, but he <em>is</em> my horse. Does that make sense to you?&#8221;</p>
+
+      <p>&#8220;Some, yes. Will you ask him one thing for me?&#8221;</p>
+
+      <p>&#8220;Of course.&#8221;</p>
+
+      <p>&#8220;Will you ask him to introduce you to me?&#8221;</p>
+
+      <p>The princess made her squinched up face again. &#8220;Uh, ok. Hey, Willow, This is Aila, a unicorn from another land. She asks that you introduce me to her? Can you do that boy?&#8221;</p>
+
+      <p>And the stallion took a pace towards Aila and neighed.</p>
+
+      <p>&#8220;Unicorn. This is Princess Sierra, of Rothe. She is my princess. She is my human.&#8221;</p>
+
+      <p>Aila was relieved. No equine would mischaracterize someone in introduction. It was weird, but this horse truly did seem to love his princess. And the princess clearly loved him. She did not like the way the horse&#8217;s face was bound, but he truly did not seem to mind. Aila remembered seeing a woman riding a horse when she had first put her head through the portal; that seemed like a lifetime ago now! She huffed to herself and decided to let it go.</p>
+
+      <p>&#8220;Aila, I can tell this makes you uncomfortable. Here.&#8221; Sierra made several quick motions, and in short order she had removed the harness from Willow&#8217;s face. She then unbuckled the great straps that wrapped around the horses belly, and removed the heavy object from the horse&#8217;s back that she had sat upon. She put it all in a pile on the ground, and addressed her again.</p>
+
+      <p>&#8220;Unicorn, you are a fine creature. And I do not know your ways, and you do not know mine. But I insist that you trust me. I mean you no harm, and I mean Willow no harm either. Now, will you follow me to the best field of alfalfa you&#8217;ve ever laid eyes on or not?&#8221;</p>
+
+      <p>&#8220;Well, I suppose I will have to trust you. I have never seen a field of alfalfa before.&#8221;</p>
+
+      <p>They both laughed. Sierra reached into the pile in the grass and pulled out a small rectangular object, which she placed in her jerkin before nimbly jumping up onto the great male horse&#8217;s bare back. Something about the image of this woman astride this horse suddenly made sense. It was the ropes that Aila didn&#8217;t like, but this relationship the two had with each other appeared symbiotic.</p>
+
+      <p>&#8220;Then let&#8217;s go!&#8221;</p>
+
+      <p>At that, the grey horse kept forward at an impressive rate, and the princess held on by hugging his great neck. Aila hoped she wasn&#8217;t making a mistake as she loped up beside them.</p>
+
+      <p>The alfalfa fields were not far, and it took only a few minutes of galloping to reach them. This horse Willow was an impressive specimen and he ran very fast. Aila thought that if he were in a hurry or particularly excite this horse might even be able to run super fast.</p>
+
+      <p>There was a short wooden structure surrounding the lush green field which they had to jump over, but it was effortless. The grass was tall and grew in thick long rows that went on for what seemed like forever. It had a pungent, earthy smell that made the unicorn&#8217;s belly growl.</p>
+
+      <p>&#8220;This smells wonderful.&#8221; She said to herself.</p>
+
+      <p>&#8220;Well go on then, try some!&#8221; Sierra beckoned. &#8220;Just don&#8217;t eat too much of it or you might get sick.&#8221;</p>
+
+      <p>Aila did try it, and she kept trying it for quite some time. When she instinctively sent out a pulse, she felt Sierra and Willow quite some distance away. She had wandered pretty far without even realizing it! She cantered back over to her companions and saw Sierra had the rectangular object in her lap and was hunched over it. She had small tools she was working with. Aila was quite curious.</p>
+
+      <p>&#8220;What is that?&#8221; She asked.</p>
+
+      <p>Sierra jumped up, startled. &#8220;Aila! Oh, this is just my book. I like to draw and write silly things in it. I guess it&#8217;s a kind of journal. You know, of my thoughts.&#8221; She was embarrassed but she had been working on a drawing that had turned out quite lovely, she though. It was a green field of alfalfa with Aila the winged unicorn in the middle, standing sideways but looking towards the viewer.</p>
+
+      <p>&#8220;Here you can look.&#8221; Sierra held out the book for Aila to see.</p>
+
+      <p>&#8220;It&#8217;s me! You made a mirror!&#8221; Aila was impressed. She had known that some of the humans spoke to the unicorns by drawing pictures but understood them to be crude, simplistic representations. But this was beautiful and the colors were gentle and graceful, and it was very obviously her on the page, down to her horn glowing slightly pink,</p>
+
+      <p>&#8220;It is quite wonderful, Sierra.&#8221;</p>
+
+      <p>&#8220;Thanks, Aila.&#8221; She folded the book up and put it back inside her shirt. &#8220;Are you still hungry? I can take you to some hay next if you like. You probably shouldn&#8217;t eat too much more Alfalfa.&#8221;</p>
+
+      <p>Aila was still hungry, even thought the sweet earthy alfalfa had gone a long way at restoring her energy. Aila didn&#8217;t know what hay was, but she decided to trust Sierra this time.</p>
+
+      <p>&#8220;Yes, that sounds nice.&#8221;</p>
+
+      <p>They hopped the fence again, and trotted leisurely down the dirt road heading farther south. Willow was a quiet animal, and the three of them made their way in silence, side by side. The terrain here was familiar to Aila, but the surroundings were different enough to disorient her. The soft, rolling hills comforted her, but the fences and occasional buildings felt strange and wrong. Ahead a large structure challenged the horizon off to the west, and the fact that they were heading towards it gave Aila anxiety.</p>
+
+      <p>&#8220;What is that?&#8221; She turned slightly to look at Sierra beside her, and saw that she was crying. &#8220;Sierra, now your face is leaking again.&#8221;</p>
+
+      <p>&#8220;I know. It&#8217;s ok. I&#8217;m just sad.&#8221;</p>
+
+      <p>&#8220;Sorry, I don&#8217;t think I can help with that.&#8221;</p>
+
+      <p>&#8220;No, it&#8217;s fine actually. I wan&#8217;t to feel this. I can&#8217;t explain it. It feels good to be out with you and Willow. I just wish things were different.&#8221;</p>
+
+      <p>They slowed to a walk, and Aila asked again, &#8220;What is that ahead? Is that hay?&#8221;</p>
+
+      <p>&#8220;The barn? No, but that&#8217;s where they store the hay! Hay is just like dried grass. I think you&#8217;ll like it.&#8221;</p>
+
+      <p>&#8220;I like most things. I particularly enjoy most things I can eat.&#8221;</p>
+
+      <p>&#8220;Horses coming,&#8221; Willow huffed.</p>
+
+      <p>&#8220;Horses?&#8221; Aila asked.</p>
+
+      <p>The three of them stopped to listen, and Aila heard it. Two horses running at a full gallop, and heading their way. She turned to face the north and saw two riders heading towards them. One was shining brightly in the mid day sun, and the other was much smaller and wore simple brown garb similar to what Sierra wore. They soon approached, and the small one shouted, &#8220;Princess Sierra! My princess! News from the front!&#8221;</p>
+
+      <p>Aila tucked her wings tight to her body, ready to take flight at a moment&#8217;s notice. The two men atop the two horses stopped and the man in brown dismounted. He reached into a bag that was attached to the horse somehow and retrieved a cylindrical object that he handed up to Sierra. He then bowed low onto one knee and looked at the ground. Aila was nonplussed, uncertain how to react to his odd behavior, but the princess seemed unfazed.</p>
+
+      <p>Sierra eagerly took the scroll, and addressed the young man before her as she broke the seal and unraveled it. &#8220;You may rise, page, and I thank you for your haste.&#8221;</p>
+
+      <p>The princess stared at the words on the page, and her face became devoid of all emotion. Aila felt a surge of emotion from her then, though she could not identify it as anything other than panic, or fear.</p>
+
+      <p>&#8220;Return to the keep, now.&#8221; Sierra commanded. &#8220;Make haste. Summon Gregor and Schiff to the king&#8217;s chambers. Ensure that they are there at dusk. Retrieve my saddle and tack from the fields near Swallow&#8217;s bridge.&#8221;</p>
+
+      <p>&#8220;Yes Princess Sierra, of course.&#8221;</p>
+
+      <p>&#8220;Oh, and page. Speak not of what you see here.&#8221;</p>
+
+      <p>&#8220;Your highness?&#8221;</p>
+
+      <p>&#8220;Off with you, now. Haste!&#8221;</p>
+
+      <p>The two riders raced back the way they&#8217;d come, leaving a cloud of brown dust in the air.</p>
+
+      <p>Aila watched Sierra peel a small stone from the paper and tuck it into her shirt. She patiently rolled up the scroll and tucked it in as well. And then she put her hands to her face and wept.</p>
+
       <p className="section-title">&#8230;</p>
       
+      <p></p>
+
+      <p></p>
+
+      <p></p>
+
+      <p></p>
+
+      <p></p>
+
       <p></p>
       
       <p></p>
