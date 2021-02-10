@@ -667,6 +667,7 @@ export default () => [
       <p>&#8220;You have much love in you. I believe you are going to be well.&#8221; Aila gently sent her words of affirmation, and Sierra responded.</p>
       
       <p>&#8220;You know, Aila, I think I will be.&#8221;</p>
+
       
       <p className="section-title">The Road</p>
 
@@ -939,7 +940,7 @@ export default () => [
       <p>At that, the grey horse kept forward at an impressive rate, and the princess held on by hugging his great neck. Aila hoped she wasn&#8217;t making a mistake as she loped up beside them.</p>
 
       
-      <p className="section-title">The Page</p>
+      <p className="section-title">The Fields</p>
 
       <p>The alfalfa fields were not far. At a gallop they reached them in a short time. This horse Willow was an impressive specimen and he ran gracefully and fast. Aila thought that if he were in a hurry or abnormally excited, Willow might even be able to run super fast.</p>
 
