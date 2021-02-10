@@ -774,6 +774,7 @@ export default () => [
 
       <p>&#8220;Tell me, what is a road?&#8221;</p>
 
+
       <p className="section-title">The Battle</p>
 
       <p>King Reginald was tired. He was cold, and he was covered from head to toe with dried sweat, mud, and blood. Alone in his tent, weary from the days battle, he stood staring down at the makeshift war table, his arms crossed. He had lost two entire battalions today. He was now down to 700 men. 706, if you&#8217;re keeping track of such things. He refused to think the actual words, fearing that if he formed the sentences – even in his mind – that they would become truth. But his gut was more daring, and there he felt the inevitable. He had lost this war.</p>
@@ -837,20 +838,23 @@ export default () => [
       <p>&#8220;It may work. There is a chance. That&#8217;s what we have at our disposition. Chance. My lords, pray tonight to whatever god or gods you put faith in for that chance. Tonight I will write to my daughter and send her my blessings. Perhaps you will do the same. I will resign my fate, and the fate of Rothelyn, to chance on the morrow. But I will not put my trust in chance. I do trust in your honor. I trust your courage, and your love for this land. I trust that your men will fight for their freedom and their lives, and the lives of their families. I trust in our fellowship. Thedlin, Vots. You have not given me much hope this night. But you have given us a chance.&#8221;</p>
 
       <p>They retired. The king wrote to his daughter Sierra.</p>
-
+      
+      <blockquote>
       <p>My love,
       Though these are difficult times, I must place a task of the utmost importance on you now. I am not long for the earth, I fear. Our victory here is ill-assured. You will soon be queen, and I have not prepared you for this position. This tiny stone you may recognize as your mother&#8217;s. Take it to the gates, and to her land. Yes, I was not forthcoming about this but the stories were true. There you may find Rothelyn&#8217;s, and perhaps all of Aerenthal&#8217;s, salvation. You know who to seek.
       Dear Sierra I have erred in so many ways.<br />
       Forgive me.
       Reg</p>
+      </blockquote>
 
       <p>The next morning the Kells main force advanced. The Rothians executed their battle plans and were successful in deflecting the forces. They held their line.</p>
 
       <p>They had held their line now for several weeks, but at great cost. Each subsequent battle had been won by desperation and chance. At this rate, the Kells would defeat them through persistence alone. They were down to seven hundred men. Seven hundred and six, if you&#8217;re counting.</p>
+      
+      
+      <p className="section-title">The Willow</p>
 
-      <p className="section-title">The Scroll</p>
-
-      <p>Sierra rode a fine large gray stallion, which surprised Aila. When she had seen the horse and rider approaching, she retracted a bit into the denser foliage near the forest line, ready to bolt. She was not afraid of these humans but she did not want to engage at the moment. She wanted only to graze. Sierra have been right, and this was good pasture. Though plain the grass was thick and bitter. There were brambles and goat&#8217;s heads but she had avoided them for the most part. It had been some while since she flew from the castle when Sierra arrived, but she was still hungry. She did not realize how ravenous she had become until this opportunity to properly graze.</p>
+      <p>Sierra rode a fine large gray stallion, which surprised Aila. When she had seen the horse and rider approaching, she retracted several steps into the denser foliage near the forest line, ready to bolt. She was not afraid of these humans but she did not want to engage at the moment, she wanted to graze. Sierra have been right, and this was good pasture. Though plain the grass was thick and bitter. There were brambles and goat&#8217;s heads but she had avoided them for the most part. It had been a while since she flew from the castle when Sierra arrived, but she was still hungry. She did not realize how ravenous she had become until this opportunity to properly graze.</p>
 
       <p>&#8220;Aila! You made it!&#8221; Sierra called as she entered the field and rode towards the unicorn.</p>
 
@@ -862,7 +866,7 @@ export default () => [
 
       <p>The horse said nothing, though, and Aila realized that the princess was holding a rope that was tied around the poor stallion&#8217;s face.</p>
 
-      <p>&#8220;Rope! What are you doing? Why do you treat this animal so?&#8221; Aila was horrified. Maybe she was dangerous after all. This was dreadful!</p>
+      <p>&#8220;Rope! What are you doing? Why do you treat this animal so?&#8221; Aila was horrified. She may be dangerous after all. This was dreadful!</p>
 
       <p>&#8220;Oh!&#8221; Sierra was aghast. &#8220;Oh Aila, I am sorry! I should have told you I&#8217;d be riding. This is my horse, Willow. Oh this must look dreadful to you.&#8221;</p>
 
@@ -870,7 +874,7 @@ export default () => [
 
       <p>&#8220;You will not capture me, human.&#8221; She stated matter of factly. Then, louder, &#8220;Stallion, why do you not speak. What ill has befallen you?&#8221;</p>
 
-      <p>&#8220;Aila! I don&#8217;t want to capture you!&#8221; Sierra jumped off the horse. &#8220;I have had Willow since I was a child. I love him. And I think he loves me! I just use the reins to tell him which way I want to go. It must seem just awful to you but he doesn&#8217;t mind. I promise!&#8221;</p>
+      <p>&#8220;Aila! I don&#8217;t want to capture you!&#8221; Sierra jumped off the horse. &#8220;I have had Willow since I was a child. I love him. And I think he loves me! I use the reins to tell him which way I want to go. It must appear awful to you but he doesn&#8217;t mind. I promise!&#8221;</p>
 
       <p>Sierra reached up and pat the strong muscular grey neck.</p>
 
@@ -888,7 +892,7 @@ export default () => [
 
       <p>&#8220;I heard him huff, of course.&#8221; The princess was confused.</p>
 
-      <p>&#8220;Well, he replied. I understood, even if you did not.&#8221; Aila was less outraged, and was piecing things together. The horse, Willow, understood the princess but not her. The princess understood her, but not her horse. Aila alone could understand them both.</p>
+      <p>&#8220;Well, she replied. I understood, even if you did not.&#8221; Aila was less outraged, and was piecing things together. The horse, Willow, understood the princess but not her. The princess understood her, but not her horse. Aila alone could understand them both.</p>
 
       <p>&#8220;He did!?&#8221; The princess was excited by this for some reason. &#8220;What on earth did he say?&#8221;</p>
 
@@ -920,7 +924,7 @@ export default () => [
 
       <p>&#8220;Unicorn. This is Princess Sierra, of Rothe. She is my princess. She is my human.&#8221;</p>
 
-      <p>Aila was relieved. No equine would mischaracterize someone in introduction. It was weird, but this horse truly did seem to love his princess. And the princess clearly loved him. She did not like the way the horse&#8217;s face was bound, but he truly did not seem to mind. Aila remembered seeing a woman riding a horse when she had first put her head through the portal; that seemed like a lifetime ago now! She huffed to herself and decided to let it go.</p>
+      <p>Aila was relieved. No equine would mischaracterize someone in introduction. It was weird, but this horse did appear to love his princess. And the princess plainly loved him. Aila did not like the way the horse&#8217;s face was bound, but he truly did not seem to mind. Aila remembered seeing a woman riding a horse when she had first put her head through the portal; that felt like a lifetime ago now! She huffed to herself and decided to let it go.</p>
 
       <p>&#8220;Aila, I can tell this makes you uncomfortable. Here.&#8221; Sierra made several quick motions, and in short order she had removed the harness from Willow&#8217;s face. She then unbuckled the great straps that wrapped around the horses belly, and removed the heavy object from the horse&#8217;s back that she had sat upon. She put it all in a pile on the ground, and addressed her again.</p>
 
@@ -928,31 +932,34 @@ export default () => [
 
       <p>&#8220;Well, I suppose I will have to trust you. I have never seen a field of alfalfa before.&#8221;</p>
 
-      <p>They both laughed. Sierra reached into the pile in the grass and pulled out a small rectangular object, which she placed in her jerkin before nimbly jumping up onto the great male horse&#8217;s bare back. Something about the image of this woman astride this horse suddenly made sense. It was the ropes that Aila didn&#8217;t like, but this relationship the two had with each other appeared symbiotic.</p>
+      <p>They both laughed. Sierra reached into the pile in the grass and pulled out a small rectangular object, which she placed in her jerkin before nimbly jumping up onto the great male horse&#8217;s bare back. The image of this woman astride this horse suddenly made sense. It was the ropes that Aila didn&#8217;t like, but this relationship the two had with each other appeared symbiotic.</p>
 
       <p>&#8220;Then let&#8217;s go!&#8221;</p>
 
       <p>At that, the grey horse kept forward at an impressive rate, and the princess held on by hugging his great neck. Aila hoped she wasn&#8217;t making a mistake as she loped up beside them.</p>
 
-      <p>The alfalfa fields were not far, and it took only a few minutes of galloping to reach them. This horse Willow was an impressive specimen and he ran very fast. Aila thought that if he were in a hurry or particularly excite this horse might even be able to run super fast.</p>
+      
+      <p className="section-title">The Page</p>
 
-      <p>There was a short wooden structure surrounding the lush green field which they had to jump over, but it was effortless. The grass was tall and grew in thick long rows that went on for what seemed like forever. It had a pungent, earthy smell that made the unicorn&#8217;s belly growl.</p>
+      <p>The alfalfa fields were not far. At a gallop they reached them in a short time. This horse Willow was an impressive specimen and he ran gracefully and fast. Aila thought that if he were in a hurry or abnormally excited, Willow might even be able to run super fast.</p>
+
+      <p>There was a short wooden structure surrounding the lush green field which they had to jump over, but it was effortless. The grass was tall and grew in thick long rows that went on forever. It had a pungent, earthy smell that made the unicorn&#8217;s belly growl.</p>
 
       <p>&#8220;This smells wonderful.&#8221; She said to herself.</p>
 
       <p>&#8220;Well go on then, try some!&#8221; Sierra beckoned. &#8220;Just don&#8217;t eat too much of it or you might get sick.&#8221;</p>
 
-      <p>Aila did try it, and she kept trying it for quite some time. When she instinctively sent out a pulse, she felt Sierra and Willow quite some distance away. She had wandered pretty far without even realizing it! She cantered back over to her companions and saw Sierra had the rectangular object in her lap and was hunched over it. She had small tools she was working with. Aila was quite curious.</p>
+      <p>Aila did try it, and she kept trying it for quite some time. When she instinctively sent out a pulse, she felt Sierra and Willow at a distance. She had wandered pretty far without even realizing it! She cantered back over to her companions and saw Sierra had the rectangular object in her lap and was hunched over it. She had small tools she was working with. Aila was curious.</p>
 
       <p>&#8220;What is that?&#8221; She asked.</p>
 
-      <p>Sierra jumped up, startled. &#8220;Aila! Oh, this is just my book. I like to draw and write silly things in it. I guess it&#8217;s a kind of journal. You know, of my thoughts.&#8221; She was embarrassed but she had been working on a drawing that had turned out quite lovely, she though. It was a green field of alfalfa with Aila the winged unicorn in the middle, standing sideways but looking towards the viewer.</p>
+      <p>Sierra jumped up, startled. &#8220;Aila! Oh, this is my book. I like to draw and write silly things in it. I guess it&#8217;s a kind of journal. You know, of my thoughts.&#8221; She was embarrassed but she had been working on a drawing that had turned out lovely, she thought. It was a green field of alfalfa with Aila the winged unicorn in the middle, standing sideways but looking towards the viewer.</p>
 
       <p>&#8220;Here you can look.&#8221; Sierra held out the book for Aila to see.</p>
 
-      <p>&#8220;It&#8217;s me! You made a mirror!&#8221; Aila was impressed. She had known that some of the humans spoke to the unicorns by drawing pictures but understood them to be crude, simplistic representations. But this was beautiful and the colors were gentle and graceful, and it was very obviously her on the page, down to her horn glowing slightly pink,</p>
+      <p>&#8220;It&#8217;s me! You made a mirror!&#8221; Aila was impressed. She knew that the humans of the past had spoken to the unicorns by drawing pictures but understood them to be crude, simplistic representations. But this was beautiful and the colors were gentle and graceful, and it was very obviously her on the page, down to her horn glowing pink.</p>
 
-      <p>&#8220;It is quite wonderful, Sierra.&#8221;</p>
+      <p>&#8220;It is wonderful, Sierra.&#8221;</p>
 
       <p>&#8220;Thanks, Aila.&#8221; She folded the book up and put it back inside her shirt. &#8220;Are you still hungry? I can take you to some hay next if you like. You probably shouldn&#8217;t eat too much more Alfalfa.&#8221;</p>
 
@@ -960,13 +967,13 @@ export default () => [
 
       <p>&#8220;Yes, that sounds nice.&#8221;</p>
 
-      <p>They hopped the fence again, and trotted leisurely down the dirt road heading farther south. Willow was a quiet animal, and the three of them made their way in silence, side by side. The terrain here was familiar to Aila, but the surroundings were different enough to disorient her. The soft, rolling hills comforted her, but the fences and occasional buildings felt strange and wrong. Ahead a large structure challenged the horizon off to the west, and the fact that they were heading towards it gave Aila anxiety.</p>
+      <p>They hopped the fence again, and trotted leisurely down the dirt road heading farther south. Willow was a quiet animal, and the three of them made their way in silence, side by side. The terrain here was familiar to Aila, but the surroundings were different enough to disorient her. The soft, rolling hills comforted her, but the fences and occasional buildings felt strange and wrong. Ahead, a large structure challenged the horizon to the west, and the fact that they were heading towards it gave Aila mild anxiety.</p>
 
-      <p>&#8220;What is that?&#8221; She turned slightly to look at Sierra beside her, and saw that she was crying. &#8220;Sierra, now your face is leaking again.&#8221;</p>
+      <p>&#8220;What is that?&#8221; She turned slightly to look at Sierra beside her, and saw that she was crying. &#8220;Sierra, your face is leaking again.&#8221;</p>
 
       <p>&#8220;I know. It&#8217;s ok. I&#8217;m just sad.&#8221;</p>
 
-      <p>&#8220;Sorry, I don&#8217;t think I can help with that.&#8221;</p>
+      <p>&#8220;I understand. Can I do anything?&#8221;</p>
 
       <p>&#8220;No, it&#8217;s fine actually. I wan&#8217;t to feel this. I can&#8217;t explain it. It feels good to be out with you and Willow. I just wish things were different.&#8221;</p>
 
@@ -974,36 +981,166 @@ export default () => [
 
       <p>&#8220;The barn? No, but that&#8217;s where they store the hay! Hay is just like dried grass. I think you&#8217;ll like it.&#8221;</p>
 
-      <p>&#8220;I like most things. I particularly enjoy most things I can eat.&#8221;</p>
+      <p>&#8220;I like most things. Particularly things I can eat.&#8221;</p>
 
-      <p>&#8220;Horses coming,&#8221; Willow huffed.</p>
+      
+      <p className="section-title">The Plan</p>
 
-      <p>&#8220;Horses?&#8221; Aila asked.</p>
+      <p>King Reginald unfolded his arms. He&#8217;d been staring at the war table for hours. He was cold and tired, covered in mud, and the fresh slice across his ear and jawbone was stinging. He was losing this war, and though he had in all actuality made his decision an hour ago, he only now gave in to it.</p>
 
-      <p>The three of them stopped to listen, and Aila heard it. Two horses running at a full gallop, and heading their way. She turned to face the north and saw two riders heading towards them. One was shining brightly in the mid day sun, and the other was much smaller and wore simple brown garb similar to what Sierra wore. They soon approached, and the small one shouted, &#8220;Princess Sierra! My princess! News from the front!&#8221;</p>
+      <p>&#8220;Gerd.&#8221; He muttered the name of the man he knew to be footsteps away outside his tent, and his steward immediately lifted the flap with a gloved hand.</p>
 
-      <p>Aila tucked her wings tight to her body, ready to take flight at a moment&#8217;s notice. The two men atop the two horses stopped and the man in brown dismounted. He reached into a bag that was attached to the horse somehow and retrieved a cylindrical object that he handed up to Sierra. He then bowed low onto one knee and looked at the ground. Aila was nonplussed, uncertain how to react to his odd behavior, but the princess seemed unfazed.</p>
+      <p>&#8220;My lord?&#8221;</p>
 
-      <p>Sierra eagerly took the scroll, and addressed the young man before her as she broke the seal and unraveled it. &#8220;You may rise, page, and I thank you for your haste.&#8221;</p>
+      <p>&#8220;Summon Thedlin and Wilyn. Also, Vots. My lord.&#8221;</p>
 
-      <p>The princess stared at the words on the page, and her face became devoid of all emotion. Aila felt a surge of emotion from her then, though she could not identify it as anything other than panic, or fear.</p>
+      <p>Soon the three joined Reginald in the king&#8217;s pavilion. The fire in the center of the room kept it warm, but they were cold to their bones. A week&#8217;s rest by a fire and a full belly of hot stewed meat and mead, now that might&#8217;ve brought their cold hands and faces back to life.</p>
 
-      <p>&#8220;Return to the keep, now.&#8221; Sierra commanded. &#8220;Make haste. Summon Gregor and Schiff to the king&#8217;s chambers. Ensure that they are there at dusk. Retrieve my saddle and tack from the fields near Swallow&#8217;s bridge.&#8221;</p>
+      <p>&#8220;Friends. Please, sit.&#8221; Reginald gestured to the chairs surrounding the war table. The men sat, following the king.</p>
+
+      <p>&#8220;By Farro&#8217;s fate, we have held the vale for many weeks, as you know. We have lost many men here; you know that as well. Unfortunately I did not invite you here this night to relay the obvious, though I do wish that it were so. Nor did I unite us here to again make battle plans – there will be no battle on the morrow.&#8221;</p>
+
+      <p>The king paused and examined their perplexed faces before continuing.</p>
+
+      <p>&quot;There can be no victory here, with our seven hundred men against the Kell&#8217;s hoard of thousands. I have come to the conclusion, at great debate with myself, that we must return to Rothe. We must garrison the keep, and make preparations for siege.</p>
+
+      <p>This is not ideal, of course. Rothe has not been prepared for siege for a hundred years. Not since Arenthal&#8217;s treacherous secession has there been battle on Rothelyn land. Great preparations are needed and there is little time. Rothmew Keep was once a stalwart stronghold, and it may well hold against the Kells under proper guidance.</p>
+
+      <p>Still. The town is likely doomed. The curtain wall is small. In peace, the town has grown wide and populous. The townsfolk themselves must make their own preparations. They should ready themselves for their own protection or evacuation. They won&#8217;t have much time. I know not their fate, though, and it ails me.</p>
+
+      <p>Now. Thedlin. We grew up together. I know your mind for logistics, and I know your heart belongs to Rothelyn. I must ask you – no, I apologize but I must command – that you carry out these tasks. You must lead our surviving army home to Rothmew. The men are tired, but you must not tarry, for the Kells will be on your heels. Send scouts and have preparations underway, for as soon as you arrive you will witness the Kells as you have not. They will taste victory, and they will thirst for your annihilation. By chance, if your defensive efforts hold, you will steward Rothelyn until Sierra returns and dons the queen&#8217;s crown. I would hope, then, that you will provide her with continued counsel.&quot;</p>
+
+      <p>Thedlin stared intensely at Reginald. The king knew his distaste for politics and leadership. The king knew his aversion to the castle and even the town. And the king knew well that he wanted only to return to his provincial farm in the east. Why was Reginald now placing him in charge of his arms and estates?</p>
+
+      <p>The king stared across the table at his oldest friend. His look was grave. His full form and rugged leather armor was aged and tired. He saw the fear in Thedlin&#8217;s amber eyes turn to resignation and felt the pain he had placed on his friend&#8217;s shoulders.</p>
+
+      <p>&#8220;It must be you Thedlin.&#8221;</p>
+
+      <p>Thedlin nodded. &#8220;Aye. I understand.&#8221; Their locked eyes superseded the pretense of position, and Thedlin asked the question that was gnawing on him.</p>
+
+      <p>&#8220;But what of you my lord. Nallo, why do you not lead us home?&#8221;</p>
+
+      <p>King Reginald smiled briefly at the utterance of his old nickname, but then looked askance towards the fire and his grim countenance reverted.</p>
+
+      <p>&#8220;I am going to kill Davas.&#8221;</p>
+
+      
+      <p className="section-title">The Departure</p>
+
+      <p>They made plans into dusk and the early hours of night. Before the moon had risen, the army had packed up and decamped. Thedlin sent squires ahead, and before their departure he sent two birds – one to Gregor, Rothmew&#8217;s chief steward with a list of instructions, and one to his wife, with a more painful missive.</p>
+
+      <blockquote>
+      <p>Dearest Lil,
+      I am well, though the battle is lost. We return to Rothemew in defeat, plagued by a sizable force which shadows us. The farm is no longer safehaven, and I implore you to take the children North to Falkir. My father will take you in; be at home there and send a bird to Rothe when you arrive. I will hold Rothmew, against Farro&#8217;s might if need be. Honor me with your safety.
+      Your&#8217;s in all,
+      Thedlin</p>
+      </blockquote>
+
+      <p>Thedlin had men dismantle the catapults with axes, avoiding fires that might be seen by enemy scouts. After that task was complete lead the troop towards Rothe at an urgent pace.</p>
+
+      <p>Meanwhile, Gerdwin, The king&#8217;s attendant, helped don the kings' armor, and readied the king&#8217;s horse, and before he could ready his own, he listened in shock as the king dismissed him.</p>
+
+      <p>&#8220;You have served me well and faithfully, Gerd. Go to your family, and by all means necessary keep them safe. The land north of Kensbrook is yours. This is small recompense for your years of servitude. Thank you, and fare thee well.&#8221;</p>
+
+      <p>The king handed him a small scroll with his seal, which the man held with both hands as his king rode off.</p>
+
+      <p>Reginald met Wilyn and Vots near the makeshift stables, and they walked their horses swiftly into the dark. Twenty swordsmen, two bannermen, and one scribe followed. Reginald had thought carefully as to this company. Wilyn was not much in the way of witw, but he was optimistic, and eager for approval. Though a man of forty plus years, he was boyish in that way. He was a hulking man, and devastating with a mace or mourning star. He had a wife but no children. Vots was an odd choice on the surface, but he was cunning and devious. The king might need input on strategy, and though not much of a fighter, Vots was quick with his sword and fearless in battle. He was without family, as they had suffered poorly when a terrible sickness plagued the lands several years past.</p>
+
+      <p>He had commanded the two generals earlier in the evening to recruit ten men each. No fathers. It was clear that they were heading to their deaths.</p>
+
+      <p>There was a chance that the king would in fact manage to kill Davas, though none of them could see a clear path to that outcome. Far more likely was that upon confrontation, they would be immediately all be killed by the Davas Kell&#8217;s guards.</p>
+
+      <p>Riding forward, the twenty six men each felt their doom looming closer with every step. Even the horses felt the dour nature of their task.</p>
+
+      
+      <p className="section-title">The Nap</p>
+
+      <p>The barn grew as they neared until it loomed over them, as tall as an oak. Aila remembered that there would be several men near this place, but she didn&#8217;t see any of them. When they came to a turnoff in the road, they proceeded into the thick fields of tall meaty grass, prompting Aila&#8217;s hunger to return. She and willow grazed while the princess cried. Aila wondered how many tears this human had to shed.</p>
+
+      <p>The hay grass was delicious, and reminded her of the golden fields of Naranthal. Instead of full and sweet, this was thin and bitter, but it was rich and earthy and soon Aila was contented. At some point Sierra had dismounted and she sat with her legs tucked under her in the shorter grass by the road. Aila walked over to her side, and finding herself exhausted, lay down beside the princess and stretched out her legs. Detecting a deep sadness from the woman, she nudged her nose gently into her companion&#8217;s thigh and sent her a pulse of soothing energy. Sierra put her hand on Aila&#8217;s neck and gently pet the unicorn. Soon both were asleep.</p>
+
+      <p>Willow grazed, but he did not range far. He was keeping an eye on his friends.</p>
+
+      
+      <p className="section-title">The Dream</p>
+
+      <p>Sierra rode on the back of the great white unicorn in their dream. They flew blazingly fast through the evening&#8217;s golden clouds. Sierra&#8217;s gown trailed behind her and fluttered in the wind. The anticipation was palpable. They were late for the ceremony!</p>
+
+      <p>The landed in the courtyard to a great fanfare. Colored banners were hung and flew hight above the castle walls. Doves flew gracefully about. Bards sand joyous tunes, and trumpets marked their arrival. Sierra alighted and kissed Aila&#8217;s head before walking to the red aisle where her father stood. He brushed a strand of her hair back out of her face, then kissed his daughter&#8217;s cheek. Sierra looked up into his gold and blue eyes, and felt a powerful happiness from him. His grey stubble and weathered face augmented his smile. They held hands and began walking down the ails lined with relatives and friends garbed in their best finery.</p>
+
+      <p>Aila watched lovingly as the humans moved to join those at the grand entrance to the keep, where a gate of flowers stood. She was having a particularly important thought about this event when she was awakened by the clopping of hooves nearby.</p>
+
+      
+      <p className="section-title">The Scroll</p>
+
+      <p>The afternoon had waned, and Willow approached the sleeping pair. He clopped his hooves until they awoke.</p>
+
+      <p>&#8220;Horses coming&#8221;, he huffed.</p>
+
+      <p>&#8220;Horses?&#8221; Aila asked. She stood and shook the sleep from her face.</p>
+
+      <p>Sierra roused herself and climbed onto Willow. The three of them stopped to listen, and Aila heard it. Two horses running at a full gallop, and heading their way. She turned to face the north and watched as two riders headed towards them. One was shining brightly in the mid day sun, and the other was much smaller and wore simple brown garb similar to what Sierra wore.</p>
+
+      <p>They soon approached, and the small one shouted, &#8220;Princess Sierra! My princess! News from the front!&#8221;</p>
+
+      <p>Aila tucked her wings tight to her body, ready to take flight at a moment&#8217;s notice. The two men atop the two horses stopped and the man in brown dismounted. He reached into a bag that was attached to the horse somehow and retrieved a cylindrical object that he handed up to Sierra. He then bowed low onto one knee and looked at the ground. Aila was nonplussed, uncertain how to react to his odd behavior, but the princess was unfazed.</p>
+
+      <p>Sierra took the scroll, and addressed the young man before her as she broke the seal and unraveled it. &#8220;You may rise, page, and I thank you for your haste.&#8221;</p>
+
+      <p>The princess stared at the words on the page, and her face became devoid of all emotion. At the same time, Aila felt a surge of emotion from her. She could not identify it as anything other than panic, or worse, dread.</p>
+
+      <p>&#8220;Return to the keep, now.&#8221; Sierra commanded. &#8220;Make haste. Summon Gregor and Schiff to the king&#8217;s chambers. Ensure that they are there by dusk. And please retrieve my saddle and tack from the fields near Swallow&#8217;s bridge.&#8221;</p>
 
       <p>&#8220;Yes Princess Sierra, of course.&#8221;</p>
 
-      <p>&#8220;Oh, and page. Speak not of what you see here.&#8221;</p>
+      <p>&#8220;Oh, and Page, Speak not of what you see here.&#8221;</p>
 
-      <p>&#8220;Your highness?&#8221;</p>
+      <p>&#8220;Your Highness?&#8221;</p>
 
       <p>&#8220;Off with you, now. Haste!&#8221;</p>
 
-      <p>The two riders raced back the way they&#8217;d come, leaving a cloud of brown dust in the air.</p>
+      <p>The two riders raced back the way they&#8217;d come, leaving a cloud of brown dust that softly settled with the breeze.</p>
 
-      <p>Aila watched Sierra peel a small stone from the paper and tuck it into her shirt. She patiently rolled up the scroll and tucked it in as well. And then she put her hands to her face and wept.</p>
+      <p>Aila watched Sierra pry a small stone from the paper and tuck it into a hidden pouch on her pants. She then patiently rolled up the scroll and tucked it into her shirt.</p>
 
-      <p className="section-title">&#8230;</p>
-      
+      <p>&#8220;Aila, I am sorry. This is terrible. I must return to the keep.&#8221; The princess made an expression Aila didn&#8217;t understand. Her eyebrows were curved up, and she frowned with her mouth. The feeling of dread sustained.</p>
+
+      <p>It dawned on Aila that unlike unicorns, who think with each other, sharing whichever thoughts they like, humans could not, or did not do this. Instead they made a wide range of expressions with their faces and sent waves of raw emotional energy to communicate. Aila wondered how much subtlety she was missing due to her ignorance of these expressions.</p>
+
+      <p>&#8220;Why? What has happened?&#8221; Aila asked.</p>
+
+      <p>&#8220;It&#8217;s my father. He has lost the battle with the Kells and shan&#8217;t return. He is doomed.&#8221; A tear streamed down Sierra&#8217;s face, and she wiped her eyes with her arm.</p>
+
+      <p>&#8220;Doomed? How is that?&#8221; Aila, persisted.</p>
+
+      <p>&#8220;I don&#8217;t know!&#8221; She exclaimed more forcefully than she intended.</p>
+
+      <p>&#8220;I&#8217;m sorry. He didn&#8217;t say, he said only that he was not long for the earth and that the battle was going poorly. My father is a man of absolutes. He would not write the message if he did not think he was in trouble.&#8221; Sierra felt she might be explaining more than she had to so she pulled out the scroll, and read it aloud. She read at an even pace without inflection, but Aila managed to catch a brief glimpse of her father, the king, hunched over a dimly lit desk writing the letter. He was cold, and tired, but little else did she sense. Her curiosity about the stone and Sierra&#8217;s mother was eclipsed by this vision of a man defending his kingdom, taking the time to write his daughter. Aila liked him.</p>
+
+      <p>&#8220;If you father is in trouble we must go help him, mustn&#8217;t we?&#8221; Aila asked naively.</p>
+
+      <p>&#8220;Help him? How?&#8221; Sierra had not thought of it, and she now wondered why.</p>
+
+      <p>&#8220;I don&#8217;t know - I don&#8217;t know what trouble he is in. I do know that you love him, and that if we can offer aid then we should.&#8221;</p>
+
+      <p>But Aila, he&#8217;s a hundred miles from here! It would take us days to even get there.&quot;</p>
+
+      <p>Aila cocked her head. She ruffled her feathered wings, and pawed at the ground with her tufted hoof.</p>
+
+      <p>&#8220;I don&#8217;t know how far a hundred miles is, but I imagine that I could get us there expediently. Not you, Willow. I apologize, but you are far too big for me to carry.&#8221;</p>
+
+      <p>&#8220;Wait, what? You would carry <em>me</em>?&#8221; The princess was stunned. They had spent the day together, and Sierra would never have suspected that Aila would take her flying.</p>
+
+      <p>&#8220;I would, so that you might help your father.&#8221;</p>
+
+      <p>&#8220;Oh Aila!&#8221;</p>
+
+      <p>&#8220;I have two conditions, however. One, no ropes. You will have to tell me with your words which way you would like to travel. And two, you have to promise not to fall off.&#8221;</p>
+
+      <p>&#8220;Deal. Willy, let&#8217;s get you back to the stables. From there Aila will take me to try to help the king. You don&#8217;t mind, do you boy? Aila would take you too, but she says you&#8217;re too big.&#8221;</p>
+
+      <p>&#8220;I don&#8217;t mind.&#8221; Willow looked at Aila, and for the first time she felt one of his thoughts. He <em>did</em> mind.</p>
+
       <p></p>
 
       <p></p>
