@@ -1212,7 +1212,7 @@ export default () => [
 
       <p>Antin had approached and stood beside her.</p>
 
-      <p>&#8220;What do you say, girl. Think you&#8217;d like to stay here with Willow? The two of you would make fine foals.&#8221;</p>
+      <p>&#8220;What do you say, girl. Think you&#8217;d like to stay here with Willow in hiis stall? The two of you would make fine foals.&#8221;</p>
 
       <p>She snorted goodbye to Willow, and let Sierra know that she was leaving before cantering back the way they&#8217;d come. This was not a good place. It might not be a bad place either, but she wanted to leave and not return.</p>
 
