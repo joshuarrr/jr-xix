@@ -1142,6 +1142,92 @@ export default () => [
 
       <p>&#8220;I don&#8217;t mind.&#8221; Willow looked at Aila, and for the first time she felt one of his thoughts. He <em>did</em> mind.</p>
 
+      <p className="section-title">The Stable</p>      
+
+      <p>They trotted casually to the stables, which were on the south side of the town and not far. Instead of the main road, Sierra led them through the fields and small farms in order to avoid as many people as possible. She warned Aila that there would be people at the stables but assured her that they were safe and would not try to capture her. Besides, after watching how the page had revered the princess, Aila trusted that no ill would befall her.</p>
+
+      <p>As they got nearer and nearer to the stables, however, Aila&#8217;s self-preservation instincts kicked in. They progressed, and soon there were men in every direction. She trailed Sierra and Willow timorously.</p>
+
+      <p>The stables turned out to be a great conglomeration of fences and buildings of various configurations. From her conversations with Sierra, she understood that the stables were where the horses lived and congregated. She was surprised therefore that she didn&#8217;t see any.</p>
+
+      <p>&#8220;Where are all the horses?&#8221; She asked Sierra as they trotted towards the largest of the buildings in their vicinity. It was a wide building with a mildly sloped roof and a broad entrance. It was much too large. Aila felt diminished by it, as if through its mere existence she became faintly less important. She wondered how it came to be. Did men make this? She couldn&#8217;t believe it possible. She reflected on that, and remembered the enormous grey castle she had first landed on earlier that morning. That structure could fit several of these in its bottom half! This building was made of wood whereas the castle was of stone. She was accustomed to large masses of stone – that might be the difference. The large wooden building in contrast appeared unnatural.</p>
+
+      <p>&#8220;And where did all this wood come from?&#8221; Aila added.</p>
+
+      <p>&#8220;They&#8217;re all inside.&#8221;</p>
+
+      <p>&#8220;Inside?&#8221; Aila asked. Her apprehension was mounting. Why would the horses be inside?</p>
+
+      <p>&#8220;Of course. Where else would they be?&#8221; Sierra didn&#8217;t realize that Aila had become uncomfortable.</p>
+
+      <p>&#8220;Grazing? Sierra I don&#8217;t like this.&#8221;</p>
+
+      <p>Sierra turned back to face Aila, and saw that the unicorns ears were lying flat. The poor thing was scared.</p>
+
+      <p>&#8220;Oh, Aila! It&#8217;s ok. I promise. You don&#8217;t have to go in if you don&#8217;t want to.&#8221;</p>
+
+      <p>They had stopped directly outside the stable entrance, and as Sierra spoke to Aila, the stable master Anton emerged.</p>
+
+      <p>&#8220;Princess! Welcome home. And look at that, what a fine mare you&#8217;ve returned with.&#8221; He walked as he spoke, and was soon within kicking distance of Aila.</p>
+
+      <p>Sierra addressed him. &#8220;Antin, this is Aila, my new friend. Aila, this is Antin. He is in charge of the care for all the royal horses of Rothe.&#8221;</p>
+
+      <p>Antin spoke freely to his horses but was amused at the matter of fact way the princess spoke to this white horse, but he played along. He removed his hat and bowed deeply towards Aila.</p>
+
+      <p>&#8220;A pleasure to make your acquaintance, fair mare.&#8221;</p>
+
+      <p>&#8220;It is nice to meet you, kind sir. You care for the horses here? Why are they inside? Do they not prefer the open air? How can they graze?&#8221;</p>
+
+      <p>Antin had known Sierra her entire life, and he was quick to drop formalities. He turned to the princess..</p>
+
+      <p>&#8220;Where did you pick this one up, Sierra? She&#8217;s lovely. Lovely horse.&#8221;</p>
+
+      <p>&#8220;Horse!&#8221; Aila was flummoxed. The man had not only ignored her questions, but had called her a horse!</p>
+
+      <p>Sierra caught on immediately. &#8220;Antin, Aila wishes to know why the horses are inside. She posits that they may prefer to remain outside. Will you answer her?&#8221;</p>
+
+      <p>Antin frowned. He didn&#8217;t realize that the game would go this far. The princess wanted him to pretend to talk to this horse, that was clear, but why?</p>
+
+      <p>&#8220;Entertain me, Antin.&#8221;</p>
+
+      <p>&#8220;Yes, your highness.&#8221; He turned again to Aila. &#8220;You see, Aila, it&#8217;s like this. We have twelve hundred horses here, all told. Now several hundred are out with the army, and about four hundred are out in rotation at any given time. But that leaves several hundred to keep track of. Letting them run wild isn&#8217;t an option – they&#8217;d soon wander off and run wild. We keep them inside for the night where we feed them and tend to them. You&#8217;re welcome to come see for yourself. We have plenty of room if you&#8217;d like a stall.&#8221;</p>
+
+      <p>Aila appreciated the reply but found that she did not like his response. She huffed. &#8220;Let them run wild? Then the horses are prisoners here? Kept inside against their will? What is a stall? Show me.&#8221;</p>
+
+      <p>Sierra did not like the tension that was forming, and neither did Aila. Nor did Antin. The day had been long, and now he was forced to explain the working of a stable to a horse.</p>
+
+      <p>Sierra translated but softened the edge of Aila&#8217;s questions. &#8220;She believes the horses to be imprisoned. She wants to see them.&#8221;</p>
+
+      <p>&#8220;Yes your highness. Let&#8217;s get Willow home and brushed.&#8221; He waved them in.</p>
+
+      <p>Sierra rode Willow down a long hall with a fence down the middle. Antin followed behind on foot.</p>
+
+      <p>Aila surveyed the dark interior. At every other stride was a new demarcation constructed out of wood panels and fencing. In about half of the cells stood a lone horse. Occasionally one neigh or snort a greeting. Several were seen curled up or lying on their side in the clean straw. There was a stench of urine and manure. The horses were living in their own filth. Each cell had a gate at the far end that appeared to lead outside.</p>
+
+      <p>Aila detected not fear from these horses, but a terrible boredom. It pervaded and oppressed the space. They were resigned to their existence being the extent of their lives. They might not even know what else was possible.</p>
+
+      <p>Aila felt guilty. She was free, and they were not.</p>
+
+      <p>They came to a large empty cell at the end of the block, and Sierra dismounted. Willow made his way into his cell and Sierra followed. She took a brush from the wall and the tall, muscular, grey horse stood motionless while she brushed him free of dust and debris. She whispered sweetnesses to him and pet him with her hands, and Aila knew that she loved him dearly.</p>
+
+      <p>Antin had approached and stood beside her.</p>
+
+      <p>&#8220;What do you say, girl. Think you&#8217;d like to stay here with Willow? The two of you would make fine foals.&#8221;</p>
+
+      <p>She snorted goodbye to Willow, and let Sierra know that she was leaving before cantering back the way they&#8217;d come. This was not a good place. It might not be a bad place either, but she wanted to leave and not return.</p>
+
+      <p>Sierra rejoined the unicorn outside and discovered that dusk had descended to greet them. It was almost dark, and she had to get to the Castle to make arrangements. There was much to do before she could leave for the mountains. When she saw Aila again she nearly cried. The unicorns head hung low, and her ears lay flat and her eyes were almost shut. She approached and put her hand on her shoulder. She tried to send Aila happy energy, but found she didn&#8217;t have much to offer.</p>
+
+      <p>Aila was grateful for the tenderness, but it didn&#8217;t help. She was terribly sad.</p>
+
+      <p>&#8220;Sierra, they are broken.&#8221;</p>
+
+      <p>&#8220;Hmm? What&#8217;s broken?&#8221;</p>
+
+      <p>&#8220;The horses. They aren&#8217;t&#8230; horses anymore.&#8221;</p>
+
+      <p>A tear emerged from the unicorns eye, and rolled down and off her cheek into the air. It decided to make its way in a direct path to the dirt below, and when it landed, it exploded in a brief but colorful display. The small cloud of color dissipated, and a tiny pink flower emerged from the dirt.</p>
+
       <p></p>
 
       <p></p>
