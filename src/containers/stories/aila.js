@@ -1228,6 +1228,166 @@ export default () => [
 
       <p>A tear emerged from the unicorns eye, and rolled down and off her cheek into the air. It decided to make its way in a direct path to the dirt below, and when it landed, it exploded in a brief but colorful display. The small cloud of color dissipated, and a tiny pink flower emerged from the dirt.</p>
 
+      
+      
+      <p className="section-title">The Ring</p>
+
+      <p>The king sat on the edge of an outpost of broken granite rocks on Egris' slope and surveyed the misty valley below. The past month&#8217;s battles had made a blight of the eastern side, and even from this distance and in the faint morning light the bodies and mud stood out like a dark scab. On the western side he could see faint indications of tents where The Kells were camped. He knew that he could see but a fraction of their massive force, and his spirit was grim.</p>
+
+      <p>Reginald and his small escort had covertly marched through the thin dark forest that lined the southern mountain&#8217;s lower slope. The snow that fell gently through the tall pines and dusted the forest floor had been accompanied by a biting wind. They had concentrated on stealth rather than distance. The goal had been to split off from his primary force without leaving a perceptible trail. After several slow hours, they made a small fireless camp and ate dried rations. They slept cold that night, and briefly.</p>
+
+      <p>The king had sent Jivan out to reconnoiter the movement of the Kell&#8217;s army before curling up in his simple low tent.</p>
+
+      <p>Distracted by the cold, sleep evaded him for a long while. He thought about Sienna, and hoped that she was well enough to obe his command. The last time he had seen her she was depleted in a disheartening way. She had loved Aerenthal&#8217;s Prince Aden mightily for several years. Their betrothal was out of a storybook, the prince and princess in love, to be wed in the spring. Sienna had been delighted and consumed with her preparations. More than that, it was a political victory for the kingdom. Relations had been sour with the Stewarts since the secession of Aerenthal. Reginald saw the wedding as an opportunity for diplomacy.</p>
+
+      <p>He thought about Cyann, Sienna&#8217;s mother, his wife, the former queen, and though he did not permit himself to long for her as a rule, he did now. He&#8217;d not seen her for many years, since she had returned to her home. She had become gravely ill, and she believed that her constitution was not suited to the realm of men. On his left forefinger he wore the last gift she had given him: a long narrow black stone. He&#8217;d had it converted into a ring years ago and had worn it ever since. He rubbed it now with his thumb and sent Cy his love, and his foreboding. She would want to know that this might be the last time she would feel his presence. Almost immediately, the stone warmed and Reg felt her there, returning his love and longing. Sleep had finally come.</p>
+
+      <p>Jivan approached, and his words broke the king&#8217;s bitter stupor.</p>
+
+      <p>&#8220;It is as you expected. Davas follows at the army&#8217;s heels in the coward&#8217;s position. I followed the trail eastward several miles where it provides a great vista. The army here&#8221;, he gestured towards the western valley, &#8220;is by my count but two thousand strong.&#8221;</p>
+
+      <p>&#8220;How far behind the main force is Davas?&#8221; The king asked. He was partially relieved by Jivan&#8217;s report.</p>
+
+      <p>&#8220;None my liege. He is stationed at the rear of the men but not apart from it.&#8221;</p>
+
+      <p>&#8220;Good. That is good.&#8221;</p>
+
+      <p>The king returned to camp and conspired with Wilyn and Vots. They would wait until the majority of the Kells had passed through the eastern saddle and then approach the rearguard in the open vale.</p>
+
+      
+
+      <p className="section-title">The Ambush</p>
+
+      <p>The king sat at the cluttered writing desk in his quarters, with several loosened scrolls before him. He signed his name, Egen Stewart, to the tail of the page before him and held the page over a candle to dry the ink. He rolled it, affixed his seal - a boar&#8217;s head with a sword running through it – and pushed it to the side.</p>
+
+      <p>There was a gentle rapping on his chamber door.</p>
+
+      <p>&#8220;Come.&#8221;</p>
+
+      <p>His son, Aden, entered. He was a tall, handsome young man of nineteen years. He wore decorative studded leather armor and a high collared forest green half cape. His long brown hair and boyish features made him appear younger than he was.</p>
+
+      <p>&#8220;Father, you called.&#8221;</p>
+
+      <p>&#8220;I did. Come. Sit.&#8221; King Stewart rose from his desk and turned to face the room, but then reached back and plucked one of the sealed scrolls from the desk, which he handed to his son. They sat then at the long oak table and a maid poured them wine.</p>
+
+      <p>&#8220;Aden, you won&#8217;t like what I am about to tell you. I don&#8217;t like it. But we have little in the way of options – we are in fact in a gravley tenuous position. I have shielded you from this, but you must now be informed. You know my vision for a united Aerenthal, but not my many ill-fated plots to attain it. This recent debacle with the Rothian princes is a testament. Davas has destroyed my hope of taking Rothe diplomatically. His ambition is to rule all of Thren, and he has amassed a great army, which he currently moves east. I have skillfully negotiated a peace with Davas, and I have his signature here that he will allow us to retain sovereign rule over Aerenthal. However, to retain this right, concessions were made. I have pledged our forces to aid in his claim to Rothe.&#8221;</p>
+
+      <p>King Stewart paused to give the boy time to catch up, and to sip from his goblet.</p>
+
+      <p>&#8220;On the morrow you will lead our men north, and you will lay siege on castle Rothemew.&#8221;</p>
+
+      <p>Aden stared incredulously at his father. First he had commanded that he cut off communication with Sienna, his love and betrothed. Now he was to lead an attack on her home? This was an appalling notion.</p>
+
+      <p>&#8220;I won&#8217;t!&#8221; He burst. He had many thoughts and was surprised that the denial was all he could utter.</p>
+
+      <p>King Stewart narrowed his eyes and calmly rebutted, &#8220;Yes, you will.&#8221;</p>
+
+      <p>Aden found his tongue. &#8220;Never! I love her, and you would have me attack her in her own keep! Nonsense. I won&#8217;t do it.&#8221;</p>
+
+      <p>The king pushed on the table as he rose, knocking over his goblet. Wine spread violently across the table and dripped through the planks to the stone floor below.</p>
+
+      <p>&#8220;You will do it, and you will keep your tongue in your mouth. Or you will have it cut from it, and you will wear the necrotic appendage around your neck instead of those silly charms you wear. And what&#8217;s more, when I am done with you, Davas Kell will do even worse. He was not pleased that you dismissed my orders and prolonged your engagement with her. Nor was I pleased to learn of it from him. If you even think of contacting that troll again, you&#8217;ll be wishing it was your tongue being removed.&#8221;</p>
+
+      <p>Aden stared in shock and hatred at his father. His hands trembled, and he felt an urge to urinate. He felt an urge to draw his sword and bury it in the old man&#8217;s chest. But he had seen his father in this state before and knew better than to argue.</p>
+
+      <p>&#8220;Yes sir. I will do as you say.&#8221;</p>
+
+      <p>&#8220;You will. Now then. I have given Riles orders to ready the army, and his instructions are clear. You will be leading the men in naught but appearance; he retains command. Is that clear?&#8221;</p>
+
+      <p>&#8220;That&#8217;s clear.&#8221;</p>
+
+      <p>&#8220;Good. And boy. Do not tempt me. If you make one move to advance on that whore I will have her head slowly removed from her frame while you watch, understand? Dismissed.&#8221;</p>
+
+      <p>Aden returned to his chambers. He quickly wrote a brief letter of warning to Sienna, and rolled the small parchment tight. Then, thinking on it twice, he placed the letter into the fire and watched it disappear into smoke.</p>
+
+
+      
+      <p className="section-title">The Flight</p>
+
+      <p>Aila sensed Sienna&#8217;s nervousness but again couldn&#8217;t interpret it. They walked away from the stables wordlessly. As they approached a larger road that was paved with small flat stones, Aila noticed that it went through a large wall and that there were many more people in the direction they were heading. In the distance the large grey castle was visible, though the atmosphere between them blurred its edges.</p>
+
+      <p>&#8220;Sienna, I wonder. The castle is a ways off, and there appear to be many people here. Shall we try flying?&#8221;</p>
+
+      <p>The princess&#8217;s face lit up. &#8220;Oh, yes, let&#8217;s! What a wonderful idea. I had feared that I would have Gregor in a foul mood by the time I arrived, but if we fly we should make it to the castle by sundown.&#8221;</p>
+
+      <p>Aila nodded and stretched her wings out wide to her sides. The princess approached from behind and hopped onto the unicorn&#8217;s back. Her knees pressed into the large white feathers attached to Aila&#8217;s side, though, and when Aila tried to move her wings she found it untenable.</p>
+
+      <p>&#8220;Sorry, I don&#8217;t think this will work. Try wrapping your legs over the front?&#8221;</p>
+
+      <p>It was tricky, but eventually Sienna repositioned her feet in front of Aila&#8217;s wings. She held on tightly by pressing her knees into Aila&#8217;s powerful neck. She gripped tightly to the base of Aila&#8217;s long white mane and leaned back so that the bulk of her weight was behind the unicorn&#8217;s shoulders.</p>
+
+      <p>&#8220;Ok, Aila. I think I&#8217;m ready.&#8221;</p>
+
+      <p>&#8220;Now or maybe never!&#8221; Aila shouted as she lowered her head a few degrees, raised her wings and flapped down hard to lift off.</p>
+
+      <p>&#8220;Eeeeee!&#8221; The princess cried as she fell back and off the animal.</p>
+
+      <p>&#8220;Ooof!&#8221; She cried as she landed on her back in the dirt.</p>
+
+      <p>&#8220;Senn!&#8221; Aila cried, as she turned around in air several feet off the ground. &#8220;You promised!&#8221;</p>
+
+      <p>&#8220;I didn&#8217;t expect it would be that abrupt! Who taught you how to fly!?&#8221;</p>
+
+      <p>&#8220;No one! I am still learning!&#8221;</p>
+
+      <p>&#8220;Great, now you tell me.&#8221;</p>
+
+      <p>They both laughed. Aila landed beside the mildly embarrassed princess and they got back into position. This time, Sienna wrapped her long arms around Aila&#8217;s neck. She wouldn&#8217;t be bucked off twice!</p>
+
+      <p>&#8220;Let&#8217;s try again, unicorn! This time, try bringing us up to a gallop first so that the trajectory into the sky is less steep.&#8221;</p>
+
+      <p>&#8220;Good idea!&#8221; And it worked. Sienna held on with all her might as they gained speed, and when Aila flapped her wings they climbed steadily up into the sky. The unicorns wings and neck undulated rhythmically and Sienna let her leg muscles loosen to ease the friction where the backs of her knees met the wings at Aila&#8217;s shoulders. Eventually she was able to shift her weight further back and relax her legs. In leaning back, she loosened her arms and trusted her balance, and her deathtrap on Aila&#8217;s mane, to keep her perched on the unicorn&#8217;s back.</p>
+
+      <p>It was surprisingly effective. As Sienna relaxed, Aila relaxed. She kept her eyes on the castle, and soon they were at a fair elevation. She focused on flying smoothly and gracefully, and when she felt Sienna&#8217;s fear, she sent calming signals to her. And shortly after that, she felt Sienna sending Aila thoughts of amazement and wonder. She could see the entire town and surrounding lands at once! How amazing the feeling of the wind was! The speed! They were flying!</p>
+
+      <p>The long walk was but a short flight, and they soon landed on the top of the castle where they had first met early that morning. What a day this had been — it was hard to believe how much had happened.</p>
+
+      <p>The princess dismounted and gave Aila a tremendous hug.</p>
+
+      <p>&#8220;That was amazing! I&#8217;ve never experienced anything like it! Thank you, Aila! Thank you!&#8221;</p>
+
+      <p>&#8220;My pleasure! It was fun! I like flying with company!&#8221;</p>
+
+      <p>&#8220;I&#8217;m glad! We have a long flight planned.&#8221; The princess was exhilarated and exhausted.</p>
+
+      <p>&#8220;For now, I must go inside. I have matters to attend. I must inform Gregor and begin preparing the castle defenses. My cousin Schiff will know what else needs to be done, and I must pack for our journey. Oh, I will have Bee bring you snacks. Do you mind waiting out here?&#8221;</p>
+
+      <p>The smile Aila&#8217;s eyes became oddly complex, and she replied, &#8220;I don&#8217;t mind.&#8221;</p>
+
+      
+      
+      <p className="section-title">The Worst</p>
+
+      <p>By early afternoon, the majority of the Kells army had moved through the valley. They had initially moved in formation to the saddle, where the Rothian&#8217;s defenses had been positioned, and stopped. Several hours passed before the army continued, narrowing and funneling through the narrow passage. Vots reported that the Kells had sent scouts out in several directions but none back to the west.</p>
+
+      <p>As the sun broke through the grey clouds, King Reginald commanded his scribe, Talmund, to detach from the group and stay out of sight so that he might record the history of the day. And he commanded Jivan to stay with Talmund so that he might relay news to Rothemew. He released the remainder of his men from service and urged them to return to their homes and salvage what they could of their futures. None did, however; instead the two dozen men marched with him upon the Kell&#8217;s rear ward. Vots and Wilyn walked beside their king and flew Rothelyn&#8217;s blue banners.</p>
+
+      <p>His plan, foolish though it was, worked, and they soon found themselves face to face with the royal guard.</p>
+
+      <p>Reginald walked ten paces toward the enemy and stood motionless. He drew his sword, planted it in the ground tip first, and yelled, &#8220;I demand audience with Davas Kell!&#8221;</p>
+
+      <p>There was a slight commotion as the news spread deep into the ranks. Eventually an aisle formed as the Kells made way for their king. They wore black armor and black helmets with red combs. The effect was terrifying.</p>
+
+      <p>Davas emerged. He was a short man, and thin beneath his own black armor. His was more decorated with leather studs and buckles, and behind him trailed a red and black cape, emblazoned with the raven that was the Kells crest. His black hair glistened in the sun which made his pale white face appear ghostly. Despite his stature, he was an intimidating figure, evidenced in the way his men shrank back from his approach. What unexpectedly unnerved Reginald, however, was his grin. He looked like a starving man with a stolen a turkey leg.</p>
+
+      <p>&#8220;Ah, good king Reginald.&#8221; Davas spit out the words with dramatic pauses between each syllable and approached the king as he continued. &#8220;You honor me with your presence. How good of you. But I wonder. Why have you come? Do you wish to bend your knee? To pay tribute for the many lives you have taken? Do you wish to beg for mercy? Tell me, won&#8217;t you?&#8221;</p>
+
+      <p>&#8220;I have come to challenge you in combat, Davas. Hand to hand. Fight me now, or be dishonored before your men.&#8221;</p>
+
+      <p>Davas looked stunned. He traded glances with the men behind him, first glancing over his shoulder, then over his right.</p>
+
+      <p>&#8220;An interesting proposition, my fellow king.&#8221; He took another step closer. &#8220;But I think I must decline&#8230;&#8221;</p>
+
+      <p>Before he had finished breathing out his last syllable, Davas had drawn a dagger with his left hand and thrust it directly into the front of Reginald&#8217;s throat.</p>
+
+      <p>&#8220;&#8230;because, my lord, it appears that you are already dead.&#8221;</p>
+
+      <p>Davas extricated his blade with an equally quick motion. King Reginald fell to his knees and clutched his neck with his gauntleted hands. As he fell face first into the mud, Davas turned and disappeared into the crowd of soldiers.</p>
+
+      <p>Vots and Wilyn dropped their banners and had taken several long strides towards the Kells before arrows found their mark and they fell. It was Kurn – the youngest Rothian, and if it were a thing to be measured, the most afraid – who alone managed to strike a killing blow with his sword before he succumbed to the arrows and the tip of a lance in his gut.</p>
+
+      <p>Talmund and Jivan watched in numb silence as the scene unfolded. They had expected the worst, but they had been unable to imagine it.</p>
+
       <p></p>
 
       <p></p>
