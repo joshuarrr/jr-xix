@@ -1230,7 +1230,7 @@ export default () => [
 
       
       
-      <p className="section-title">The Ring</p>
+      <p id="the-ring" className="section-title">The Ring</p>
 
       <p>The king sat on the edge of an outpost of broken granite rocks on Egris' slope and surveyed the misty valley below. The past month&#8217;s battles had made a blight of the eastern side, and even from this distance and in the faint morning light the bodies and mud stood out like a dark scab. On the western side he could see faint indications of tents where The Kells were camped. He knew that he could see but a fraction of their massive force, and his spirit was grim.</p>
 
