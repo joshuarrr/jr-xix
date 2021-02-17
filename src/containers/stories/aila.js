@@ -1388,6 +1388,256 @@ export default () => [
 
       <p>Talmund and Jivan watched in numb silence as the scene unfolded. They had expected the worst, but they had been unable to imagine it.</p>
 
+      
+      <p className="section-title">The Night</p>
+
+      <p>Aila reflected on the day as she waited for the princess. She had been on adventures at home but they had consisted of her and Liba or Elsie walking to the edges of their grassland, or to the gates, or to strange forests where they would make new animal friends. This was different. She made a mental recap of the day, starting with leaping through the gates to this land of humans. She&#8217;d seen a fox eat a rabbit, been attacked by men with rope, met Sienna and Willow, discovered alfalfa and hay, dreamt with the princess, seen the stables, and finally, flown with a woman on her back. A strange day indeed!</p>
+
+      <p>Ah, Liba. She missed her friend. She found that she didn&#8217;t wish she was home, however, she wished that Liba could be here, experiencing this exciting land with her.</p>
+
+      <p>A woman emerged from the large entrance to the keep, and behind her two men followed carrying large items. The woman halted abruptly and gestured to the men when she saw Aila. They placed the objects on the ground and retreated into the keep, shutting the doors behind them.</p>
+
+      <p>Bee slowly approached the unicorn. In a quiet voice that was almost a whisper she said, &#8220;So you are real after all. Well, what a fantastic thing you are. You are beautiful, Aila. Yes, Sienna told me all about you, though I admit to have doubted her. It&#8217;s not everyday that we get unicorns visiting Rothe. Oh, how rude of me. I should introduce myself. I am Bee, Sienna&#8217;s maid. I brought you apples and bread and grains.&#8221;</p>
+
+      <p>Aila had been cautiously listening to Bee, and she found that the trust she had developed with Sienna carried over to this woman, her companion. She felt a rumble in her belly at the mention of apples.</p>
+
+      <p>&#8220;I like apples!&#8221; She stated.</p>
+
+      <p>Bee&#8217;s face came to life, and she brought her hands to her face. &#8220;You can speak!&#8221;</p>
+
+      <p>&#8220;Yes, and so can you! This is my first day amongst humans, and I gather that only some people can understand me or speak to me. Some people even mistake me for a horse, though I am not sure how that is possible.&#8221; Her horn pulsed a nonchalant pink glow.</p>
+
+      <p>&#8220;Nor do I, Aila. Here.&#8221;</p>
+
+      <p>Bee brought over one of the objects from the doorway, which turned out to be a bag full of apples. She took one from the bag and held it out for Aila, who took it and ate it in several chomps. Bee emptied the bag near Aila&#8217;s feet, and proceeded to drag the other object towards the unicorn. It was a bag full of grain, with a couple loaves of warm bread on top.</p>
+
+      <p>&#8220;This should keep you busy for a while. I will come check on you if Sienna doesn&#8217;t beat me to it. Aila, I am glad you have come. I haven&#8217;t seen her this happy in a long time.&#8221;</p>
+
+      <p>Bee returned inside, and Aila ate the apples and grain and then dozed while standing.</p>
+
+      <p>Sienna came out several hours later, and they spoke briefly. She was needed for many decisions about the castle defenses and would be gathering numerous leaders and nobles for a forum later that night. They would have to leave for the front on the morrow.</p>
+
+      <p>Bee returned shortly thereafter and put a thick blanket over Aila&#8217;s back. She spent the night meandering the rooftop and dozing. She felt lonely and displaced, but her dreams brought her happiness. She discovered a garden down a small flight of stairs on a larger rooftop area with trees and a small grassy area, and she lay there on her side in the grass and slept until morning.</p>
+
+      
+      <p className="section-title">The Sword</p>
+
+      <p>&#8220;There you are! Aila, wake up! Wake up! It&#8217;s time.&#8221; Sierra had feared that the unicorn had left in the night, but was relieved to find her in the rose garden.</p>
+
+      <p>Upon awakening, Aila sent out an awareness pulse and felt Sienna (unsurprising), and Bee nearby but out of sight. They returned to the tower rooftop where Aila discovered hay had been brought up, and several red apples in addition. She ate greedily; she was feeling depleted after the night&#8217;s sleep.</p>
+
+      <p>Sienna heaved a pack over her back, and strapped a long slender object to her waist, which piqued Aila&#8217;s curiosity.</p>
+
+      <p>&#8220;What&#8217;s that, Senn?&#8221; She nuzzled towards the princess waist.</p>
+
+      <p>&#8220;My sword.&#8221;</p>
+
+      <p>&#8220;Sword?&#8221; Aila was concerned.</p>
+
+      <p>Sienna drew the metal object out of its sheath, and presented the shiny long object perpendicularly to her friend.</p>
+
+      <p>&#8220;It is solely for defense. It is sharp, like your horn. But not nearly as beautiful or magical, I&#8217;m afraid. I hope I don&#8217;t need to use it, but I would be a fool to not take it with us.&#8221;</p>
+
+      <p>Aila remembered Osiler preaching about the men who had attacked Tabor with long sharp knives, and got chills.</p>
+
+      <p>&#8220;I do not like swords.&#8221; Aila said.</p>
+
+      <p>&#8220;Me either, Aila. I don&#8217;t like them either. I don&#8217;t like that my father is in danger and possible dead. I don&#8217;t like that the Kells are attacking us. This whole mess stinks. But I am not going defenseless into a battle.&#8221;</p>
+
+      <p>The princess sheathed her sword. Aila huffed, but dismissed the issue.</p>
+
+      <p>&#8220;I brought you something. Figs. I think you&#8217;ll like figs.&#8221;</p>
+
+      <p>Sienna held out her hand and Aila resignedly gave the black objects in her hand a sniff. She took one and chewed it. She did like figs.</p>
+
+      
+      <p className="section-title">The Bad Place</p>
+
+      <p>They flew east. At first it was exhilarating, as before, but they flew higher and higher, and soon the wind was biting. Sienna carefully rotated her legs up and around Aila&#8217;s flapping wings and put her feet towards the unicorns waist. Lying prone in that manner kept her warmer, and for a brief period while flying through the clouds she relaxed and drifted off to sleep. She dreamt she was flying on the back of a unicorn through the clouds when a patch of sun broke through and revealed a colorful rainbow. She woke with a start, disoriented, and remembered quickly that she was in fact lying on the back of a unicorn, flying through the clouds. There was no rainbow, however, and a feeling of dread returned as she recalled their destination. If her father was in fact in trouble, what could she possible do to help? She had rudimentary skills with a sword at best, and her thin leather armor was hardly good at keeping mosquitoes at bay. She felt Aila send her hopeful energy – it felt like being filled up with warm water – and she put the fear aside. It didn&#8217;t matter what she could do, it mattered only that she did what she could.</p>
+
+      <p>&#8220;Did you see the rainbow?&#8221; Aila called. &#8220;It was remarkable!&#8221;</p>
+
+      <p>&#8220;Aila, I dreamt that! It was a dream!&#8221;</p>
+
+      <p>&#8220;Oh. I thought it was real.&#8221;</p>
+
+      <p>The rest of the flight was uneventful, aside from an awkward exchange with a small flock of geese that insisted on occupying their air space. They flew for a long time before a pair of mountaintops pierced the surface of the clouds, at which point Aila descended. Dropping through the clouds was scary, and Sienna gasped several times before Aila could calm her.</p>
+
+      <p>They emerged near the famed sister mountains, Gaia, to the north and Egris, to the south. Sienna surveyed the road that wound through the lesser mountains and traced the line from the foothills up through the forest to the pass, but she saw nothing of much interest. As they neared the pass, the ground rose to meet their elevation and before long they were no more than a few dozen meters above ground. They tracked the forested path and Sienna watched closely for signs of battle.</p>
+
+      <p>Pffft!</p>
+
+      <p>Something sharp and fast pierced through Aila&#8217;s left wing and glanced across Sienna&#8217;s shoulder.</p>
+
+      <p>Pfffft!</p>
+
+      <p>Pfffft! Pffffft! Pffft!</p>
+
+      <p>Several more flew past.</p>
+
+      <p>&#8220;Arrows! Aila, fly!&#8221;</p>
+
+      <p>Sienna wasn&#8217;t sure how she had missed them, but there were a half-dozen men in black leather armor below them and to their left in the middle of the road. The men had bows and were excitedly taking shots.</p>
+
+      <p>Pffft!</p>
+
+      <p>Pffft!</p>
+
+      <p>Another arrow flew through Aila&#8217;s wing and this one embedded itself into the back of Sienna&#8217;s arm. Another pierced Aila&#8217;s shoulder, and mid-flight, she reared in pain and nearly threw Sienna from her perch. They stabilized, and Sienna reached for the arrow in the unicorn&#8217;s shoulder but as she grabbed it, it dematerialized and was gone. She watched as the bloody hole in her friend&#8217;s hide reconstituted itself and was healed over as though it had never been there.</p>
+
+      <p>Her shoulder throbbed, and Sienna reached back to remove the arrow there, but found nothing but a hole in her leather and an incredible amount of pain.</p>
+
+      <p>Aila stepped into super speed, and headed for the valley between the mountains. They were heading that way anyway, and it looked like good cover. She darted to a narrow section between the slopes of the two mountains at the edge of the valley and landed.</p>
+
+      <p>&#8220;What happened, Sean? Why did they hurt us?&#8221;</p>
+
+      <p>There was no reply, as Sienna had fainted from the pain of the wound. As Aila landed and came to a stop, her friend slipped slowly off her back and fell face down onto the ground.</p>
+
+      <p>Aila paced nervously back and forth beside Sienna before nudging her with her nose. She could feel that Sienna&#8217;s life force was strong, but none of her thoughts or emotions were available. It was strange how accustomed to them Aila had become. She bowed and nudged her horn into the hole in the back of Sienna&#8217;s leather vest, and her horn flashed white.</p>
+
+      <p>Minutes later Sienna roused.</p>
+
+      <p>&#8220;What happened?&#8221; She stood and dusted herself off.</p>
+
+      <p>&#8220;We landed. Your head went away for a while. I am glad you are back. Sienna. This is a bad place.&#8221;</p>
+
+      
+      <p className="section-title">The Fall</p>
+
+      <p>Remounted, Sienna and Aila walked through the remains of the Rothian defenses. Ditches were cut into the earth and nearly filled with dead men. A man with numerous arrows in his chest was draped backwards over a short fence made of logs, clutching his sword. They crested the low hill which opened out over the valley where they saw that the gore stretched before them deep into the valley. Aila noted that the bodies of men and horse alike were sprawled across the slope. To either side of the broad valley were piles of bodies. The earth was black with mud and blood.</p>
+
+      <p>Aila was stupefied. She was tired from the flight, and healing Sienna&#8217;s shoulder had depleted a strange amount of her energy. The sights spread out before her brought on an inescapable despair.</p>
+
+      <p>Sienna felt numb, though not as drained as the unicorn. She felt Aila&#8217;s shock and confusion and rubbed her friend&#8217;s neck, sending vain assurances.</p>
+
+      <p>&#8220;Let&#8217;s fly over, Aila. I must look for my father&#8217;s banners.&#8221;</p>
+
+      <p>&#8220;I want to leave this place, Sienna. Look, they have fallen so many. And the horses&#8230;&#8221;</p>
+
+      <p>&#8220;I know. We will leave soon. You can go if you must, but I must learn what has become of my father.&#8221;</p>
+
+      <p>&#8220;I won&#8217;t leave you. Not here.&#8221;</p>
+
+      <p>They flew in large low circles over the valley, and Sienna shouted, &#8220;There!&#8221; Her voice was filled with anxiety.</p>
+
+      <p>They landed near where two blue banners lay. One was twisted and had been trod into the mud, but the other lay flat and exposed the white marks of the Rothian sigil: a rearing horse, with angular wings reaching skyward. Aila stashed the curiosity away in her mind for the time being because Sienna was calling.</p>
+
+      <p>She had dismounted and started running in a single motion. She recognized her father&#8217;s blue cape and silver armor from overhead as they descended. She ran to him, and cried for Aila as she reached his body.</p>
+
+      <p>Aila approached tentatively. There were long knives – swords – and dead men in great number here.</p>
+
+      <p>Sienna struggled to turn her father over. He was a big man, and his armor made him nearly impossible to lift. Aila helped by dragging her hoof across his body and toward her. He flopped onto his back, his hands were a mess of blood and leather and steel at his throat. Sienna moved his hands away from the wound and blood flowed from his neck in slow steady pulses.</p>
+
+      <p>&#8220;Aila, he&#8217;s alive!&#8221;</p>
+
+      <p>&#8220;He is. Sienna. Move aside. You may not want to watch this.&#8221;</p>
+
+      <p>Sienna backed away but kept her eyes transfixed on her father and friend.</p>
+
+      <p>Aila awkwardly spread her front legs and tucked her chin, then decisively plunged her horn into the dying man&#8217;s throat.</p>
+
+      <p>&#8220;Aila!&#8221; Sienna gasped. But it was an empty cry heard by no one.</p>
+
+      <p>There was a long pink glow, and then a white flash, and Aila retracted her horn and stood straight. She backed away from the man beneath her, and looked away into the western side of the valley.</p>
+
+      <p>Sienna ran again to her father. The wound at his throat was healed, replaced by a faint pink seven pointed star. His breathing had returned but he did not rise.</p>
+
+      <p>In a dazed reverie, Aila felt the treachery of the black haired man thrusting his knife deep into Sienna&#8217;s father&#8217;s throat. She felt the silver metal enter his trachea with a sting, as though it was her own. She felt the pleasure this wicked man derived from his action. She felt the knife removed, and his blood flowing out into the chilly air. She felt the pulse of his blood tire, and the darkness come to him.</p>
+
+      <p>The unicorn fell to her knees, then side, in defeat. There was too much death here. She watched several crows fly across the grey-white sky before she closed her eyes.</p>
+
+      
+      <p className="section-title">The Return</p>
+
+      <p>Jivan watched as a white horse approached the scene of his king&#8217;s death. The rider dismounted, and they milled about the body of the king. The rider was small, and Jivan thought that they should approach.</p>
+
+      <p>Talmund, by his side, watched as a winged unicorn landed, and watched as Princess Sienna dismounted. He saw them approach the king, and watched as a great display of light lit up the midday sky.</p>
+
+      <p>They had stayed in the rocks by the forest, waiting to be sure that the Kells were far gone, and had planned to retrieve the body of their kind and bury their companions.</p>
+
+      <p>Jivan was first to speak, though he was aware that Talmund was staring in the same direction.</p>
+
+      <p>&#8220;We should intercept.&#8221;</p>
+
+      <p>&#8220;True. What a beauty.&#8221; Talmund replied. Jivan shot him a quizzical glance before throwing his pack over his back and heading down the steep scree.</p>
+
+      <p>As they came within a dozen meters of the unicorn horse, they watched it tumble over. Jivan watched as the princess hurried over to the horse&#8217;s side and cry upon it, and Talmund gazed in awe as the princess&#8217;s hands glowed pink upon the unicorn&#8217;s white hide.</p>
+
+      <p>Jivan took a step forward to approach but Talmund held him back. This was out of character, Jivan thought, and yeh he stayed.</p>
+
+      <p>For several minutes they stood watching. Talmund felt uncomfortable as they were witness to something not meant to be shared. Jivan grew bored, and glanced around the valley identifying places where men might be waiting.</p>
+
+      <p>Eventually the unicorn rose. She looked tired, and her wings were dangling loose at her sides.</p>
+
+      <p>&#8220;Hello.&#8221; The unicorn had seen them and was addressing them!</p>
+
+      <p>&#8220;Why, uh, hello.&#8221; Talmund did not know the proper protocol here.</p>
+
+      <p>Jivan turned to him. &#8220;Are you talking to the horse?&#8221;</p>
+
+      <p>At that the princess turned to him and shouted.</p>
+
+      <p>&#8220;Look at her! She is NOT a horse!&#8221; She then recognized Jivan and her fury raged. &#8220;And you, my father&#8217;s best scout. Do you even have eyes?&#8221;</p>
+
+      <p>Jivan knelt. &#8220;My princess, I see but a horse. What should I witness but this?&#8221;</p>
+
+      <p>Talmund then replied. &#8220;Your highness, forgive him. He cannot see for he cannot comprehend or believe. The unicorn is impossible for his sight.&#8221;</p>
+
+      <p>Jivan made a confused face. &#8220;Unicorn?&#8221;</p>
+
+      <p>Aila walked over to him. She bent her head down to him, and touched her horn gingerly to the man&#8217;s head.</p>
+
+      <p>&#8220;Yes. Unicorn. Do you see me now?&#8221;</p>
+
+      <p>He did. A shroud life from his eyes and he stared in amazement.</p>
+
+      <p>&#8220;Yes, I see you now. Forgive me.&#8221;</p>
+
+      <p>&#8220;I do.&#8221; Aila turned from the man.</p>
+
+      <p>The princess addressed the scribe. &#8220;How is it that you are here? Why are you not dead like these others?&#8221;</p>
+
+      <p>The scribe explained, and described the events leading to the murder of their king. He told of the Kell&#8217;s army and its continued advancement on Rothe. He told of Thedlin&#8217;s retreat to the castle, and of their orders to relay these events in the case of disaster.</p>
+
+      <p>They turned the focus to the immediate, and discussed the king&#8217;s current state. They couldn&#8217;t leave him here. Jivan proposed carrying him home to Rothe on a stretched made of branches, but the princess dismissed the idea.</p>
+
+      <p>&#8220;That will take forever, and the castle will be well under siege by then.&#8221;</p>
+
+      <p>&#8220;We could take him to Lorne, but it is unclear if they have been taken by the Kell&#8217;s themselves. I have heard contrasting reports.&#8221; Jivan trailed off, dispelled.</p>
+
+      <p>Aila chimed in. &#8220;I will return your father to the castle. Bee can care for him.&#8221;</p>
+
+      <p>Sienna stared at her friend. The unicorn was tired and sad, that was evident. But she felt something else in her companion. Despair at the days events had snaked into her core. Sienna feared that the unicorn was offering this service not because she cared, but because she did not.</p>
+
+      <p>&#8220;Aila, no, he cannot hold on and will surely fall.&#8221;</p>
+
+      <p>Aila looked at the king on the ground He was breathing, but barely alive. He had been fighting to protect his people and sacrificed himself. She pawed at the dirt with her hoof, and looked Sienna in the eyes.</p>
+
+      <p>&#8220;Come with us.&#8221;</p>
+
+      <p>&#8220;Aila it will never work.&#8221;</p>
+
+      <p>She paused again and pawed at the ground, digging a short trench in the mud.</p>
+
+      <p>&#8220;Then&#8230; tie him to me.&#8221;</p>
+
+      <p>The princess broke down. &#8220;No, Aila, I won&#8217;t have it!&#8221;</p>
+
+      <p>Jivan and Talmund convinced her that it was the best option. They laid the king upon the unicorn&#8217;s back and tied him there with straps pilfered from the tack of dead horses.</p>
+
+      <p>Aila hated the leather straps. Each one told her stories about the death of the animals they came from, and about their job constricting and controlling horses. The flight home to the castle was miserable, and though she tried, Aila discovered that she was unable to fly super super fast. She feared her magic was waning here in this terrible place. She wanted to be home.</p>
+
+      <p>How was she to get there? The portals were closed. Instead of finding a way home she had immersed herself in the life of a princess and a kingdom under siege. Why was she even here? She had run away from her life back home in what now felt like a childish tantrum. For a moment she lamented that she had not wished for a stallion and a simple life. Her instincts had led her to this deathly place. Why did she react with such vehemence against Osiler&#8217;s ruling that coming here was forbidden? She wondered. She was alone and tired and downtrodden. She did not want to spend one hundred years in this place. That was clear.</p>
+
+      <p>A part of her spirit had fallen asleep, and the exertion of flying super fast did something to wake it. She might not want to be here, but here she was. And all around her people needed her help. Sienna needed her. This king needed her most immediately. Aila wondered why she had been unable to revive him. She had pulled him back from his descent into death&#8217;s empty quarters, but he stayed buried beneath the colorful current of the living. That had never happened before, though she had healed countless animals at home. She wondered if it was because the man was large, but she had restored her friends the bears and moose and even an elephant. The man was nowhere near as big as that kindly beast. But the elephant was simple and this creature was complex. His motivations were many where the animals she had healed in the past were simple and pure. Maybe it took more to revive a creature of mixed intentions.</p>
+
+      <p>No, she concluded. She was just tired. Her magic was waning, and she should conserve it from here on.</p>
+
+      <p>She slowed and continued her flight at a leisurely fast pace. By late afternoon she had reached the castle. Bee came to her, and two men unstrapped the king and took him inside. Bee brought her treats of figs and bread and a bag of grain. There was more hay on the castle rooftop, and Aila ate. As she was finishing up, Bee cleaned her coat with a thick brush that she&#8217;d brought out, and while doing so sang her a quiet song about geese that flew away for the winter and retuned in the spring. Aila liked the song, and she liked Bee.</p>
+
+      <p>When she took flight to rejoin the princess she felt almost renewed.</p>
+
+
       <p></p>
 
       <p></p>
