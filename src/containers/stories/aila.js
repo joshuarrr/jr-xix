@@ -1638,6 +1638,167 @@ export default () => [
       <p>When she took flight to rejoin the princess she felt almost renewed.</p>
 
 
+      <p className="section-title">The March</p>
+
+      <p>Aden watched his note to Sienna burn to char in his bedroom fire. He stared in ire until his thoughts of her abated and the flickering flame was all that remained. He stood, grabbed his sword and headed down to the armory where he met Ren, the wizened sword master.</p>
+
+      <p>&#8220;Here to spar, young prince?&#8221; He asked as he finished rubbing oil into a broad red leather sheath.</p>
+
+      <p>&#8220;Aye, if you&#8217;ve time. I spoke with father and heard his plans to march on Rothe in the morn. I&#8217;m to lead the army, though Riles is the true commander.&#8221;</p>
+
+      <p>Ren nodded slowly. &#8220;Aye, I&#8217;ve heard. Come.&#8221;</p>
+
+      <p>They went out a set of arched gates to the practice yard, and drew swords. They went about a series of easy maneuvers, and Ren checked the young prince several times. Aden was an adept swordsman. It was his primary activity, and he had learned from the best masters in the land. Unlike his poetry or drawings, his father endorsed his training, and had even conscripted great warriors from other lands to come practice with him. Aden, though young, had developed a strong and agile body and style to his art, and could rightfully be considered a master of much of his craft. But today Ren was having little trouble thwarting his attacks.</p>
+
+      <p>&#8220;You are projecting.&#8221; He called.</p>
+
+      <p>Aden let his sword tip down, and it touched the ground. &#8220;Ren, it isn&#8217;t fair. I still love her.&#8221;</p>
+
+      <p>Ren made a slow but serious top down attack that forced the young prince&#8217;s sword back up to protect his head.</p>
+
+      <p>&#8220;It&#8217;s not. That is why we fight.&#8221;</p>
+
+      <p>The clashed together then, and Aden let out a fury of angry attacks that Ren handily defended.</p>
+
+      <p>&#8220;Boy, what is this?&#8221;</p>
+
+      <p>Aden ignored him and continued bashing at him with his sword. Raglan grew tired of the onslaught and deftly swept the boy&#8217;s foot from beneath him and kicked the sword from the prince&#8217;s hand; the tip of his own he placed firmly against Aden&#8217;s neck.</p>
+
+      <p>&#8220;You now find yourself defenseless and prone to my will. With a twitch of a muscle your throat would be open. Your anger led you here, Aden. One day, and soon I hope, you will learn to use your emotions to further your intent instead of letting them negate it.&#8221;</p>
+
+      <p>He helped the young man to his feet, and they finished fighting for the day.</p>
+
+      <p>&#8220;You are wise, Ren. However, I believe my true obstacle is understanding my intentions in the first place.&#8221;</p>
+
+      <p>&#8220;Aye, but you&#8217;ll have to discover that on your own, my Prince.&#8221;</p>
+
+      <p>Aden returned to his quarters. He had his squire make preparations, and in the morning he departed for Rothe ahead of Aerenthal&#8217;s two thousand man army. Riles and several commanders rode with him, several banner men followed and the main army marched closely behind.</p>
+
+      <p>Aden and Riles shared an animosity for each other that they each understood. They rode in mutual silence. Towards the end of the day&#8217;s ride, Riles informed the prince that they would camp three nights in order to arrive at Rothmew in the morning.</p>
+
+      <p>The prince nodded in assent.</p>
+
+      <p>&#8220;And Prince, you will ride in the rearguard that day.&#8221;</p>
+
+      <p>At this Aden prickled. &#8220;No, that I will not do. I was ordered to lead the men, and I that I will do.&#8221;</p>
+
+      <p>Riles scoffed. &#8220;I command this army, Prince, and you&#8217;ll follow.&#8221;</p>
+
+      <p>Aden abruptly rode forward several paces and turned his horse forcing Riles to stop.</p>
+
+      <p>&#8220;You do not command me, Knight. I will ride where it pleases me.&#8221;</p>
+
+      <p>With that, he turned and rode onward.</p>
+
+      
+      <p className="section-title">The Trail</p>
+
+      <p>&#8220;Your Highness, ma&#8217;am,We should clear the field. This is not a safe place to linger.&#8221;</p>
+
+      <p>They had stood deliberating for several minutes. Directly after the unicorn had flown off with the king, the Princess had broken down in sobs. She now knelt on the field in the mud and stared out, as though she had not heard Jivan&#8217;s voice.</p>
+
+      <p>They conferred, and Talmund, the young scribe, made an attempt. He circuited around the princess and knelt in front of her, and he spoke softly, &#8220;Princess Sierra&#8230; We must go.&#8221;</p>
+
+      <p>He extended his arm towards her. &#8220;Come, permit me to help you up?&#8221;</p>
+
+      <p>The princess persisted, her face revealing no indication that she&#8217;d heard. Moments later, however, she stood and started walking towards the eastern slope of the valley where the majority of the battle had taken place.</p>
+
+      <p>&#8220;Ma&#8217;am. This way.&#8221; Jivan offered, and the princess changed angles and follow the pair out to the south, towards the slope of Egris. They reached the trees at the edge of the valley and continues south eastwardly as they could.</p>
+
+      <p>Jivan led them, and Talmund was glad for his directional savviness. He, at Jivan&#8217;s suggestion, walked behind the Princess, and several times when she stopped walking, he comforted her and urged her on. &#8220;It&#8217;ll be all right&#8221;, he&#8217;d say. &#8220;Your father is in good keeping now. Let us push on. We&#8217;ll soon be home. All will be well.&#8221;</p>
+
+      <p>They walked until nightfall. They made a fireless camp, and ate dried meat rations. Jivan and Talmund took turns on watch as the Princess slept in the simple low tent.</p>
+
+      <p>&#8220;It doesn&#8217;t seem real, does it?&#8221;</p>
+
+      <p>Sienna had risen without Talmund noticing, and she startled him out of his sleepless fog as she sat beside him on a log. They looked out over a sylvan vista of pine tree covered hillsides.</p>
+
+      <p>&#8220;What?&#8221; He asked.</p>
+
+      <p>&#8220;The unicorn. Aila. It feels like a dream, now that she&#8217;s gone.&#8221;</p>
+
+      <p>&#8220;It does. But she is real. I felt her, Sienna. Where did you find her?&#8221;</p>
+
+      <p>Talmund realized too late that he had informally called the Princess by name, but she didn&#8217;t take offense. The quietude of the waking forest and Talmund&#8217;s quiet voice comforted her.</p>
+
+      <p>&#8220;She found me. I think she saved my life. I was on the roof of the keep. I was lost. Talmund, I was about to take my life when she came to me from nowhere. No, I don&#8217;t think she saved me, I know she did. And now she&#8217;s saving my father&#8217;s. And I can barely believe in her. I don&#8217;t know why she came here.&#8221;</p>
+
+      <p>There was a moment of silence. In the distance a crow cawed. The wind sounded like a distant river as it blew through the tall conifers that covered them.</p>
+
+      <p>&#8220;I think she is a part of me. That sounds not right as I say it aloud. But we dream together, and she speaks to me using psychic powers. She always wants to help me feel better. I don&#8217;t know why I&#8217;m telling you this. You must think I&#8217;m daft. I think I just want someone to know - someone else to understand. I love her.&#8221;</p>
+
+      <p>Light snow began to fall. Talmund took his time and considered carefully what to say next.</p>
+
+      <p>&#8220;My mother told me childhood stories about the unicorns. Never winged ones, though. I used to love her stories. She told me about magical gates that led to lands of dragons and faeries and nymphs and demons and monsters and deities. But she spoke most often of the unicorns. She talked about them almost elusively; she always seemed to know more than she said. I always thought she was spinning tales from air. Once, after an elaborate yarn about a pair of black unicorns that fought until they became one – I remember this well – I asked her where she learned the stories. And she replied, &#8216;Why Tally, I have visited them.&#8217; And she laughed, never spoke of it again.&#8221;</p>
+
+      <p>The Princess began to shiver. Talmund rose and unfolded a green wool blanked he&#8217;d been sitting on and placed it over her shoulders.</p>
+
+      <p>He continued, &#8220;Incredible as it may be, I wasn&#8217;t all that surprised to see a unicorn yesterday. I never wholeheartedly believed that they truly exist, but now I think I was always meant to see one. I just wish I could tell my mother about this day.&#8221;</p>
+
+      <p>They sat in silence for a long while. The morning light had been dim and colorless but the sun rose now in earnest.</p>
+
+      <p>Jivan rose and joined the pair. Sienna asked, &#8220;How much farther is our journey do you suppose?&#8221;</p>
+
+      <p>&#8220;Another day east should bring us near Klosser if we make good time. We can likely find an inn and horses there - I doubt the Kells will travel south this far. From there it&#8217;s another two days to Rothe.&#8221;</p>
+
+      <p>They made tea over a small fire, and warmed up before setting off through the woods.</p>
+
+      
+      <p className="section-title">The River</p>
+
+      <p>Aila&#8217;s elevated mood lasted through the first half of her return journey. It was a beautiful sunny day, and she found a spot several tree lengths above the ground where the wind supported her weight and made flying almost effortless. The flight was meditative and her head was clear, though she was eager to find her companions.</p>
+
+      <p>She looked forward to catching up with Sienna and her new friends Jivan and Talmund. Her initial impressions of the two were mixed. Jivan had first struck her as ignorant, but he proved himself adaptable. Aila felt confidence and concern from him, but she understood him to be concerned for the safety of the group out of a perfunctory sense of obligation and diligence rather than out of personalized concern. Similar to her friend the hawk, he was constantly aware of his surroundings and assessing risks. Talmund, on the other hoof, was sensitive and quiet. Aila felt an immediate kinship with the young man. He was concerned with their safety as individuals; he&#8217;d hated the task of strapping the king to her back and had tried his best to comfort her. Aila was learning that concern for the welfare of others was a nuanced thing amongst people; not all humans cared for others. Some, however, were genuinely kind.</p>
+
+      <p>She traveled above the path of the road below to the west. Below, she saw a large body of men walking Eastward. She contemplated them, and remembering what Talmund had said concluded that this must be Thedlin and the Rothian troops heading back to Rothe. They would be home soon, this was good to see! She flew higher to avoid their attention, nonetheless.</p>
+
+      <p>Encouraged to see the army below, and eager to see Sienna, she motioned to go into super fast speed, but found she could not. She flapped her wings super fast, but she did not magically accelerate as she expected. Nervous, she abandoned her super speed efforts and returned to her previous pace. As she progressed, she found herself tiring. Flying was becoming exceedingly difficult. Shortly thereafter she noticed that she was descending without intending it. And soon she had landed, unable to fly.</p>
+
+      <p>She was scared – a feeling she was growing familiar with these days. What would she do? If she couldn&#8217;t fly, how was she going to get back to Sienna?</p>
+
+      <p>Her wings were sore, and their physicality distracted the unicorn from her flightless plight. She walked off the road to the south and heard the distant white noise of a river. A drink would be nice.</p>
+
+      <p>She made her way down a tricky slope and through a small thicket to the rocky edge of the clear river and drank. The water was cold and revitalizing. The sun beat on her back and the combination of the cool water and hot sun put a natural spell on her. At peace, enjoying the sensations of the natural world, she dozed for a moment.</p>
+
+      <p>She dreamt briefly of her home, where she met Liba. She was furious with her. <em>&#8216;Where are you, Aila? We&#8217;re all worried and searching for you.&#8217;</em> Aila woke before she could explain, and was left standing by the river in the sun.</p>
+
+      <p>She stretched her legs and back before making her way back up the hillside to the road. As she neared the road she froze, for she heard men&#8217;s quiet voices. She soon saw two men in black heading down the path, and a sense of dread came over her. These men matched her memory of those on the field. They must be Kells.</p>
+
+      <p>Her her heart beat faster as she considered options. She decided to reverse her course and head back towards the river. She leapt into action and took several strides before hearing the sound of arrows.</p>
+
+      <p>Pffffft!</p>
+
+      <p>Intense pain coursed through her rear leg. She dispelled the arrow and her leg healed quickly, but it scared her. She flapped her wings and jumped; her wings gave her lift but not flight and she violently made her way down to the river&#8217;s edge.</p>
+
+      <p>Pfft!
+      Pfffft!</p>
+
+      <p>The river was wide and the current deep and strong – it was wider than she could cross safely. She turned to the west and ran.</p>
+
+      <p>Pfft!</p>
+
+      <p>She pounded through the small stones at the edge of the river until brush forced her back up the slope, and found a small trail.</p>
+
+      <p>Pffffft!</p>
+
+      <p>She breezed past a series of pines and shrubs, and leapt over a log and through a dense patch of ivy.</p>
+
+      <p>Pfft!</p>
+
+      <p>The pines gave way to a patch of reeds and grass, and Aila emerged at a full gallop. She found herself face to face with the bulk of the Kellian army. Hundreds of men who had been milling about and resting suddenly became alert. Aila froze.</p>
+
+      <p>&#8220;Get her!&#8221; Men from the forest yelled. &#8220;It can&#8217;t fly!&#8221;</p>
+
+      <p>Dozens of men facing her drew their long knives. One man had a rope nearby and he grabbed it and ran wide to her flank. They rushed into a semi-circular formation around Aila&#8217;s sides and whichever way she turned to flee they had blocked. She heard the men behind her yelling from the forest. She reared on her back legs and flapped her wings, both trying to fly and intimidate the men. But she could do neither thing.</p>
+
+      <p>Standing tall above the men like that, she finally saw how many there were. Not hundreds, but thousands. Those currently challenging her were but a small contingent of the greater force. And she saw that the men were circling her, and growing denser. She had thought she knew fear but now she understood that the root of fear was mortality. In all her life, she had never considered that it might one day end. Here she was now, facing that reality unwillingly.</p>
+
+      <p>&#8220;I am Aila! The Winged Unicorn! I am free!&#8221; Aila bellowed. She pawed at the sky, and spread her wings in a final display as she summoned all her strength.</p>
+
+      <p>Aila, glowing pink with trails of magic vapor drifting off her body in every direction, slammed her front feet down into the ground and erupted. An intense pink globe of magical energy spread out from her and men flew away in every direction. The explosion was instantaneous and silence followed. And for Aila, darkness; the spell had consumed her last ounce of magic, and she collapsed.</p>
+
+      <p>&#8230;</p>
+
       <p></p>
 
       <p></p>
