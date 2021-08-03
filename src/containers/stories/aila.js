@@ -337,7 +337,7 @@ export default () => [
       
       <p className="section-title">The Flight</p>
       
-      <p>Aila grazed nearby until dawn – that mystical hour before the day had awoken. The grass here was good and substantial, but minty, and Aila had never particularly cared for mint. She grazed, and while restoring her mother&#8217;s depleted magical energy had calmed her, she was still at odds with herself. Why on Earth had she made such an impetuous wish? Why, not even Liba had done anything this crazy, and everyone always said she was the impish one. Well, it appears she was the wild one now. Wings! What stallion would ever want a mare with <em>wings</em>!? What of her friends? Would they treat her differently now? No, what a silly question. <em>Of course they would.</em> This was distressing.</p>
+      <p>Aila grazed nearby until dawn – that mystical hour before the day had awoken. The grass here was good and substantial but minty. Aila had never particularly cared for mint. She grazed, and while restoring her mother&#8217;s depleted magical energy had calmed her, she was still at odds with herself. Why on Earth had she made such an impetuous wish? Why, not even Liba had done anything this crazy, and everyone always said she was the impish one. Well, it appears she was the wild one now. Wings! What stallion would ever want a mare with <em>wings</em>!? What of her friends? Would they treat her differently now? No, what a silly question. <em>Of course they would.</em> This was distressing.</p>
       
       <p>&#8220;I am distressed!&#8221; Aila realized.</p>
       
