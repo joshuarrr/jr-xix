@@ -1,27 +1,15 @@
 
-import universal, { setHasBabelPlugin } from '/Users/joshuar/Projects/jr-xix/node_modules/react-universal-component/dist/index.js'
 
 
-setHasBabelPlugin()
-
-const universalOptions = {
-  loading: () => null,
-  error: props => {
-    console.error(props.error);
-    return <div>An error occurred loading this page's template. More information is available in the console.</div>;
-  },
-}
-
-const t_0 = universal(import('../src/containers/404'), universalOptions)
-const t_1 = universal(import('../src/containers/design'), universalOptions)
-const t_2 = universal(import('../src/containers/design/hilights'), universalOptions)
-const t_3 = universal(import('../src/containers/design/lumen'), universalOptions)
-const t_4 = universal(import('../src/containers/design/idealist'), universalOptions)
-const t_5 = universal(import('../src/containers/code'), universalOptions)
-const t_6 = universal(import('../src/containers/about'), universalOptions)
-const t_7 = universal(import('../src/containers/stories'), universalOptions)
-const t_8 = universal(import('../src/containers/stories/aila.js'), universalOptions)
-
+import t_0 from '../src/containers/404'
+import t_1 from '../src/containers/design'
+import t_2 from '../src/containers/design/hilights'
+import t_3 from '../src/containers/design/lumen'
+import t_4 from '../src/containers/design/idealist'
+import t_5 from '../src/containers/code'
+import t_6 from '../src/containers/about'
+import t_7 from '../src/containers/stories'
+import t_8 from '../src/containers/stories/aila.js'
 
 // Template Map
 export default {
